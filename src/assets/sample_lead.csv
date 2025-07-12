@@ -1,0 +1,23 @@
+S.no.,Date(DD/MM/YYYY),Name,Mobile No,Email ID,category,Age,Budget in Lakhs,Requirement,Current Home Ownership,Location,,,,
+1,1/12/2013,Shree Hari ,9322000025,atshreeraj@gmail.com,10,30-35,80,1 BHK,Own,Thane,,,,
+3,1/12/2013,Sandeep Pelawan,9967301999,sam4arts@gmail.com,3,30-35,90,2 BHK,Own,Thane,,,,
+4,3/12/2013,Rajendra Sawardekar,9930065765,sample1@gmail.com,4,36-40,150,2 BHK,Own,Thane,,,,
+5,1/12/2013,Saraswati Subramanian,9819886779,sample2@gmail.com,4,41-50,90,2 BHK,Own,Ghatkopar,,,,
+1,1/12/2013,Shree vijay,9322123325,atshreeraj@gmail.com,6,30-35,80,1 BHK,Own,Thane,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,category ID,
+,,,,,,,,,,,,,1,General (GP)
+,,,,,,,,,,,,,2,Scheduled caste (SC)
+,,,,,,,,,,,,,3,Scheduled Tribes (ST)
+,,,,,,,,,,,,,4,Nomadic tribes (NT)
+,,,,,,,,,,,,,5,Denotified Tribes (DT)
+,,,,,,,,,,,,,6,Religious Minorities
+,,,,,,,,,,,,,7,State Goverment Employees
+,,,,,,,,,,,,,8,Journalists of Maharashtra
+,,,,,,,,,,,,,9,CIDCO Employees
+,,,,,,,,,,,,,10,PAP (Project Affected Person From Maharashtra)
+,,,,,,,,,,,,,11,Divyang/Handicapped person
+,,,,,,,,,,,,,12,Ex-Servicemen/Defence Personal
+,,,,,,,,,,,,,13,Mathadi Kamgar
