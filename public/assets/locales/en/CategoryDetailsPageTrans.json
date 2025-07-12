@@ -1,0 +1,147 @@
+{
+  "categoryForm": {
+    "title": "Select Category",
+    "title2":"Category Details",
+    "categoryAlertTxt": "Application Fee has been already paid. You cannot edit your Category.",
+    "castCategoryForm": {
+      "otherStatus": "Enter your employment status",
+      "formControl": {
+        "caste": {
+          "casteLabel": "Category",
+          "requiredLabel": "Mandatory",
+          "noneBelowLavel":"None of Below",
+          "options": {
+            "general": "General (GP)",
+            "sc": "Schedule Cast (SC)",
+            "st": "Schedule Tribes (ST)",
+            "nt": "Nomadic Tribes (NT)",
+            "dt": "Denotified Tribes (DT)"
+          },
+          "casteCategoryErrors": {
+            "required": "Category is required"
+          }
+        },
+        "reservation": {
+          "reservationLabel": "Reservation Category",
+          "requiredLabel":"Optional",
+          "options": {
+            "stateGovernmentEmployee": "State Government Employees",
+            "jounalistOfNaviMumbai": "Journalist of Navi Mumbai",
+            "cIDCOEmployees": "CIDCO Employees",
+            "projectAffectedPerson": "Project Affected Person of Navi Mumbai Area",
+            "physicallyHandicap": "Physically Disabled",
+            "exServiceMen": "Ex Servicemen/Defence Personnel",
+            "mathadi": "Mathadi kamghar working in markets in Navi Mumbai"
+          },
+          "resevationCategoryErrors": {
+            "required": "Resevation Category is required"
+          }
+        },
+        "statutoryCatTxt": "Statutory Categories",
+        "notStatutoryCatTxt": "Non-Statutory Categories",
+        "categoryHeading": "Categories",
+        "flatCountHeading": "Available Flat Count",
+        "applicableReligion": "Followed Religion Applicable:",
+        "categoriesTitle": "Categories",
+        "availFlatCountTxt": "Available Flat Count",
+        "selectReligion": "Select Your religion",
+        "selectlocation": "Select Location",
+        "selectMilitaryType": "Select Service Type",
+        "religion": {
+          "Muslims" : "Muslims",
+          "Christians" : "Christians",
+          "Zoroastrians" : "Zoroastrians",
+          "Buddhist" : "Buddhist",
+          "Jain" : "Jain",
+          "Sikhs" : "Sikhs"
+        },
+        "submitBtn": "Next",
+        "savingText": "In progress..."
+      },
+      "multipleCategoryMessage": "Applying for multiple category?",
+      "multipleCategoryDescription0": "A separate application will be generated for each category applied",
+      "multipleCategoryDescription1": "You will be charged separately for each application, depending upon the category",
+      "clickTxt": "Click Here",
+      "documentlistTxt":"to check your list of documents required.",
+      "acknowledgeContent":"Note: ",
+      "acknowledgeLabel":"Please Acknowledge",
+      "acknowledgeErrors": {
+        "required": "Kindly acknowledge that you will produce the required documents."
+      }
+    }
+  },
+  "helpCenterTxt":{
+      "helpTxt": "For documentation help",
+      "helpClickTxt": "Click Here",
+      "kendralistTxt": "to visit Aaple Sarkar Kendra list."
+  },
+  "incomeGroupForm": {
+    "title": "Income details",
+    "familyIncome": "Selected Family Income",
+    "incomeForm": {
+      "formControl": {
+        "occupation": {
+          "occupationLabel": "Occupation",
+          "options": {
+            "agriculture": "Agriculture",
+            "business": "Business",
+            "selfEmployed": "Self-Employed",
+            "service": "Service",
+            "other": "Other"
+          },
+          "occupationErrors": {
+            "required": "Occupation is required"
+          }
+        },
+        "employment": {
+          "employementLabel": "Employment Status",
+          "options": {
+            "selfEmployed": "Self Employed",
+            "salaried": "Salaried",
+            "regularWage": "Daily Wage",
+            "labour": "Labour",
+            "other": "Other"
+          },
+          "employmentStatusErrors": {
+            "required": "Employment Status is required"
+          },
+          "charactersNotAllowed": "Special characters not allowed"
+        },
+        "familyincomeInputLabel": "Average Monthly Family Income",
+        "familyincomePlaceholder": "Average Monthly Family Income",
+        "familyincomeErrors": {
+          "required": "Family income is required",
+          "limitation": "Invalid income",
+          "errorMessage1": "Average Family Income should be Upto ₹ 25,000",
+          "errorMessage2": "Average Family Income should be ₹ 50,001 To ₹ 75,000",
+          "errorMessage3": "Average Family Income should be Above ₹ 25,000"
+        },
+        "isITR": {
+          "isITRLabel": "Is ITR file?",
+          "checkBoxLabel0": "Yes",
+          "checkBoxLabel1": "No",
+          "isITRErrors": {
+            "required": "Required"
+          }
+        },
+        "incomeMessage": "Income Group:",
+        "incomeDescription": "Average Monthly income of applicant's family (family means only husband and wife) from all the sources during the previous 12 month (enter average salary per month only) as given in information booklet"
+      }
+    }
+  },
+  "completeLaterButtonText": "COMPLETE LATER",
+  "backButtonText": "BACK",
+  "saveButtonText": "Save and NEXT",
+  "ccConfirmTitle" : "Confirm Category Change",
+  "makePaymentBtn": "Proceed",
+  "ccConfirmDesc" : "You are attempting to change your previously selected category, by doing so all your previously uploaded documents ( if any ) will be removed & you will need to upload the documents again as per newely selected category.Also you will need to repay the Application Fee (if previously paid).",
+  "confirmChangeText" : "Confirm Change with OTP",
+  "confirmChangeNote" : "Are you sure you want to change existing selected category?",
+  "sendOtpText": "An OTP has been sent to your registered mobile number",
+  "enterOtpText": "Enter OTP",
+  "sec": "seconds",
+  "submitBtn": "Submit",
+  "cancelBtn": "Cancel",
+  "resendOtpText": "Resend OTP in",
+  "otpReqText": "OTP is required"
+}

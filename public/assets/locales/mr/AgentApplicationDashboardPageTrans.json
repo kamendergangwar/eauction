@@ -1,0 +1,33 @@
+{
+  "tabs": {
+    "item1": "सर्व अर्ज",
+    "item2": "प्रगतीपथावर",
+    "item3": "पूर्ण",
+    "item4": "नाकारले"
+  },
+  "filterSection": {
+    "filterTitle": "द्वारे फिल्टर करा",
+    "searchLabel": "अर्जदार शोधा",
+    "categoryLabel": "श्रेणी",
+    "projectLabel": "प्रकल्प",
+    "statusLabel": "स्थिती",
+    "filterBtnText": "अर्ज करा",
+    "clearBtnText": "फिल्टर साफ करा"
+  },
+  "cardViewLabels": {
+    "apnNoLabel": "APN क्रमांक",
+    "aadhaarLabel": "आधार",
+    "projectLabel": "प्रकल्प",
+    "categoryLabel": "श्रेणी",
+    "inProgresslabel": "प्रगतीपथावर",
+    "progressStatusText": {
+      "step1": "वैयक्तिक माहिती",
+      "step2": "श्रेणी तपशील",
+      "step3": "KYC कागदपत्रे अपलोड करा",
+      "step4": "देयक भरा"
+    }
+  },
+  "firstLineErrorMsg": "आपण अद्याप कोणत्याही प्रकल्पांसाठी अर्ज केलेला नाही.",
+  "secondLineErrorMsg": "आजच अर्ज भरुन प्रारंभ करा",
+  "actionButtonText": "प्रकल्प पहा"
+}

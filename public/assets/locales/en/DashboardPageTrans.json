@@ -1,0 +1,409 @@
+{
+  "dashboard": {
+    "titleTxt1": "Hi",
+    "titleTxt2": "your dream Plot is now a Reality",
+    "latestUpdatesTitleTxt": "Latest Updates",
+    "recentPostTitleTxt": "Recent Post",
+    "myApplicationTxt": "My Application",
+    "trackAppTxt": "Track your complete Application Progress",
+    "lastUpdateTxt": "Last Update On :",
+    "ageTxt": "Age",
+    "maleTxt": "Male",
+    "femaleTxt": "Female",
+    "completedTxt": "Completed",
+    "inProgressTxt": "In Progress",
+    "goToProfileBtn": "Go To My Profile",
+    "rejectedDocTxt": "Some of your document is rejected. Please Re-Upload ",
+    "docVerificationProgressTxt": "Document Verification Status (In progress)",
+    "docVerificationUnderVerificationTxt": "Your documents are currently under verification, and this process takes upto 7 days to complete.",
+    "docVerifiedCompleteTxt": "Congratulations. Your document verification is completed.",
+    "contiToBookFlatTxt": "Please continue with booking.",
+    "redirectionBtnTxt": {
+      "signUp": "Sign Up",
+      "completeKyc": "Complete Your KYC",
+      "personalDetail": "Add Personal Details",
+      "addCoApplicant": "Add Co-Applicant",
+      "addCategory": "Add Category Details",
+      "uploadDoc": "Upload Your Documents",
+      "appPayment": "Pay Application Fee",
+      "bookFlat": "Book Your Flat",
+      "flatPayment": "Pay Flat Booking Amount",
+      "myProfile": "Go To My Profile"
+    }
+  },
+  "importantDates": {
+    "title": "Important Dates",
+    "readMore": "Read More"
+  },
+  "topNews": {
+    "readMore": "Read More"
+  },
+  "banner1": {
+    "title": "Hi there!",
+    "category": "New",
+    "subTitle": "Your Registration for projects applied on Nov 02, 2021 is completed.",
+    "link": "Click Here to Upload Documents",
+    "btnText": "Book Now"
+  },
+  "banner2": {
+    "title": "Hi there!",
+    "category": "New",
+    "subTitle": "Your letter of allotment is ready, book an appointment to receive the letter.",
+    "btnText": "Book Now"
+  },
+  "banner3": {
+    "title": "Congratulation on your flat booking",
+    "subTitle": "Book an Appointment to verify your Original documents, Click on ‘Book Now’ to book an Appointment.",
+    "btnText": "Book Now"
+  },
+  "banner5": {
+    "title": "Unfortunately, you’ve lost!",
+    "category": "Refund to be initiated",
+    "subTitle1": "You can try again for the next scheme",
+    "subTitle2": "The refundable Registration Fee amount will be refunded to your account in 10 to 15 business days"
+  },
+  "banner6": {
+    "tittle": "Registration Closed.",
+    "subTitle1": "Your opportunity to submit a lottery application for the PMAY Scheme 2023 is now closed.",
+    "subTitle2": " Visit our website to learn about upcoming schemes for 2023,",
+    "subTitle3": "Learn More."
+  },
+  "notifications": {
+    "title": "Notification",
+    "viewAll": "View All",
+    "noData": "No notifications yet. When you get notifications, they will show up here",
+    "todayLabel": "Today",
+    "earlierLabel": "Earlier"
+  },
+  "userProjects": {
+    "applied": {
+      "title": "My Application",
+      "applyNewProjectBtnTxt": "Apply For New Project",
+      "editDocumentsBtnTxt": "Edit Documents",
+      "goUploadDocumentsBtnTxt": "Go to Upload Documents",
+      "uploadDocsPendingStatusTxt": "Upload Documents still pending",
+      "projectAppNoLabel": "Appl. No.",
+      "requiredDocumentCountLabel": "Uploaded Documents",
+      "applicationStatusValTxt": {
+        "saved": "saved",
+        "completed": "completed",
+        "rejected": "rejected",
+        "verified": "verified",
+        "winner": "Booked",
+        "waiting": "waiting",
+        "lost": "lost",
+        "delete": "delete",
+        "Refunded": "Refunded",
+        "RefundInitiated": "Refund Initiated",
+        "InProgress": "In Progress",
+        "Progress": "In Progress",
+        "NotStarted": "Not Started"
+      },
+      "appliedCatLabel": "Category Applied",
+      "viewAppBtnText": "View Application",
+      "uploadDocumentBtnText": "Upload Document",
+      "paymentPendingStatusTxt": "Payment Pending",
+      "continuePaymentBtnTxt": "Proceed to Pay",
+      "downloadEchallanBtn": "Download E-Challan",
+      "orTxt": "OR"
+    },
+    "saved": {
+      "title": "My Booking Details",
+      "titleHelpText": "You can start filling a New Application once your Current Application is Completed.",
+      "noDataHelpText": "Click on ‘Start Applying’ to start filling the application Form",
+      "noDataStartApplyBtnTxt": "Start Applying",
+      "lastUpatedDateLabel": "Last Updated on",
+      "appStatusLabel": "Application Status",
+      "progressStatusText": {
+        "completed": "completed",
+        "pending": "pending"
+      },
+      "applyNewBtnText": "Apply New",
+      "prcdToCompleteBtnTxt": "Proceed to Complete",
+      "mainStepperSection": {
+        "step1": "Personal Details",
+        "step2": "Select Category",
+        "step3": "Document Declaration",
+        "step4": "Make Payment"
+      }
+    },
+    "projectSatus": {
+      "step1": {
+        "label0": "Personal",
+        "label1": "Details"
+      },
+      "step2": {
+        "label0": "Category",
+        "label1": "Details"
+      },
+      "step3": {
+        "label0": "Document",
+        "label1": "Declaration"
+      },
+      "step4": {
+        "label0": "Make",
+        "label1": "Payment"
+      },
+      "step5": {
+        "label0": "Upload",
+        "label1": "Document"
+      }
+    },
+    "grievance": {
+      "title": "My Grievance"
+    }
+  },
+  "grievanceForm": {
+    "title": "Grievance Form",
+    "homeSection": {
+      "text1": "Facing Issues? We are Happy to Assist You!",
+      "text2": "Click ‘Raise My Grievance’ to proceed.",
+      "raiseMyGrievanceBtnTxt": "Raise My Grievance",
+      "orTxt": "OR",
+      "trackMyGrievanceBtnTxt": "Track My Grievance",
+      "noDataErrorMsgTxt": "You have not raised any grievances yet!",
+      "userInfoText": "You can raise a grievance, if you have a concern, problem or complaint.",
+      "userNoteText": "For any technical issues/queries while filing the grievance on the portal please contact the helpline 1800 120 8040."
+    },
+    "formControl": {
+      "title": "Grievance From",
+      "fullNameLabel": "Full Name",
+      "fullNamePlaceholder": "Enter Your Full Name",
+      "fullNameErrors": {
+        "required": "Full Name is Required"
+      },
+      "emailIdLabel": "Email",
+      "emailIdPlaceholder": "Enter Your Email ID",
+      "emailIdErrors": {
+        "required": "Email ID is Required",
+        "limitation": "Please enter a valid email address"
+      },
+      "mobileNumberLabel": "Mobile Number",
+      "mobileNumberPlaceholder": "Enter Your Mobile Number",
+      "mobileNumberErrors": {
+        "required": "Mobile number is required",
+        "limitation": "Please enter a valid mobile number"
+      },
+      "grievanceCategoryLabel": "Grievance type",
+      "grievanceCategoryErrors": {
+        "required": "Grievance Type is Required"
+      },
+      "grievanceTypeLabel": "Grievance Category",
+      "grievanceTypeErrors": {
+        "required": "Grievance Sub Type is Required"
+      },
+      "grievanceDescriptionLabel": "Describe Your Issue",
+      "grievanceDescriptionPlaceholder": "Please provide a detailed information.",
+      "grievanceDescriptionErrors": {
+        "required": "Grievance Description is Required"
+      },
+      "UploadImage": "Upload Image",
+      "uploadButtonText": "Upload",
+      "reUploadButtonText": "Re-Upload",
+      "fileUploadDescription": "or Drag & Drop image",
+      "fileUploadConditionsText": "Only .Jpg, .Jpeg, .PDF Formats Supported and Max file size : 5 Mb",
+      "uploadErrors": {
+        "required": "File is required",
+        "limitation": "File too large",
+        "fileFormat": "Unsupported Format"
+      },
+      "submitButtonText": "Next",
+      "backButtonText": "Back",
+      "charactersNotAllowed": "Special characters not allowed"
+    },
+    "step1Info": {
+      "title": "How to Raise Your Grievance?",
+      "step1": "Click on 'Register New Grievance'.",
+      "step2": "Select your Grievance category and Type",
+      "step3": "Upload a photo of the issue if applicable for our better understanding",
+      "step4": "Sit back and we will resolve your issue or connect with you to solve it withing 24 hours."
+    },
+    "step2nfo": {
+      "title": "Upload Image",
+      "questionText": "How to Upload Image for Grievance?",
+      "step1": "Click on 'Upload' to attach an image or document.",
+      "step2": "The document uploaded can be of jpg/pdf/png format.",
+      "step3": "Maximum File size allowed 5 MB."
+    },
+    "thankYouForm": {
+      "thankYouText": "Thank you!",
+      "subText": "Your Grievance",
+      "subText1": "has been Recorded",
+      "grievanceNumberLabel": "Grievance Number",
+      "grievanceNumberPlaceholder": "Grievance Number",
+      "grievanceNumberErrors": {
+        "required": "Grievance number is required"
+      },
+      "trackButtonText": "Track My Grievance",
+      "newGrevianceButtonText": "Raise new Greviance"
+    }
+  },
+  "trackGrievanceTable": {
+    "title": "Track Grievance",
+    "raiseNewGrievanceBtnTxt": "Raise New Grievance",
+    "filterSection": {
+      "searchByUniqueNumberLabel": "Search by Unique Grievance Number",
+      "grievanceTypeLabel": "Grievance Type",
+      "grievanceStatusLabel": "Grievance Status"
+    },
+    "table": {
+      "tableTh0": "Grievance No.",
+      "tableTh1": "Grievance Type",
+      "tableTh2": "Reg. Date",
+      "tableTh3": "Status",
+      "tableTh4": "Remarks",
+      "tableTh5": "View"
+    },
+    "actionBtnTxt": "View"
+  },
+  "grievanceTabDefaultSection": {
+    "firstLineErrorMsg": "You haven’t raised any grievances yet.",
+    "secondLineErrorMsg": "Raise new by filling the grievance form.",
+    "actionButtonText": "RAISE NEW Grievance"
+  },
+  "appliedSavedTabDefaultSection": {
+    "firstLineErrorMsg": "You haven’t applied for any projects yet.",
+    "secondLineErrorMsg": "Start by filling the application form today",
+    "actionButtonText": "View Projects"
+  },
+  "grievanceDetailsSection": {
+    "title": "Grievance Details",
+    "commentTitle": "Comment",
+    "grievanceStatusTxt": "In Progress",
+    "formControl": {
+      "fullNameLabel": "Full Name",
+      "emailLabel": "Email",
+      "mobileNumberLabel": "Mobile Number",
+      "grievanceCategoryLabel": "Grievance Type",
+      "grievanceTypeLabel": "Grievance Sub Type",
+      "grievanceDescriptionLabel": "Grievance Description",
+      "clickToOpenBtnTxt": "Click to Open"
+    },
+    "commentSectionForm": {
+      "addCommentPlaceholder": "Add a Comment",
+      "postBtnTxt": "Post",
+      "markAsResolvedBtnTxt": "Mark AS Resolved"
+    }
+  },
+  "userjourney": {
+    "stepper": {
+      "stage1": {
+        "title": "1",
+        "ApplicantSignUp": "Applicant Sign Up",
+        "AadhaarCard": "Aadhaar Card",
+        "PanCard": "PAN Card"
+      },
+      "stage2": {
+        "title": "2",
+        "Personaldetails": "Personal details",
+        "Addapplicant": "Add Co-Applicant",
+        "CategoryDetails": "Category Details"
+      },
+      "stage3": {
+        "title": "3",
+        "DocumentsUpload": "Upload Documents",
+        "Applicationpayment": "Application Fee",
+        "DocumentVerification": "Document Verification"
+      },
+      "stage4": {
+        "title": "4",
+        "DocumentVerification": "Select Flat",
+        "FlatPayment": "Booking Fee",
+        "LOIGeneration": "LOI Generation"
+      },
+      "stage5": {
+        "title": "5",
+        "AllotmentLetter": "Allotment Letter",
+        "NOC": "NOC",
+        "EMIs": "Installments"
+      }
+    },
+    "ApplicantSignup": {
+      "title": "Applicant Sign up",
+      "ApplicantID": "Applicant ID",
+      "CreatedOn": "Account Created On",
+      "AadhaarLabel": "Aadhaar Number",
+      "PANLabel": "PAN Number",
+      "AaadharVerified": "Aaadhar Verified"
+    },
+    "ApplicantDetails": {
+      "title": "Applicant Details",
+      "FirstName": "First Applicant",
+      "ContactDetails": "Contact Details",
+      "CategoryLabel": "Category",
+      "CoApplicant": "Co-Applicant",
+      "pmayLablel": "(PMAY)",
+      "nonPmayLabel": "(Non-PMAY)"
+    },
+    "DocumentVerification": {
+      "title": "Document Verification",
+      "DocumentLabel": "Document Uploaded",
+      "UploadBtn": "Upload",
+      "ApplicationFee": "Application Fee Received",
+      "reason": "Reason :",
+      "DownloadReceipt": "Download Receipt",
+      "docUploadTxt": "Document Uploaded",
+      "EditTxt": "Edit",
+      "UploadTxt": "Upload",
+      "reuploadedTxt" : "Document Re-Uploaded Successfully"
+    },
+    "FlatBooking": {
+      "title": "Book your Home",
+      "BookedFlat": "Booked Flat",
+      "BookedLabel": "Booked",
+      "UnitNoLabel": "Unit No",
+      "selectedFlatLabel": "Selected Flat",
+      "FloorNo": "Floor No",
+      "RERAArea": "RERA Carpet Area",
+      "unitTypeLabel": "Type",
+      "unitPriceLabel": "Price",
+      "SQFT": "SQFT",
+      "TowerNo": "Tower No.",
+      "Tower": "Tower",
+      "FlatAmountLabel": "Booking Amount",
+      "ReceivedLabel": "Received",
+      "TXNId": "TXN Id",
+      "Date": "Date",
+      "BookingAmount": "Booking Amount:",
+      "DownloadappBtn": "Download Application",
+      "DownloadRecBtn": "Download Receipt",
+      "MyTransactions": "My Transactions",
+      "LetterIntent": "Letter Of Intent",
+      "GeneratedLabel": "Generated",
+      "LOIGeneratProgress": "The Letter of Intent (LOI) is in process.",
+      "LOIGenerated": "Your Letter Of Intent (LOI) is Generated.",
+      "DownloadLOI": "Download LOI",
+      "EditPreferences": "Edit Preferences",
+      "MakePayment": "Make Payment",
+      "PayAmount": "Pay Booking Amount",
+      "Close": "Close"
+    },
+    "emailUpdate": {
+      "emailInputLabel": "New Email Address",
+      "emailPlaceholder": "Enter New email address",
+      "cnfemailInputLabel": "Confirm Email Address",
+      "cnfemailPlaceholder": "Confirm email address",
+      "emailErrors": {
+        "limitation": "Please enter a valid email address",
+        "required": "Email Address is required"
+      }
+    },
+    "AllotmentLetter": {
+      "tittle": "Allotment & Installments",
+      "AllotmentLetter": "Allotment Letter",
+      "AllotmentDesc": "The Allotment Letter is in process."
+    },
+    "edit": "Edit",
+    "ReUpload": "Re-Upload",
+    "BookedLabel": "Booked",
+    "ApplNoLbl": "Application No.",
+    "ReceivedLabel": "Received",
+    "GeneratedLabel": "Generated",
+    "inProgressLabel": "In Progress",
+    "NotOpted": "Not Opted",
+    "bookingMsg": "In case Booking amount is not paid before",
+    "bookingMsg1": "blocked flat will be released for other customers.",
+    "timeValidTxt1": "In case Booking amount is not paid before",
+    "timeValidTxt2": "flat selected below will be released for others"
+  }
+}

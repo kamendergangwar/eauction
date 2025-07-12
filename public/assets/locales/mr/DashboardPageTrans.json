@@ -1,0 +1,405 @@
+{
+  "dashboard": {
+    "titleTxt1": "",
+    "titleTxt2": "तुमच्या स्वप्नातील घरासाठी सज्ज व्हा",
+    "latestUpdatesTitleTxt": "नवीन अपडेट्स",
+    "recentPostTitleTxt": "अलीकडील/रिसेन्ट पोस्ट",
+    "myApplicationTxt": "माझा अर्ज",
+    "trackAppTxt": "अर्ज प्रक्रिया कोणत्या टप्प्यावर आहे, ते तपासा",
+    "lastUpdateTxt": "शेवटचा बदल :",
+    "ageTxt": "वय",
+    "maleTxt": "पुरुष",
+    "femaleTxt": "स्त्री",
+    "completedTxt": "Completed",
+    "inProgressTxt": "In Progress",
+    "goToProfileBtn": "प्रोफाईलवर जा",
+    "rejectedDocTxt": "तुमचे काही दस्तऐवज नाकारले गेले आहेत. कृपया पुन्हा अपलोड करा ",
+    "docVerificationProgressTxt": "कागदपत्र पडताळणीची प्रक्रिया (प्रक्रियेत आहे)",
+    "docVerificationUnderVerificationTxt": "तुमच्या कागदपत्रांची पडताळणी प्रक्रिया सुरु आहे. ही प्रक्रिया पूर्ण होण्यासाठी ७ दिवसांचा कालावधी लागतो.",
+    "docVerifiedCompleteTxt": "अभिनंदन! तुमच्या कागदपत्रांची पडताळणी पूर्ण झाली आहे.",
+    "contiToBookFlatTxt": "कृपया तुमच्या आवडीची सदनिका / घर निवडा. ",
+    "redirectionBtnTxt": {
+      "signUp": "साईन अप",
+      "completeKyc": "KYC प्रक्रिया पूर्ण करा",
+      "personalDetail": "वैयक्तिक माहिती प्रविष्ट करा",
+      "addCoApplicant": "सह अर्जदाराचे नाव प्रविष्ट करा",
+      "addCategory": "योग्य श्रेणी निवडा",
+      "uploadDoc": "कागदपत्रे अपलोड करा",
+      "appPayment": "अर्ज नोंदणी शुल्क भरणा करा",
+      "bookFlat": "सदनिका/घर निवडा",
+      "flatPayment": "अनामत रक्कम भरणा करा",
+      "myProfile": "'माय प्रोफाईल' मध्ये जा"
+    }
+  },
+  "importantDates": {
+    "title": "महत्त्वाच्या तारखा",
+    "readMore": "अधिक वाचा"
+  },
+  "topNews": {
+    "readMore": "अधिक वाचा"
+  },
+  "banner1": {
+    "title": "नमस्कार!",
+    "category": "नवीन",
+    "subTitle": "02 नोव्हेंबर 2021 रोजी अर्ज केलेल्या प्रकल्पांसाठी तुमची नोंदणी पूर्ण झाली आहे.",
+    "link": "दस्तऐवज अपलोड करण्यासाठी येथे क्लिक करा",
+    "btnText": "बुक करा"
+  },
+  "banner2": {
+    "title": "नमस्कार!",
+    "category": "नवीन",
+    "subTitle": "तुमचे वाटपपत्र तयार आहे, पत्र प्राप्त करण्यासाठी अपॉइंटमेंट बुक करा.",
+    "btnText": "बुक करा"
+  },
+  "banner3": {
+    "title": "अभिनंदन! तुम्ही घर जिंकले",
+    "subTitle": "तुमच्या मूळ कागदपत्रांची पडताळणी करण्यासाठी अपॉईंटमेंट बुक करा, अपॉइंटमेंट बुक करण्यासाठी ‘आता बुक करा’ वर क्लिक करा.",
+    "btnText": "बुक करा"
+  },
+  "banner5": {
+    "title": "दुर्दैवाने, आपण गमावले आहे!",
+    "category": "परतावा सुरू केला जाईल.",
+    "subTitle1": "तुम्ही पुढील योजनेसाठी पुन्हा प्रयत्न करू शकता",
+    "subTitle2": "परत करण्यायोग्य नोंदणी शुल्क तुमच्या खात्यात 10 ते 15 व्यावसायिक दिवसांमध्ये परत केली जाईल"
+  },
+  "banner6": {
+    "tittle": "नोंदणी बंद.",
+    "subTitle1": "PMAY योजना 2023 साठी लॉटरी अर्ज सादर करण्याची तुमची संधी आता बंद झाली आहे.",
+    "subTitle2": " 2023 च्या आगामी योजनांबद्दल जाणून घेण्यासाठी आमच्या वेबसाइटला भेट द्या,",
+    "subTitle3": "अधिक जाणून घ्या."
+  },
+
+  "notifications": {
+    "title": "सूचना",
+    "viewAll": "सर्व पहा",
+    "noData": "अद्याप कोणत्याही सूचना नाहीत. जेव्हा तुम्हाला सूचना मिळतील, तेव्हा त्या येथे दिसतील",
+    "todayLabel": "आज",
+    "earlierLabel": "तत्पूर्वी/पूर्वीचे"
+  },
+  "userProjects": {
+    "applied": {
+      "title": "प्रगतीपथावर असलेले अर्ज",
+      "applyNewProjectBtnTxt": "नव्या प्रकल्पासाठी अर्ज करा",
+      "editDocumentsBtnTxt": "दस्तऐवज संपादित करा",
+      "goUploadDocumentsBtnTxt": "अपलोड डॉक्युमेंट्स वर जा",
+      "uploadDocsPendingStatusTxt": "अपलोड डॉक्युमेंट्स अद्याप प्रलंबित/पेंडिंग आहे",
+      "projectAppNoLabel": "अर्ज क्र.",
+      "requiredDocumentCountLabel": "अपलोड केलेले दस्तऐवज",
+      "applicationStatusValTxt": {
+        "saved": "जतन केलेले प्रकल्प",
+        "completed": "पूर्ण",
+        "rejected": "नाकारले",
+        "verified": "सत्यापित",
+        "winner": "नोंदणी यशस्वी",
+        "waiting": "प्रतीक्षा",
+        "lost": "हरवले",
+        "delete": "हटवा"
+      },
+      "appliedCatLabel": "श्रेणी लागू",
+      "viewAppBtnText": "अर्ज पहा",
+      "uploadDocumentBtnText": "दस्तऐवज अपलोड करा",
+      "paymentPendingStatusTxt": "पेमेंट पेंडिंग आहे",
+      "continuePaymentBtnTxt": "पैसे देण्यासाठी पुढे जा",
+      "downloadEchallanBtn": "ई - चलन डाउनलोड करा",
+      "orTxt": "किंवा"
+    },
+    "saved": {
+      "title": "पूर्ण केलेले अर्ज",
+      "titleHelpText": "तुमचा सध्याचा अर्ज पूर्ण झाल्यावर तुम्ही नवीन अर्ज भरणे सुरू करू शकता.",
+      "noDataHelpText": "Click on ‘Start Applying’ to start filling the application Form",
+      "noDataStartApplyBtnTxt": "Start Applying",
+      "lastUpatedDateLabel": "शेवटचे अपडेट केले गेले",
+      "appStatusLabel": "Application Status",
+      "progressStatusText": {
+        "completed": "पूर्ण",
+        "pending": "प्रतीक्षा"
+      },
+      "applyNewBtnText": "नवीन अर्ज करा",
+      "prcdToCompleteBtnTxt": "पूर्ण करण्यासाठी पुढे जा",
+      "mainStepperSection": {
+        "step1": "वैयक्तिक माहिती",
+        "step2": "श्रेणी तपशील",
+        "step3": "दस्तावेज़ जमा करें",
+        "step4": "पेमेंट करा"
+      }
+    },
+    "projectSatus": {
+      "step1": {
+        "label0": "वैयक्तिक",
+        "label1": "माहिती"
+      },
+      "step2": {
+        "label0": "श्रेणी ",
+        "label1": "तपशील"
+      },
+      "step3": {
+        "label0": "दस्तऐवज ",
+        "label1": "घोषणा"
+      },
+      "step4": {
+        "label0": "पेमेंट ",
+        "label1": "करा"
+      },
+      "step5": {
+        "label0": "दस्तऐवज ",
+        "label1": "अपलोड करा"
+      }
+    },
+    "grievance": {
+      "title": "माझी तक्रार"
+    }
+  },
+  "grievanceForm": {
+    "title": "तक्रार अर्ज",
+    "homeSection": {
+      "text1": "तक्रार आहे किंवा अडचण येतेय ? तुम्हाला मदत करण्यास आम्हाला आनंद होईल!",
+      "text2": "पुढे जाण्यासाठी ‘माझी तक्रार नोंदवा’ वर क्लिक करा.",
+      "raiseMyGrievanceBtnTxt": "माझी तक्रार नोंदवा",
+      "orTxt": "किंवा",
+      "trackMyGrievanceBtnTxt": "तक्रार कोणत्या टप्प्यावर आहे, जाणून घ्या",
+      "noDataErrorMsgTxt": "आपण अद्याप कोणतीही तक्रार केली नाही",
+      "userInfoText": "तुमची अडचण, समस्या आमच्यापर्यंत पोहोचवू शकता.",
+      "userNoteText": "पोर्टलवर तक्रार दाखल करताना कोणत्याही तांत्रिक समस्या/प्रश्नांसाठी कृपया हेल्पलाइन १८०० १२० ८०४० वर संपर्क साधा."
+    },
+    "formControl": {
+      "title": "कडून तक्रार",
+      "fullNameLabel": "पूर्ण नाव",
+      "fullNamePlaceholder": "पूर्ण नाव प्रविष्ट करा",
+      "fullNameErrors": {
+        "required": "पूर्ण नाव आवश्यक आहे"
+      },
+      "emailIdLabel": "ईमेल",
+      "emailIdPlaceholder": "आपला ईमेल आयडी प्रविष्ट करा",
+      "emailIdErrors": {
+        "required": "ईमेल आयडी आवश्यक आहे",
+        "limitation": "कृपया वैध ईमेल पत्ता प्रविष्ट करा"
+      },
+      "mobileNumberLabel": "मोबाइल नंबर",
+      "mobileNumberPlaceholder": "मोबाइल नंबर प्रविष्ट करा",
+      "mobileNumberErrors": {
+        "required": "मोबाइल नंबर आवश्यक आहे",
+        "limitation": "कृपया एक वैध मोबाइल नंबर प्रविष्ट करा"
+      },
+      "grievanceCategoryLabel": "तक्रारीचे स्वरुप",
+      "grievanceCategoryErrors": {
+        "required": "तक्रारीचे स्वरुप नोंदवणे आवश्यक आहे"
+      },
+      "grievanceTypeLabel": "तक्रारीचा प्रकार",
+      "grievanceTypeErrors": {
+        "required": "तक्रारीचा प्रकार आवश्यक आहे"
+      },
+      "grievanceDescriptionLabel": "तक्रारीचे वर्णन",
+      "grievanceDescriptionPlaceholder": "कृपया सविस्तर माहिती द्या.",
+      "grievanceDescriptionErrors": {
+        "required": "तक्रारीचे वर्णन आवश्यक आहे"
+      },
+      "UploadImage": "प्रतिमा अपलोड करा",
+      "uploadButtonText": "अपलोड करा",
+      "reUploadButtonText": "पुन्हा अपलोड करा",
+      "fileUploadDescription": "किंवा प्रतिमा ड्रॅग आणि ड्रॉप करा",
+      "fileUploadConditionsText": "केवळ .जेपीजी, .जेपीजी, .पीडीएफ स्वरूपित समर्थित आणि कमाल फाइल आकार: 5 एमबी",
+      "uploadErrors": {
+        "required": "फाईल आवश्यक आहे",
+        "limitation": "फाईल खूप मोठी आहे",
+        "fileFormat": "असमर्थित स्वरूप"
+      },
+      "submitButtonText": "सादर करा",
+      "backButtonText": "मागे",
+      "charactersNotAllowed": "विशेष वर्णांना परवानगी नाही"
+    },
+    "step1Info": {
+      "title": "तक्रार कशी नोंदवाल?",
+      "step1": "'माझी तक्रार नोंदवा' वर क्लिक करा.",
+      "step2": "तुमची तक्रारीचे स्वरुप आणि प्रकार निवडा",
+      "step3": "तुमची तक्रार योग्यपणे आमच्यापर्यंत पोहोचविण्यासाठी आवश्यक असेल तेथे फोटो अपलोड करा",
+      "step4": "आम्ही तुमच्या तक्रारीचे लवकरच निराकरण करु किंवा त्यासंदर्भात तुमच्याशी  २४ तासात संपर्क करु."
+    },
+    "step2nfo": {
+      "title": "फोटो अपलोड करा",
+      "questionText": "तक्रारीसाठी फोटो कसा अपलोड करावा?",
+      "step1": "फोटो किंवा दस्तऐवज अटॅच करण्यासाठी 'अपलोड' वर क्लिक करा.",
+      "step2": "अपलोड केलेला दस्तऐवज जेपीजी/पीडीएफ/पीएनजी फॉरमॅटचा असावा.",
+      "step3": "फाइलचा आकार जास्तीत जास्त ५ एमबी असावा."
+    },
+    "thankYouForm": {
+      "thankYouText": "धन्यवाद!",
+      "subText": "तुमची तक्रार",
+      "subText1": "वर नोंदवण्यात आली आहे",
+      "grievanceNumberLabel": "तक्रार नोंदणी क्रमांक",
+      "grievanceNumberPlaceholder": "तक्रार नोंदणी क्रमांक",
+      "grievanceNumberErrors": {
+        "required": "तक्रार नोंदणी क्रमांक आवश्यक आहे"
+      },
+      "trackButtonText": "माझ्या तक्रारीचा मागोवा घ्या",
+      "newGrevianceButtonText": "नवीन तक्रार करा"
+    }
+  },
+  "trackGrievanceTable": {
+    "title": "तक्रारीचा मागोवा घ्या",
+    "raiseNewGrievanceBtnTxt": "नवीन तक्रार नोंदवा",
+    "filterSection": {
+      "searchByUniqueNumberLabel": "तक्रार नोंदणी क्रमांकानुसार शोधा",
+      "grievanceTypeLabel": "तक्रारीचा प्रकार",
+      "grievanceStatusLabel": "तक्रारीची स्थिती"
+    },
+    "table": {
+      "tableTh0": "तक्रार नोंदणी क्रमांक",
+      "tableTh1": "तक्रारीचा प्रकार",
+      "tableTh2": "तक्रार नोंदणीचा दिनांक",
+      "tableTh3": "स्थिती",
+      "tableTh4": "टिप्पण्या",
+      "tableTh5": "पहा"
+    },
+    "actionBtnTxt": "पहा"
+  },
+  "grievanceTabDefaultSection": {
+    "firstLineErrorMsg": "आपण अद्याप कोणतीही तक्रार उपस्थित केली नाही.",
+    "secondLineErrorMsg": "तक्रारीचा फॉर्म भरून नवीन वाढवा.",
+    "actionButtonText": "नवीन तक्रार नोंदवा"
+  },
+  "appliedSavedTabDefaultSection": {
+    "firstLineErrorMsg": "तुम्ही अद्याप कोणत्याही प्रकल्पासाठी अर्ज केलेला नाही.",
+    "secondLineErrorMsg": "आजच अर्ज भरून सुरुवात करा",
+    "actionButtonText": "प्रकल्प पहा"
+  },
+  "grievanceDetailsSection": {
+    "title": "तक्रारीचे तपशील",
+    "commentTitle": "टिप्पणी",
+    "grievanceStatusTxt": "प्रगतीपथावर",
+    "formControl": {
+      "fullNameLabel": "पूर्ण नाव",
+      "emailLabel": "ईमेल",
+      "mobileNumberLabel": "मोबाइल नंबर",
+      "grievanceCategoryLabel": "तक्रारीचे वर्ग",
+      "grievanceTypeLabel": "तक्रारीचे प्रकार",
+      "grievanceDescriptionLabel": "तक्रारीचे वर्णन",
+      "clickToOpenBtnTxt": "उघडण्यासाठी क्लिक करा"
+    },
+    "commentSectionForm": {
+      "addCommentPlaceholder": "एक टिप्पणी जोडा",
+      "postBtnTxt": "पोस्ट",
+      "markAsResolvedBtnTxt": "एएस निराकरण चिन्हांकित करा"
+    }
+  },
+  "userjourney": {
+    "stepper": {
+      "stage1": {
+        "title": "1",
+        "ApplicantSignUp": "अर्जदार नोंदणी",
+        "AadhaarCard": "आधार कार्ड",
+        "PanCard": "पॅन कार्ड"
+      },
+      "stage2": {
+        "title": "2",
+        "Personaldetails": "वैयक्तिक माहिती",
+        "Addapplicant": "सह अर्जदार",
+        "CategoryDetails": "श्रेणी तपशील"
+      },
+      "stage3": {
+        "title": "3",
+        "DocumentsUpload": "दस्तऐवज अपलोड",
+        "Applicationpayment": "अर्ज नोंदणी शुल्क भरा",
+        "DocumentVerification": "दस्तऐवज पडताळणी"
+      },
+      "stage4": {
+        "title": "4",
+        "DocumentVerification": "सदनिका निवडा",
+        "FlatPayment": "अनामत रक्कम",
+        "LOIGeneration": "देकारपत्र निर्मिती"
+      },
+      "stage5": {
+        "title": "5",
+        "AllotmentLetter": "वाटपपत्र",
+        "NOC": "ना हरकत प्रमाणपत्र",
+        "EMIs": "हप्ते"
+      }
+    },
+    "ApplicantSignup": {
+      "title": "अर्जदार नोंदणी",
+      "ApplicantID": "अर्जदार आयडी",
+      "CreatedOn": "खाते तयार केले",
+      "AadhaarLabel": "आधार क्रमांक",
+      "PANLabel": "पॅन क्रमांक",
+      "AaadharVerified": "आधार सत्यापित"
+    },
+    "ApplicantDetails": {
+      "title": "अर्जदाराची माहिती",
+      "FirstName": "प्रथम अर्जदार",
+      "ContactDetails": "अर्जदाराची माहिती",
+      "CategoryLabel": "श्रेणी",
+      "CoApplicant": "सह-अर्जदार",
+      "pmayLablel": "प्रधानमंत्री आवास योजना(PMAY)",
+      "nonPmayLabel": "सर्वसमावेशक श्रेणी(NON PMAY)"
+    },
+    "DocumentVerification": {
+      "title": "दस्तऐवज पडताळणी",
+      "DocumentLabel": "दस्तऐवज अपलोड केले",
+      "UploadBtn": "अपलोड करा",
+      "ApplicationFee": "अर्जाची फी प्राप्त झाली",
+      "reason": "कारण :",
+      "DownloadReceipt": "पावती डाउनलोड करा",
+      "docUploadTxt": "दस्तऐवज अपलोड केले",
+      "EditTxt": "संपादित करा",
+      "UploadTxt": "अपलोड",
+      "reuploadedTxt" : "यशस्वीरित्या पुन्हा अपलोड केले"
+    },
+    "FlatBooking": {
+      "title": "सदनिका निवडा",
+      "BookedFlat": "नोंदणी केलेली सदनिका",
+      "BookedLabel": "नोंदणी यशस्वी",
+      "UnitNoLabel": "सदनिका क्रमांक",
+      "unitTypeLabel": "सदनिकेचा प्रकार",
+      "selectedFlatLabel": "निवडलेली सदनिका",
+      "unitPriceLabel": "किंमत",
+      "FloorNo": "मजला क्र",
+      "RERAArea": "रेरा  क्षेत्रफळ ",
+      "SQFT": "चौरस फूट",
+      "TowerNo": "टॉवर क्रमांक",
+      "Tower": "टॉवर",
+      "FlatAmountLabel": "अनामत (बुकिंग) रक्कम",
+      "ReceivedLabel": "मिळाली",
+      "TXNId": "व्यवहाराचा सांकेतांक",
+      "Date": "तारीख",
+      "BookingAmount": "अनामत (बुकिंग) रक्कम",
+      "DownloadappBtn": "अर्ज डाउनलोड करा",
+      "DownloadRecBtn": "पावती डाउनलोड करा",
+      "MyTransactions": "माझे व्यवहार",
+      "LetterIntent": "देकारपत्र (LOI)",
+      "GeneratedLabel": "तयार आहे",
+      "LOIGeneratProgress": "देकारपत्र तयार करण्याची प्रक्रिया सुरु आहे.",
+      "LOIGenerated": "देकारपत्र (LOI) तयार आहे.",
+      "DownloadLOI": "LOI डाउनलोड करा",
+      "EditPreferences": "संपादित करा",
+      "MakePayment": "पेमेंट करा",
+      "PayAmount": "अनामत रक्कम भरा",
+      "Close": "बंद करना"
+    },
+    "emailUpdate": {
+      "emailInputLabel": "नवीन ईमेल आयडी",
+      "emailPlaceholder": "नवीन ईमेल आयडी",
+      "cnfemailInputLabel": "ईमेल पत्त्याची पुष्टी करा",
+      "cnfemailPlaceholder": "ईमेल पत्त्याची पुष्टी करा",
+      "emailErrors": {
+        "limitation": "कृपया वैध ईमेल आयडी प्रविष्ट करा ",
+        "required": "ई मेल आयडी आवश्यक"
+      }
+    },
+    "AllotmentLetter": {
+      "tittle": "वाटपपत्र आणि हप्ते",
+      "AllotmentLetter": "वाटपपत्र",
+      "AllotmentDesc": "तुमचे वाटपपत्र तयार करण्याची प्रक्रिया सुरू आहे."
+    },
+    "edit": "तपशील  संपादित करा",
+    "ReUpload": "पुन्हा अपलोड करा",
+    "BookedLabel": "नोंदणी यशस्वी",
+    "ReceivedLabel": "मिळाली",
+    "ApplNoLbl": "अर्ज नोंदणी क्र.",
+    "GeneratedLabel": "तयार आहे",
+    "inProgressLabel": "प्रक्रियेत आहे",
+    "NotOpted": "निवडलेले नाही",
+    "bookingMsg": "बुकिंगची रक्कम आधी भरली नसल्यास",
+    "bookingMsg1": "ब्लॉक केलेले फ्लॅट इतर ग्राहकांसाठी सोडले जातील.",
+    "timeValidTxt1": "पर्यंत अनामत (बुकिंग) रक्कम भरणा केली नाही,",
+    "timeValidTxt2": "तर ही सदनिका इतर पात्र अर्जदारांसाठी उपलब्ध करुन दिली जाईल."
+  }
+}

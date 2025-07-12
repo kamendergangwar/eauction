@@ -1,0 +1,118 @@
+{
+  "applicatntsContactForm": {
+    "title": "Contact Information",
+    "contactForm": {
+      "formControl": {
+        "mobileNumberInputLabel": "Alternate mobile number",
+        "mobileNumberPlaceholder": "Enter mobile number",
+        "mobileNumberErrors": {
+          "required": "Mobile number is required",
+          "limitation": "Please enter a valid mobile number"
+        },
+        "whatsappNumberInputLabel": "WhatsApp Number",
+        "whatsappNumberPlaceholder": "Enter WhatsApp Number",
+        "whatsappNumberErrors": {
+          "limitation": "Please enter a valid WhatsApp Number"
+        },
+        "checkBoxLabel0": "Same as alternate mobile number",
+        "checkBoxLabel1": "Get notifications on Whatsapp",
+        "emailInputLabel": "Email Address",
+        "emailPlaceholder": "Enter email address",
+        "emailErrors": {
+          "limitation": "Please enter a valid email address"
+        }
+      }
+    }
+  },
+  "applicatntsaddressForm": {
+    "title": "Accomodation Details",
+    "description": "Permanent Address",
+    "permanentAddressForm": {
+      "formControl": {
+        "apartmentNumberInputLabel": "Building/Apartment Number",
+        "apartmentNumberPlaceholder": "Enter building/apartment number",
+        "apartmentNumberErrors": {
+          "required": "Building/Apartment Number is required",
+          "limitation": "Please enter a valid building/apartment number"
+        },
+        "careOfInputLabel": "Care Of (C/o)",
+        "careOfPlaceholder": "Enter Care Of (C/o)",
+        "streetInputLabel": "Street/Lane",
+        "streetPlaceholder": "Enter street/lane",
+        "streetErrors": {
+          "required": "Street/Lane is required"
+        },
+        "pincodeInputLabel": "Pincode",
+        "pincodePlaceholder": "Enter pincode",
+        "pincodeErrors": {
+          "required": "Pincode is required",
+          "limitation": "Please enter a valid pincode"
+        },
+        "districtInputLabel": "District",
+        "districtPlaceholder": "Enter district",
+        "districtErrors": {
+          "required": "District is required"
+        },
+        "stateInputLabel": "State",
+        "statePlaceholder": "Enter state",
+        "stateErrors": {
+          "required": "State is required"
+        },
+        "villageInputLabel": "Village/town",
+        "villagePlaceholder": "Enter village/town",
+        "villageErrors": {
+          "required": "Village/town is required"
+        },
+        "landmarkInputLabel": "Landmark",
+        "landmarkPlaceholder": "Enter Landmark"
+      }
+    }
+  },
+  "applicatntsCommunicationAddressForm": {
+    "description": "Communication Address",
+    "checkBoxLabel": "Same as permanent address",
+    "communicationAddressForm": {
+      "formControl": {
+        "apartmentNumberInputLabel": "Building/Apartment Number",
+        "apartmentNumberPlaceholder": "Enter building/apartment number",
+        "apartmentNumberErrors": {
+          "required": "Building/Apartment Number is required",
+          "limitation": "Please enter a valid building/apartment number"
+        },
+        "careOfInputLabel": "Care Of (C/o)",
+        "careOfPlaceholder": "Enter Care Of (C/o)",
+        "streetInputLabel": "Street/Lane",
+        "streetPlaceholder": "Enter street/lane",
+        "streetErrors": {
+          "required": "Street/Lane is required"
+        },
+        "pincodeInputLabel": "Pincode",
+        "pincodePlaceholder": "Enter pincode",
+        "pincodeErrors": {
+          "required": "Pincode is required",
+          "limitation": "Please enter a valid pincode"
+        },
+        "districtInputLabel": "District",
+        "districtPlaceholder": "Enter district",
+        "districtErrors": {
+          "required": "District is required"
+        },
+        "stateInputLabel": "State",
+        "statePlaceholder": "Enter state",
+        "stateErrors": {
+          "required": "State is required"
+        },
+        "villageInputLabel": "Village/town",
+        "villagePlaceholder": "Enter village/town",
+        "villageErrors": {
+          "required": "Village/town is required"
+        },
+        "landmarkInputLabel": "Landmark",
+        "landmarkPlaceholder": "Enter Landmark"
+      }
+    }
+  },
+  "completeLaterButtonText": "COMPLETE LATER",
+  "backButtonText": "BACK",
+  "saveButtonText": "Save and NEXT"
+}

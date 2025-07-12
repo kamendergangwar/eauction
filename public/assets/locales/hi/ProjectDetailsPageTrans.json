@@ -1,0 +1,210 @@
+﻿{
+  "projectForm": {
+    "title1": "स्थान / टावर्स का चयन करें",
+    "title": "परियोजना का चयन करें",
+    "listViewBtn": "सूची",
+    "mapViewBtn" : "नक्शा",
+    "timeValidTxt1": "से पहले बुकिंग राशि का भुगतान नहीं करने पर आप के द्वारा चयनित फ्लैट अन्य लोगों के लिए उपलब्ध कर दिया जाएगा।",
+    "timeValidTxt2": "",
+    "continuePaymentTxt": "भुगतान करने के लिए 'आगे' पर क्लिक करें।",
+    "formControl": {
+      "location": {
+        "locationLabel": "स्थान",
+        "locationPlaceholder": "स्थान चुनें",
+        "options": {
+          "mumbai": "मुंबई",
+          "naviMumbai": "नवी मुंबई",
+          "pune": "पुणे"
+        }
+      },
+      "projectType": {
+        "projectTypeLabel": "प्रकार",
+        "typePlaceholder": "प्रकार चुनें",
+        "options": {
+          "kh1BHK": "1 बीएचके",
+          "kh2BHK": "२ बीएचके",
+          "kh3BHK": "३ बीएचके"
+        }
+      },
+      "priceRange": {
+        "priceRangeLabel": "कीमत",
+        "priceRangePlaceholder": "कीमत चुनें",
+        "lackTxt": "लाख"
+      },
+      "searchBtnTxt": "खोजें",
+      "resetFilterBtnText": "फ़िल्टर रीसेट करें",
+      "noProject": "कोई प्रोजेक्ट डेटा नहीं",
+      "noProjectFound": "सिलेक्ट किये हुए फ़िल्टर क्राइटेरिया के लिए कोई प्रोजेक्ट नहीं मिला। अधिक प्रोजेक्ट प्राप्त करने के लिए कृपया फ़िल्टर बदलें।"
+    }
+  },
+  "switchSchemeForm": {
+    "title": "क्या आप योजना को बदलना चाहते हैं",
+    "subTitle": "योजना को बदलने से लाभ और मूल्य भिन्न हो सकते हैं।",
+    "okBtn": "ठीक है",
+    "cancelBtn": "रद्द करें",
+    "schemeTxt": "चुनी हुई योजना",
+    "PMAYTxt": "पीएमएवाई",
+    "non-PMAY": "नॉन-पीएमएवाई",
+    "pmayBtn": "बदलें"
+  },
+  "projectCard": {
+    "typeLabel": "प्रकार",
+    "bhkText": "बीएचके",
+    "kTxt": "K",
+    "lackTxt": "लाख",
+    "crkTxt": "Cr",
+    "carpetAreaLabel": "रेरा कारपेट एरिया",
+    "unitPriceLabel": "किंमत",
+    "sqftText": "स्क्वेअर फुट",
+    "helpingText": "चुनें की क्या आप इस परियोजना के लिए आवेदन करने में रुचि रखते हैं",
+    "amenitiesLabel": "सुविधाएँ",
+    "moreBtnLabel": "अधिक",
+    "deSelectButtonText": "निकालना",
+    "selectButtonText": "परियोजना का चयन करें",
+    "moreDetailButtonText": "परियोजना विवरण देखें",
+    "addCategoryButton": "श्रेणी जोड़ना",
+    "appliedUnderCategories": "निम्नलिखित श्रेणी के तहत आवेदन किया गया",
+    "typicalFloorPlanTxt": "सामान्य फर्श योजना ",
+    "unitPlanTxt": "फ्लैट की योजना",
+    "keyPlanTxt": "फ्लैट की प्रमुख योजना",
+    "unitNo": "फ्लैट नं.",
+    "reraArea": "रेरा कारपेट एरिया",
+    "totalTower": "कुल टावर्स",
+    "totalAvailUnit": "कुल उपलब्ध घर",
+    "categoryTxt": "श्रेणी",
+    "selectTowerText": "टॉवर का चयन करें",
+    "chooseYourFlatText": "अपना फ्लैट चुनें",
+    "legends": {
+      "sold": "बिका हुआ",
+      "pending": "भुगतान बाकी है",
+      "available": "उपलब्ध घर",
+      "selected": "चयनित"
+    },
+    "floorText": "मंजिल",
+    "confirmBookingText": "कृपया आगे बढ़ने के लिए अपनी बुकिंग की पुष्टि करें",
+    "sendOtpText": "आपके पंजीकृत मोबाइल नंबर पर एक ओटीपी भेजा गया है",
+    "getOtpButtonText": "फ्लैट बुक करने के लिए ओटीपी प्राप्त करें",
+    "cancelFlatBookingText": "क्या आप वाकई इस फ्लैट बुकिंग को रद्द करना चाहते हैं?",
+    "cancelFlatBookingNote": "इस फ्लैट को रद्द करके आप अपनी इच्छानुसार किसी भी फ्लैट को फिर से बुक कर सकते हैं।",    
+    "cancelPrevFlatBookingText": "क्या आप वाकई मौजूदा फ्लैट बुकिंग रद्द करना चाहते हैं?",
+    "cancelPrevFlatBookingNote": "यदि आप चाहें तो पिछले फ्लैट को रद्द करके, टाइमर ऑन टॉप के संबंध में उपलब्ध समय के भीतर फिर से नया फ्लैट बुक कर सकते हैं।",
+    "getOtpButtonCancellationText": "अपने रद्दीकरण की पुष्टि के लिए ओटीपी प्राप्त करें",
+    "afterCancellationToastMsg": "फ्लैट बुकिंग सफलतापूर्वक रद्द, कृपया नया फ्लैट पुनः बुक करें!",
+    "cancelBtn": "रद्द करना",
+    "unitType": "फ्लैट का प्रकार",
+    "towerNo": "टॉवर नं.",
+    "floorNo": "मंजिल नं.",
+    "selectedChip": "चयनित फ्लैट",
+    "unitPlan": "फ्लैट की योजना  ",
+    "keyPlan": "मुख्य योजना  ",
+    "submitBtn": "पुष्टि करें",
+    "bookNowBtn": "बुक करें",
+    "continueBtn": "जारी रखना",
+    "enterOtpText": "ओटीपी दर्ज करें",
+    "otpReqText": "ओटीपी आवश्यक है",
+    "resendOtpText": "ओटीपी फिर से भेजें",
+    "sec": "सेकंड",
+    "yesText": "हाँ",
+    "noText": "नहीं",
+    "flatSelectedText1": "आपने फ्लैट नंबर ",
+    "flatSelectedText2": "का चयन किया है। जारी रखने के लिए अभी बुक करें पर क्लिक करें।",
+    "numberOfUnits": "टावर की संख्या",
+    "numberOfTower": "कुल टॉवर",
+    "numberOfFloors": "मंज़िलों की संख्या",
+    "tower": "टॉवर नं.",
+    "units": "फ्लैट नं.",
+    "type": "प्रकार",
+    "selectedPreferencesText": "चयनित घर की जानकारी",
+    "editPreferencesText": "सुधारें"
+  },
+  "categorySelectionForm": {
+    "title": "श्रेणियाँ चुनें",
+    "helpText1": "उन श्रेणियों का चयन करें जिनके तहत आप इस योजना के लिए आवेदन करना चाहते हैं।",
+    "helpText2": "आप एकसाथ कई श्रेणियों का चयन कर सकते हैं।",
+    "dataNotFoundMessage": "इस परियोजना के लिए कोई श्रेणी उपलब्ध नहीं है।",
+    "formControl": {
+      "selectionError": "आगे बढ़ने के लिए कृपया एक श्रेणी चुनें",
+      "okayButton": "चुनें"
+    }
+  },
+  "savingLoaderTxt": "प्रोग्रेस सेव्ह हो रही है",
+  "saveButtonText": "आगे",
+  "noProjectsErrorMsg": "कोई परियोजना उपलब्ध नहीं है",
+  "projectDetailsPage": {
+    "erraCertifiedBtn": "रेरा प्रमाणित",
+    "goToTopBtnTxt": "ऊपर जाएँ",
+    "essentialDetailsSec": {
+      "label1": "आधार मूल्य",
+      "label2": "रेरा कारपेट एरिया",
+      "label3": "प्रकार",
+      "label4": "विकास की स्थिति",
+      "bhkText": "बीएचके",
+      "sqftText": "स्क्वेअर फुट"
+    },
+    "navBtnsSec": {
+      "navButton1": "अवलोकन",
+      "navButton2": "हमारे बारे में",
+      "navButton3": "मंज़िल की योज़ना",
+      "navButton4": "सुविधाएँ",
+      "navButton5": "स्थान"
+    },
+    "overviewSec": {
+      "title": "अवलोकन",
+      "tenementsText": "घर",
+      "incomeGroupText": "आय समूह ग्रुप",
+      "reraIdText": "महारेरा क्रमांक",
+      "categoryTitleTxt": "श्रेणी"
+    },
+    "aboutUsSec": {
+      "title": "हमारे बारे में",
+      "paragraph": "ईडब्ल्यूएस प्रकार के घर नवी मुंबई के केंद्र में स्थित हैं और वह सौर पैनल, रेनवॉटर हार्वेस्टिंग, पेड़ों की विभिन्न प्रजातियाँ, फुटबॉल ग्राउंड, क्रिकेट ग्राउंड, बास्केटबॉल कोर्ट, बहुउद्देशीय मैदान, वरिष्ठ नागरिकों के लिए उद्यान, पार्किंग, फिटनेस क्लब, व्यावसायीक दुकानें, बस टर्मिनस और रेलवे फोरकोर्ट जैसी सुविधाओं से सुसज्जित हैं। "
+    },
+    "floorPlansSec": {
+      "title": "मंज़िल की योज़ना",
+      "tab1": "मास्टर प्लॅन",
+      "tab2": "विंग ए",
+      "tab3": "विंग बी",
+      "tab4": "विंग सी"
+    },
+    "viewHomesSec": {
+      "title": "घरों को ३डी में देखें",
+      "paragraph": "३डी वर्चुअल टूर के साथ सिडको हाउस में अपनी झलक कैद करें। नीचे दिए गए बटन पर क्लिक करके देखें की यह वास्तविक स्थान में कैसा दिखेगा।",
+      "takeTourBtnTxt": "वर्चुअल टूर करें"
+    },
+    "amenitiesSec": {
+      "title": "सुविधाएँ"
+    },
+    "locationSec": {
+      "title": "स्थान",
+      "tab1": "परियोजना स्थल",
+      "tab2": "गूगल मॅप",
+      "tab3": "कनेक्टिविटी"
+    }
+  },
+  "selectFlatDialog": {
+    "filterTxt": "विभाग",
+    "clearTxt": "हटाएँ",
+    "typeTxt": "प्रकार",
+    "applyTxt": "लागू करें",
+    "cancelTxt": "रद्द करें",
+    "keyPlan": "मुख्य योजना",
+    "refugeFloorTxt": "आपातकालीन क्षेत्र",
+    "viewKeyLbl": "मुख्य योजना जानने के लिए यहाँ क्लिक करें",
+    "viewUnitLbl": "फ्लैट की योजना जानने के लिए यहाँ क्लिक करें",
+    "viewFloorLbl": "फर्श की योजना जानने के लिए यहाँ क्लिक करें",
+    "floorTab": "फर्श योजना",
+    "unitTab" : "फ्लैट की योजना  ",
+    "keyTab" : "मुख्य योजना / फर्श योजना",
+    "availableTxt" : "उपलब्ध घर:",
+    "unitsTxt" : "",
+    "towerTxt" : "टॉवर"
+  },
+  "projectMap": {
+    "clickLocationTxt":"अपनी पसंद का स्थान चुने",
+    "clickTowerTxt":"अपने पसंदीदा टॉवर पर क्लिक करें।",
+    "backLocationBtn":"फिर से स्थान चुनने जाएं",
+    "towersTxt":"टॉवर",
+    "totalUnitsTxt":"कुल घर",
+    "noFlatTxt" : "कोई फ्लैट उपलब्ध नहीं है"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "analyticsDashboard": {
+    "title": "My Analytics Dashboard",
+    "subTitle": "Overall Performance",
+    "activeSchemeTxt": "Active Scheme"
+  },
+  "toggleButtonGroup": {
+    "button1": "All",
+    "button2": "Last Week",
+    "button3": "Last 2 Week",
+    "button4": "Last Month",
+    "button5": "This Year"
+  },
+  "dateFilter": {
+    "fromDateLabel": "From Date",
+    "toDateLabel": "To Date"
+  },
+  "filterByDateTxt": "Filter by Date",
+  "appCardGroup": {
+    "card1": "Total Applications",
+    "card2": "Total Submitted",
+    "card3": "Applications In Progress",
+    "viewDetailsBtnTxt": "View Details",
+    "card2Popover": {
+      "title": "Submitted Applications",
+      "paymentCompletedTxt": "Payment Completed"
+    },
+    "card3Popover": {
+      "title": "Summary of Application In Progress",
+      "personalDetailsTxt": "Personal Details",
+      "categoryDetailsTxt": "Category Details",
+      "documentsUploadTxt": "Upload Documents",
+      "makePaymentTxt": "Make Payment",
+      "eStampingEsigningTxt": "E stamping & E signing"
+    },
+    "applicationsBtnTxt": "Applications"
+  },
+  "reservationCountCard": {
+    "title": "Reservation Count",
+    "subTitle": "Project Wise Reservation Status",
+    "applicationsBtnTxt": "Applications"
+  },
+  "projectOverviewCard": {
+    "title": "Project Overview",
+    "subTitle": "Total Application Count In Each Project.",
+    "viewDetailsBtnTxt": "View Details",
+    "applicationsBtnTxt": "Applications"
+  },
+  "recentActivityCard": {
+    "title": "Recent Activity",
+    "errorMsgTxt": "No Recent Activity"
+  },
+  "reportsPage": {
+    "title": "Reports",
+    "subTitle1": "Overall Performance Of",
+    "subTitle2": "in Each Project",
+    "searchInputPlaceholder": "Search by Project Name",
+    "tableView": {
+      "head1": "Sr.No.",
+      "head2": "Project Duration",
+      "head3": "Project Name",
+      "head4": "Total In progress",
+      "head5": "Total Completed"
+    },
+    "chartComponent": {
+      "totalAppLabel": "Total Applications",
+      "chartProjectsLabel": "Projects",
+      "totalSubmittedLabel": "Total Submitted",
+      "appInprogressLabel": "Applications In Progress"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+﻿{
+  "applicatntsContactForm": {
+    "title": "संपर्क जानकारी",
+    "contactForm": {
+      "formControl": {
+        "mobileNumberInputLabel": "वैकल्पिक मोबाइल नंबर",
+        "mobileNumberPlaceholder": "मोबाइल नंबर दर्ज करें",
+        "mobileNumberErrors": {
+          "required": "मोबाइल नंबर चाहिए",
+          "limitation": "कृपया एक मान्य मोबाइल नंबर दर्ज करें"
+        },
+        "whatsappNumberInputLabel": "व्हाट्सएप नंबर",
+        "whatsappNumberPlaceholder": "व्हाट्सएप नंबर डालें",
+        "whatsappNumberErrors": {
+          "limitation": "कृपया एक वैध व्हाट्सएप नंबर दर्ज करें"
+        },
+        "checkBoxLabel0": " वैकल्पिक मोबाइल नंबर के समान",
+        "checkBoxLabel1": "व्हाट्सएप पर सूचनाएं प्राप्त करें",
+        "emailInputLabel": "ईमेल एड्रेस",
+        "emailPlaceholder": "ईमेल एड्रेस दर्ज करें",
+        "emailErrors": {
+          "limitation": "कृपया एक वैध ई - मेल एड्रेस डालें"
+        }
+      }
+    }
+  },
+  "applicatntsaddressForm": {
+    "title": "आवास विवरण",
+    "description": "स्थायी पता",
+    "permanentAddressForm": {
+      "formControl": {
+        "apartmentNumberInputLabel": "भवन/अपार्टमेंट संख्या",
+        "apartmentNumberPlaceholder": "बिल्डिंग/अपार्टमेंट नंबर दर्ज करें",
+        "apartmentNumberErrors": {
+          "required": "भवन/अपार्टमेंट संख्या आवश्यक है",
+          "limitation": "कृपया एक मान्य भवन/अपार्टमेंट नंबर दर्ज करें"
+        },
+        "careOfInputLabel": "की देखभाल (सी / ओ)",
+        "careOfPlaceholder": " की देखभाल (सी/ओ) दर्ज करें",
+        "streetInputLabel": "स्ट्रीट/लेन",
+        "streetPlaceholder": "स्ट्रीट/लेन दर्ज करें ",
+        "streetErrors": {
+          "required": "स्ट्रीट/लेन आवश्यक है"
+        },
+        "pincodeInputLabel": "पिन कोड",
+        "pincodePlaceholder": "पिनकोड दर्ज करें",
+        "pincodeErrors": {
+          "required": "पिनकोड आवश्यक है",
+          "limitation": "कृपया एक मान्य पिनकोड दर्ज करें"
+        },
+        "districtInputLabel": "जिला",
+        "districtPlaceholder": "जिला दर्ज करें",
+        "districtErrors": {
+          "required": "जिले की आवश्यकता है"
+        },
+        "stateInputLabel": "राज्य",
+        "statePlaceholder": "राज्य दर्ज करें",
+        "stateErrors": {
+          "required": "राज्य की आवश्यकता है"
+        },
+        "villageInputLabel": "गांव / शहर",
+        "villagePlaceholder": "गांव/शहर दर्ज करें",
+        "villageErrors": {
+          "required": "गांव/शहर आवश्यक है"
+        },
+        "landmarkInputLabel": "सीमा चिन्ह",
+        "landmarkPlaceholder": "सीमा चिन्ह दर्ज करें"
+      }
+    }
+  },
+  "applicatntsCommunicationAddressForm": {
+    "description": "संचार पता",
+    "checkBoxLabel": "स्थायी पते के समान",
+    "communicationAddressForm": {
+      "formControl": {
+        "apartmentNumberInputLabel": "भवन/अपार्टमेंट संख्या",
+        "apartmentNumberPlaceholder": "बिल्डिंग/अपार्टमेंट नंबर दर्ज करें",
+        "apartmentNumberErrors": {
+          "required": "भवन/अपार्टमेंट संख्या आवश्यक है",
+          "limitation": "कृपया एक मान्य भवन/अपार्टमेंट नंबर दर्ज करें"
+        },
+        "careOfInputLabel": "की देखभाल (सी/ओ)",
+        "careOfPlaceholder": "की देखभाल (सी/ओ) दर्ज करें",
+        "streetInputLabel": "स्ट्रीट/लेन",
+        "streetPlaceholder": "स्ट्रीट/लेन दर्ज करें ",
+        "streetErrors": {
+          "required": "स्ट्रीट/लेन आवश्यक है"
+        },
+        "pincodeInputLabel": "पिन कोड",
+        "pincodePlaceholder": "पिनकोड दर्ज करें",
+        "pincodeErrors": {
+          "required": "पिनकोड आवश्यक है",
+          "limitation": "कृपया एक मान्य पिनकोड दर्ज करें"
+        },
+        "districtInputLabel": "जिला",
+        "districtPlaceholder": "जिला दर्ज करें",
+        "districtErrors": {
+          "required": "जिले की आवश्यकता है"
+        },
+        "stateInputLabel": "राज्य",
+        "statePlaceholder": "राज्य दर्ज करें",
+        "stateErrors": {
+          "required": "राज्य की आवश्यकता है"
+        },
+        "villageInputLabel": "गांव / शहर",
+        "villagePlaceholder": "गांव/शहर दर्ज करें",
+        "villageErrors": {
+          "required": "गांव/शहर आवश्यक है"
+        },
+        "landmarkInputLabel": "सीमा चिन्ह",
+        "landmarkPlaceholder": "सीमा चिन्ह दर्ज करें"
+      }
+    }
+  },
+  "completeLaterButtonText": "बाद में पूरा करें",
+  "backButtonText": "पीछे",
+  "saveButtonText": "सहेजें और अगला"
+}

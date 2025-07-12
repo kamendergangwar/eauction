@@ -1,0 +1,72 @@
+{
+  "analyticsDashboard": {
+    "title": "माझे विश्लेषण डॅशबोर्ड",
+    "subTitle": "एकूण कामगिरी",
+    "activeSchemeTxt": "सक्रिय योजना"
+  },
+  "toggleButtonGroup": {
+    "button1": "सर्व",
+    "button2": "शेवटचा आठवडा",
+    "button3": "शेवटचे 2 आठवडे",
+    "button4": "शेवटचा महिना",
+    "button5": "या वर्षी"
+  },
+  "dateFilter": {
+    "fromDateLabel": "तारीखापासून",
+    "toDateLabel": "तारीखपर्यंत"
+  },
+  "filterByDateTxt": "तारखेनुसार फिल्टर",
+  "appCardGroup": {
+    "card1": "एकूण अर्ज",
+    "card2": "एकूण सबमिट केलेले",
+    "card3": "अर्ज प्रगतीपथावर",
+    "viewDetailsBtnTxt": "तपशील पहा",
+    "card2Popover": {
+      "title": "सबमिट केलेले अर्ज",
+      "paymentCompletedTxt": "पेमेंट पूर्ण झाले"
+    },
+    "card3Popover": {
+      "title": "अर्जाचा सारांश प्रगतीपथावर आहे",
+      "personalDetailsTxt": "वैयक्तिक माहिती",
+      "categoryDetailsTxt": "श्रेणी तपशील",
+      "documentsUploadTxt": "दस्तऐवज अपलोड करा",
+      "makePaymentTxt": "पेमेंट करा",
+      "eStampingEsigningTxt": "ई स्टॅम्पिंग आणि ई स्वाक्षरी"
+    },
+    "applicationsBtnTxt": "अर्ज"
+  },
+  "reservationCountCard": {
+    "title": "आरक्षण गणना",
+    "subTitle": "प्रकल्पनिहाय आरक्षण स्थिती",
+    "applicationsBtnTxt": "अर्ज"
+  },
+  "projectOverviewCard": {
+    "title": "प्रकल्प विहंगावलोकन",
+    "subTitle": "प्रत्येक प्रकल्पातील एकूण अर्ज गणना.",
+    "viewDetailsBtnTxt": "तपशील पहा",
+    "applicationsBtnTxt": "अर्ज"
+  },
+  "recentActivityCard": {
+    "title": "अलीकडील क्रियाकलाप",
+    "errorMsgTxt": "अलीकडील क्रियाकलाप नाही"
+  },
+  "reportsPage": {
+    "title": "अहवाल",
+    "subTitle1": "एकूण कामगिरी",
+    "subTitle2": "प्रत्येक प्रकल्पात",
+    "searchInputPlaceholder": "प्रकल्पाच्या नावाने शोधा",
+    "tableView": {
+      "head1": "क्र. क्रमांक",
+      "head2": "प्रकल्पाचा कालावधी",
+      "head3": "प्रकल्पाचे नाव",
+      "head4": "एकूण प्रगतीपथावर",
+      "head5": "एकूण पूर्ण"
+    },
+    "chartComponent": {
+      "totalAppLabel": "एकूण अर्ज",
+      "chartProjectsLabel": "प्रकल्प",
+      "totalSubmittedLabel": "एकूण सबमिट केलेले",
+      "appInprogressLabel": "अर्ज चालू आहेत"
+    }
+  }
+}

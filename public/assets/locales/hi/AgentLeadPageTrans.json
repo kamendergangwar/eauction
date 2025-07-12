@@ -1,0 +1,28 @@
+{
+    "pageTitle": "लीड अपलोड करें",
+    "uploadCardSection": {
+        "supportTxt": "Support",
+        "sampleTxt": "नमूना",
+        "browseTxt": "browse",
+        "submitTxt": "Submit"
+      },
+      "detailCardSection": {
+        "totalTxt": "कुल लीड्स",
+        "viewDetailsBtnTxt": "विवरण देखें",
+        "summaryTxt": "श्रेणियों का सारांश",
+        "leadsTxt" : "लीड्स"
+      },
+      "filterSection": {
+        "filterTitle": "इसके द्वारा फ़िल्टर करें",
+        "searchLabel": "ग्राहक खोजें",
+        "categoryLabel": "श्रेणी",
+        "projectLabel": "परियोजना",
+        "sortLabel": "इसके अनुसार क्रमबद्ध करें",
+        "filterBtnText": "लागू करें",
+        "clearBtnText": "फ़िल्टर क्लिअर करें",
+        "ascTxt": "आरोही",
+        "dscTxt" : "अवरोही"
+        
+      }
+    }
+    

@@ -1,0 +1,849 @@
+﻿{
+  "puccaHouseForm": {
+    "title": "Do you own a pucca house?",
+    "puccaHouseMessage": "Pucca house are made of easily available raw materials, like mud, straw, stones, wood, iron, bricks, cement, steel, etc., to form a concrete structure",
+    "formControl": {
+      "checkBoxLabel": "I confirm that I am not in possession of any pucca house",
+      "checkBoxError": "Confirming the checkbox is required."
+    }
+  },
+  "eStampForm": {
+    "title": "E-Stamping and E-Signing",
+    "description": " Get your documents stamped & signed online without stepping out from home. It is more secure, tamper-proof, less effort and authenticity verified through Aadhaar Signature.",
+    "termsConditionBox": {
+      "title": "Terms and conditions *",
+      "text1": "1. Charges for E-Stamping and E-Signing are separate from Application Fee",
+      "text2": "2. Charges are to be paid before using the feature",
+      "text3": "3. E-Stamping and E-Signing need to be done for all required documents"
+    },
+    "formControl": {
+      "checkBoxLabel": "I understand and agree to terms and conditions",
+      "checkBoxErrors": {
+        "required": "Acknowledge the Terms & Conditions"
+      },
+      "totalText": "Total Amount to be paid for E-Stamping and E-Signing is Rs 115.",
+      "viewBillText": "View billing summary",
+      "selectButtonText": "Select e-stamping",
+      "deSelectButtonText": "Deselect e-stamping"
+    },
+    "billingSummary": {
+      "title": "E-stamping and E-Signing billing summary",
+      "billingSummaryTable": {
+        "tableTh0": "Document name",
+        "tableTh1": "E-Stamping fee",
+        "tableTh2": "E-Signing fee",
+        "tableTh3": "Total"
+      },
+      "removeButtonText": "REMOVE E-STAMPING AND E-SIGNING"
+    }
+  },
+  "documentsForm": {
+    "title": "दस्तावेज़ प्रस्तुत करें",
+    "uploadDocTitle": "स्कैन किए गए दस्तावेज़ अपलोड करें",
+    "description": "निम्नलिखित दस्तावेजों की स्कैन कॉपी अपलोड करें। पीडीएफ, जेपीईजी, पीएनजी जैसे फॉर्मेट्स/प्रारूपों की अनुमति १ एमबी से अधिक नहीं है। कृपया प्रति अनुभाग के अनुसार आवश्यक दस्तावेज अपलोड करें।",
+    "castCertificateForm": {
+      "title": "जाति प्रमाणपत्र",
+      "formControl": {
+        "certifcateNumberInputLabel": "प्रमाणपत्र नंबर",
+        "certifcateNumberPlaceholder": "प्रमाणपत्र नंबर दर्ज करें",
+        "certifcateNumberErrors": {
+          "required": "प्रमाणपत्र नंबर आवश्यक है",
+          "limitation": "कृपया वैध प्रमाणपत्र नंबर दर्ज करें"
+        },
+        "nameCertifcateInputLabel": "प्रमाणपत्र के अनुसार नाम",
+        "nameCertifcatePlaceholder": "प्रमाणपत्र के अनुसार नाम दर्ज करें",
+        "nameCertifcateErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "certificateState": {
+          "certificateStateLabel": "प्रमाणपत्र राज्य",
+          "options": {
+            "maharashtra": "महाराष्ट्र",
+            "gujrat": "गुजरात",
+            "karnatka": "कर्नाटक"
+          },
+          "certificateStateErrors": {
+            "required": "प्रमाणपत्र राज्य की आवश्यकता है"
+          }
+        },
+        "documentDate": {
+          "documentDateLabel": "प्रमाणपत्र दिनांक",
+          "documentDateErrors": {
+            "required": "प्रमाणपत्र दिनांक आवश्यक है"
+          }
+        },
+        "barCodeLabel": "बार कोड है?",
+        "checkBoxLabel0": "हाँ",
+        "checkBoxLabel1": "नहीं",
+        "mahaCertificateLabel": "क्या महा ऑनलाइन सर्टिफिकेट है?",
+        "checkBoxLabel2": "हाँ",
+        "checkBoxLabel3": "नहीं",
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "casteValidityForm": {
+      "title": "जाति वैधता प्रमाणपत्र",
+      "formControl": {
+        "isBaartiMahaOnline": "क्या बीएएआरटीआय/महा ऑनलाइन सर्टिफिकेट है?",
+        "checkBoxLabel0": "बीएएआरटीआय",
+        "checkBoxLabel1": "महाऑनलाइन",
+        "checkBoxLabel2": "अन्य",
+        "documentNoInputLabel": "प्रमाणपत्र नंबर",
+        "documentNoPlaceholder": "प्रमाणपत्र नंबर दर्ज करें",
+        "documentNoErrors": {
+          "required": "प्रमाणपत्र नंबर आवश्यक है",
+          "limitation": "कृपया वैध प्रमाणपत्र नंबर दर्ज करें"
+        },
+        "nameCertifcateInputLabel": "प्रमाणपत्र के अनुसार नाम",
+        "nameCertifcatePlaceholder": "प्रमाणपत्र के अनुसार नाम दर्ज करें",
+        "nameCertifcateErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "casteCategory": {
+          "casteCategoryLabel": "जाति श्रेणी",
+          "options": {
+            "general": "सामान्य (जीपी)",
+            "sc": "शेड्यूल कास्ट/ अनुसूचित जाति (एससी)",
+            "st": "शेड्यूल ट्राइब्स/ अनुसूचित जनजाति (एसटी)",
+            "nt": "मॅडिक ट्राइब्स/ खानाबदोश जनजाति (एनटी)",
+            "dt": "डिनोटीफाईड ट्राइब्स/विमुक्त/अधिसूचित जनजाति (डीटी)"
+          },
+          "casteCategoryErrors": {
+            "required": "श्रेणी आवश्यक है"
+          }
+        },
+        "validity": {
+          "validityLabel": "वर्षों में वैधता",
+          "options": {
+            "one": "१",
+            "two": "२",
+            "three": "३",
+            "four": "४",
+            "five": "५",
+            "six": "६",
+            "seven": "७"
+          },
+          "validityErrors": {
+            "required": "वैधता आवश्यक है"
+          }
+        },
+        "certificateState": {
+          "certificateStateLabel": "प्रमाणपत्र राज्य",
+          "options": {
+            "maharashtra": "महाराष्ट्र",
+            "gujrat": "गुजरात",
+            "karnatka": "कर्नाटक"
+          },
+          "certificateStateErrors": {
+            "required": "प्रमाणपत्र राज्य की आवश्यकता है"
+          }
+        },
+        "documentDate": {
+          "documentDateLabel": "प्रमाणपत्र दिनांक",
+          "documentDateErrors": {
+            "required": "प्रमाणपत्र दिनांक आवश्यक है"
+          }
+        },
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "disabilityForm": {
+      "title": "विकलांगता प्रमाणपत्र",
+      "formControl": {
+        "documentNoInputLabel": "प्रमाणपत्र नंबर",
+        "documentNoPlaceholder": "प्रमाणपत्र नंबर दर्ज करें",
+        "documentNoErrors": {
+          "required": "प्रमाणपत्र नंबर आवश्यक है",
+          "limitation": "कृपया वैध प्रमाणपत्र नंबर दर्ज करें"
+        },
+        "barCodeLabel": "क्या बारकोड व्यक्तिगत पहचान नंबर मौजूद है?",
+        "checkBoxLabel0": "हाँ",
+        "checkBoxLabel1": "नहीं",
+        "rampLabel": "क्या रैंप की आवश्यकता है?",
+        "checkBoxLabel2": "हाँ",
+        "checkBoxLabel3": "नहीं",
+        "fileUploadTitleTxt0": "विकलांगता प्रमाणपत्र",
+        "fileUploadTitleTxt1": "पीएच सहमति",
+        "downloadCertiText0": "नमूना",
+        "downloadCertiText1": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "affidavitEForm": {
+      "title": "नमूना ई",
+      "affidavitErrors": {
+        "required": "नाम आवश्यक है",
+        "limitation": "कृपया वैध नाम दर्ज करें"
+      }
+    },
+    "journalistForm": {
+      "title": "पत्रकार प्रमाणपत्र",
+      "formControl": {
+        "nameInputLabel": "प्रमाणपत्र के अनुसार नाम",
+        "nameCertifcatePlaceholder": "प्रमाणपत्र के अनुसार नाम दर्ज करें",
+        "nameCertifcateErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "newsAgency": {
+          "newsAgencyLabel": "न्यूज एजेंसी का नाम",
+          "options": {
+            "news1": "आज का सिद्धांत",
+            "mews2": "जय महाराष्ट्र",
+            "news3": "लोकराज्य",
+            "news4": "महाराष्ट्र आगे"
+          },
+          "newsAgencyErrors": {
+            "required": "न्यूज एजेंसी का नाम आवश्यक है"
+          }
+        },
+        "designationInputLabel": "पद",
+        "designationPlaceholder": "पद दर्ज करें",
+        "designationErrors": {
+          "required": "पद की आवश्यकता है",
+          "limitation": "कृपया वैध पद दर्ज करें"
+        },
+        "refNoInputLabel": "संदर्भ संख्या",
+        "refNoPlaceholder": "संदर्भ नंबर दर्ज करें",
+        "refNoErrors": {
+          "required": "संदर्भ नंबर आवश्यक है"
+        },
+        "fileUploadTitleTxt0": "डीजीआईपीआर प्रमाणपत्र",
+        "fileUploadTitleTxt1": "फॉर्म डी",
+        "downloadCertiText0": "नमूना",
+        "downloadCertiText1": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "affidavitDForm": {
+      "title": "फॉर्म डी",
+      "formControl": {
+        "departmentInputLabel": "विभाग",
+        "departmentPlaceholder": "विभाग दर्ज करें",
+        "departmentErrors": {
+          "required": "विभाग की आवश्यकता है",
+          "limitation": "कृपया वैध विभाग दर्ज करें"
+        },
+        "designationInputLabel": "पद",
+        "designationPlaceholder": "पद दर्ज करें",
+        "designationErrors": {
+          "required": "पद की आवश्यकता है",
+          "limitation": "कृपया वैध पद दर्ज करें"
+        },
+        "joiningDate": {
+          "joiningDateLabel": "शामिल होने की तारीख",
+          "joiningDateErrors": {
+            "required": "शामिल होने की तारीख आवश्यक है"
+          }
+        },
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "exServiceForm": {
+      "title": "भूतपूर्व सैनिक/सेवारत दस्तावेज़",
+      "formControl": {
+        "rankInputLabel": "रँक",
+        "rankPlaceholder": "रँक दर्ज करें",
+        "rankErrors": {
+          "required": "रँक आवश्यक है",
+          "limitation": "कृपया एक मान्य रँक दर्ज करें"
+        },
+        "idNumberInputLabel": "आईडी नंबर",
+        "idNumberPlaceholder": "आईडी नंबर दर्ज करें",
+        "idNumberErrors": {
+          "limitation": "कृपया वैध आईडी नंबर दर्ज करें"
+        },
+        "armyNumberInputLabel": "सेना संख्या",
+        "armyNumberPlaceholder": "सेना संख्या दर्ज करें",
+        "armyNumberErrors": {
+          "limitation": "कृपया वैध सेना संख्या दर्ज करें"
+        },
+        "defenceType": {
+          "defenceTypeLabel": "रक्षा प्रकार",
+          "options": {
+            "regularArmy": "नियमित सेना",
+            "navy": "नौसेना",
+            "airForce": "वायु सेना",
+            "coastGuard": "तटरक्षक बल"
+          },
+          "defenceTypeErrors": {
+            "required": "रक्षा प्रकार आवश्यक है"
+          }
+        },
+        "serviceType": {
+          "serviceTypeLabel": "सेवा प्रकार",
+          "options": {
+            "regularArmy": "नियमित सेना",
+            "navy": "नौसेना",
+            "airForce": "वायु सेना",
+            "coastGuard": "तटरक्षक बल"
+          },
+          "serviceTypeErrors": {
+            "required": "सेवा प्रकार आवश्यक है"
+          }
+        },
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "apmcForm": {
+      "title": "एपीएमसी पंजीकरण प्रमाणपत्र",
+      "formControl": {
+        "documentNoInputLabel": "प्रमाणपत्र नंबर",
+        "documentNoPlaceholder": "प्रमाणपत्र नंबर दर्ज करें",
+        "documentNoErrors": {
+          "required": "प्रमाणपत्र नंबर आवश्यक है",
+          "limitation": "कृपया वैध प्रमाणपत्र नंबर दर्ज करें"
+        },
+        "nameInputLabel": "एपीएमसी प्रमाणपत्र के अनुसार नाम",
+        "namePlaceholder": "एपीएमसी प्रमाणपत्र के अनुसार नाम दर्ज करें",
+        "nameErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "documentDate": {
+          "documentDateLabel": "प्रमाणपत्र दिनांक",
+          "documentDateErrors": {
+            "required": "प्रमाणपत्र दिनांक आवश्यक है"
+          }
+        },
+        "authority": {
+          "authorityLabel": "जारी करने वाला प्राधिकारी स्थान",
+          "options": {
+            "maharashtra": "महाराष्ट्र",
+            "gujrat": "गुजरात",
+            "karnatka": "कर्नाटक"
+          },
+          "authorityErrors": {
+            "required": "जारी करने वाले प्राधिकारी का स्थान आवश्यक है"
+          }
+        },
+        "location": {
+          "locationLabel": "आवेदक का कार्य स्थान",
+          "options": {
+            "maharashtra": "महाराष्ट्र",
+            "gujrat": "गुजरात",
+            "karnatka": "कर्नाटक"
+          },
+          "locationErrors": {
+            "required": "आवेदक का कार्य स्थान आवश्यक है"
+          }
+        },
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "pjLetterForm": {
+      "title": "पीएपी निर्णय पत्र, वंशावल, अन्य दस्तावेज",
+      "formControl": {
+        "applicantLabel": "आवेदक प्रकार?",
+        "checkBoxLabel0": "स्वयं",
+        "checkBoxLabel1": "कानूनी वारिस",
+        "nameInputLabel": "पीएपी पत्र के अनुसार नाम",
+        "namePlaceholder": "पीएपी पत्र के अनुसार नाम दर्ज करें",
+        "nameErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "judgementInputLabel": "निर्णय पत्र दस्तावेज़ नंबर",
+        "judgementPlaceholder": "निर्णय पत्र दस्तावेज़ नंबर दर्ज करें",
+        "judgementErrors": {
+          "required": "नंबर आवश्यक है",
+          "limitation": "कृपया वैध नंबर दर्ज करें"
+        },
+        "documentDate": {
+          "documentDateLabel": "निर्णय पत्र दस्तावेज़ दिनांक",
+          "documentDateErrors": {
+            "required": "तारीख आवश्यक है"
+          }
+        },
+        "vanshavalDocsRelationInputLabel": "कानूनी वारिस के साथ रिश्ता",
+        "vanshavalDocsRelationPlaceholder": "कानूनी वारिस के साथ रिश्ता दर्ज करें",
+        "vanshavalDocsRelationshipErrors": {
+          "required": "कानूनी वारिस के साथ रिश्ता आवश्यक है",
+          "limitation": "कृपया वैध रिश्ता दर्ज करें"
+        },
+        "vanshavalDocsInputLabel": "वंशावल पत्र दस्तावेज़ नंबर",
+        "vanshavalDocsPlaceholder": "वंशावल पत्र दस्तावेज़ संख्या दर्ज करें",
+        "vanshavalDocsErrors": {
+          "required": "नंबर आवश्यक है",
+          "limitation": "कृपया वैध नंबर दर्ज करें"
+        },
+        "vanshavalDocstDate": {
+          "documentDateLabel": "वंशावल पत्र दस्तावेज़ तारीख",
+          "documentDateErrors": {
+            "required": "तारीख आवश्यक है"
+          }
+        },
+        "otherDocumentLabel": "क्या आवेदक अन्य पीएपी दस्तावेज लाए है?",
+        "checkBoxLabel2": "हाँ",
+        "checkBoxLabel3": "नहीं",
+        "docuNameInputLabel": "अन्य दस्तावेज़ का नाम",
+        "docuNamePlaceholder": "अन्य दस्तावेज़ नाम दर्ज करें",
+        "docuNameErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "docuNoInputLabel": "अन्य दस्तावेज़ नंबर",
+        "docuNoPlaceholder": "अन्य दस्तावेज़ नंबर दर्ज करें",
+        "docuNoErrors": {
+          "required": "नंबर आवश्यक है",
+          "limitation": "कृपया वैध नंबर दर्ज करें"
+        },
+        "otherDocumentDate": {
+          "documentDateLabel": "अन्य दस्तावेज़ तारीख",
+          "documentDateErrors": {
+            "required": "तारीख आवश्यक है"
+          }
+        },
+        "fileUploadTitleTxt0": "पीएपी निर्णय पत्र",
+        "fileUploadTitleTxt1": "अन्य दस्तावेज",
+        "fileUploadTitleTxt2": "वंशावल दस्तावेज",
+        "downloadCertiText0": "नमूना",
+        "downloadCertiText1": "नमूना",
+        "downloadCertiText2": "नमूना",
+        "uploadErrors0": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "uploadErrors1": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "affidavitFForm": {
+      "title": "नमूना एफ ",
+      "formControl": {
+        "relAffidavit": {
+          "relAffidavitLabel": "नमूना एफ के अनुसार धर्म का चयन करें",
+          "options": {
+            "sikhs": "सिख धर्म",
+            "muslim": "इस्लाम",
+            "jain": "जैन धर्म",
+            "christian": "ख्रिश्चन धर्म",
+            "hindu": "हिन्दू धर्म",
+            "buddhism": "बुद्ध धर्म",
+            "judaism": "यहूदी धर्म"
+          },
+          "relAffidavitErrors": {
+            "required": "धर्म की आवश्यकता है"
+          }
+        },
+        "relleaving": {
+          "relleavingLabel": "लिविंग प्रमाणपत्र के अनुसार धर्म का चयन करें",
+          "options": {
+            "sikhs": "सिख धर्म",
+            "muslim": "इस्लाम",
+            "jain": "जैन धर्म",
+            "christian": "ख्रिश्चन धर्म",
+            "hindu": "हिन्दू धर्म",
+            "buddhism": "बुद्ध धर्म",
+            "judaism": "यहूदी धर्म"
+          },
+          "relleavingErrors": {
+            "required": "धर्म की आवश्यकता है"
+          }
+        },
+        "fileUploadTitleTxt0": "नमूना एफ",
+        "fileUploadTitleTxt1": "विद्यालय छोड़ने का प्रमाणपत्र",
+        "downloadCertiText0": "नमूना",
+        "downloadCertiText1": "नमूना",
+        "uploadErrors0": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "uploadErrors1": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "emplCardForm": {
+      "title": "व्यक्तिगत प्रबंधक प्रमाणपत्र",
+      "formControl": {
+        "department": {
+          "departmentLabel": "विभाग",
+          "options": {
+            "maharashtra": "महाराष्ट्र",
+            "gujrat": "गुजरात",
+            "karnatka": "कर्नाटक"
+          },
+          "departmentErrors": {
+            "required": "विभाग की आवश्यकता है"
+          }
+        },
+        "designationInputLabel": "पद",
+        "designationPlaceholder": "पद दर्ज करें",
+        "designationErrors": {
+          "required": "पद की आवश्यकता है",
+          "limitation": "कृपया वैध पद दर्ज करें"
+        },
+        "documentDate": {
+          "documentDateLabel": "शामिल होने की तारीख",
+          "documentDateErrors": {
+            "required": "शामिल होने की तारीख आवश्यक है"
+          }
+        },
+        "houseLabel": "क्या कर्मचारी कल्याण योजना/एम्प्लॉयी वेल्फेअर स्कीम के तहत कर्मचारी के पास घर है?",
+        "checkBoxLabel0": "हाँ",
+        "checkBoxLabel1": "नहीं",
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        }
+      }
+    },
+    "selfIncomeForm": {
+      "title": "आय विवरण(स्वयं)",
+      "formControl": {
+        "empType": {
+          "empTypeLabel": "कर्मचारी का प्रकार",
+          "options": {
+            "label0": "सरकारी कर्मचारी/निजी कर्मचारी",
+            "label1": "स्व-नियोजित",
+            "label2": "बेरोजगार/शून्य-आय/गैर-कामकाजी"
+          },
+          "empTypeErrors": {
+            "required": "कर्मचारी प्रकार आवश्यक है"
+          }
+        },
+        "panNumberInputLabel": "PAN Number",
+        "panNumberPlaceholder": "Enter PAN number here",
+        "panNumberErrors": {
+          "required": "Pan Card number is required",
+          "limitation": "Please enter a valid PAN card number"
+        },
+        "passwordInputLabel": "Password",
+        "passwordPlaceholder": "Enter password",
+        "passwordErrors": {
+          "required": "Password is required",
+          "limitation": "Please enter a valid password"
+        },
+        "noteDetails": {
+          "title": "*Note",
+          "note0": "1) Please provide ITR Portal Login Password to Fetch ITR details",
+          "note1": "2) This is solely to verify the Income Details",
+          "note2": "3) We don't store your password"
+        },
+        "downloadCertiText0": "नमूना",
+        "salaryLabel": "क्या वेतन वर्ष २०२०-२०२१ के लिए कवर किया गया है",
+        "isBarCode": "बार कोड मौजूद है?",
+        "checkBoxLabel0": "हाँ",
+        "checkBoxLabel1": "नहीं",
+        "itrLabel": "क्या वर्ष २०२०-२०२१ के लिए आईटीआर दाखिल किया गया है?",
+        "checkBoxLabel2": "हाँ",
+        "checkBoxLabel3": "नहीं"
+      }
+    },
+    "aadharCardForm": {
+      "title": "आवेदक आधार कार्ड",
+      "title1": "सह आवेदक आधार कार्ड"
+    },
+    "panCardForm": {
+      "title": "आवेदक पैन कार्ड",
+      "title1": "सह आवेदक पैन कार्ड"
+    },
+    "sposeIncomeForm": {
+      "title": "आय विवरण (पति/पत्नी)",
+      "formControl": {
+        "empType": {
+          "empTypeLabel": "कर्मचारी का प्रकार",
+          "options": {
+            "label0": "सरकारी कर्मचारी/निजी कर्मचारी",
+            "label1": "स्व-नियोजित",
+            "label2": "बेरोजगार/शून्य-आय/गैर-कामकाजी"
+          },
+          "empTypeErrors": {
+            "required": "कर्मचारी प्रकार आवश्यक है"
+          }
+        },
+        "panNumberInputLabel": "PAN Number",
+        "panNumberPlaceholder": "Enter PAN number here",
+        "panNumberErrors": {
+          "required": "PAN Card number is required",
+          "limitation": "Please enter a valid PAN card number"
+        },
+        "passwordInputLabel": "Password",
+        "passwordPlaceholder": "Enter password",
+        "passwordErrors": {
+          "required": "Password is required",
+          "limitation": "Please enter a valid password"
+        },
+        "noteDetails": {
+          "title": "*Note",
+          "note0": "1) Please provide ITR Portal Login Password to Fetch ITR details",
+          "note1": "2) This is solely to verify the Income Details",
+          "note2": "3) We don't store your password"
+        },
+        "downloadCertiText0": "नमूना",
+        "salaryLabel": "क्या वेतन वर्ष २०२०-२०२१ के लिए कवर किया गया है",
+        "isBarCode": "बार कोड मौजूद है?",
+        "checkBoxLabel0": "हाँ",
+        "checkBoxLabel1": "नहीं",
+        "itrLabel": "क्या वर्ष २०२०-२०२१ के लिए आईटीआर दाखिल किया गया है?",
+        "checkBoxLabel2": "हाँ",
+        "checkBoxLabel3": "नहीं"
+      }
+    },
+    "domicileForm": {
+      "title": "अधिवास प्रमाणपत्र",
+      "formControl": {
+        "certifcateInputLabel": "प्रमाणपत्र नंबर",
+        "certifcatePlaceholder": "प्रमाणपत्र नंबर दर्ज करें",
+        "certifcateErrors": {
+          "required": "प्रमाणपत्र नंबर आवश्यक है",
+          "limitation": "कृपया वैध प्रमाणपत्र नंबर दर्ज करें"
+        },
+        "nameInputLabel": "अधिवास के अनुसार नाम",
+        "namePlaceholder": "अधिवास के अनुसार नाम दर्ज करें",
+        "nameErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "domicileState": {
+          "domicileStateLabel": "अधिवास राज्य",
+          "options": {
+            "maharashtra": "महाराष्ट्र",
+            "uttarakhand": "उत्तराखंड",
+            "westBengal": "पश्चिम बंगाल"
+          },
+          "domicileStateErrors": {
+            "required": "अधिवास राज्य आवश्यक है"
+          }
+        },
+        "documentDate": {
+          "documentDateLabel": "अधिवास तारीख",
+          "documentDateErrors": {
+            "required": "अधिवास तारीख आवश्यक है"
+          }
+        },
+        "barCodeLabel": "बार कोड मौजूद है?",
+        "barcodeRequired": "बार कोड नंबर आवश्यक है",
+        "barcodeLimit" : "२० अंकों का बारकोड अनिवार्य है।",
+        "barcodeNumber": "बार कोड नंबर",
+        "checkBoxLabel0": "हाँ",
+        "checkBoxLabel1": "नहीं",
+        "mahaCertificateLabel": "क्या महा ऑनलाइन दस्तावेज?",
+        "checkBoxLabel2": "हाँ",
+        "checkBoxLabel3": "नहीं",
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "pmayProofForm": {
+      "title": "पीएमएवाय पंजीकरण प्रमाण",
+      "formControl": {
+        "certifcateNumberInputLabel": "यहाँ आधार नंबर दर्ज करें",
+        "certifcateNumberPlaceholder": "आधार नंबर दर्ज करें",
+        "certifcateNumberErrors": {
+          "required": "आधार नंबर आवश्यक है",
+          "limitation": "कृपया वैध आधार नंबर दर्ज करें"
+        },
+        "registrationType": {
+          "registrationTypeLabel": "पंजीकरण प्रकार",
+          "options": {
+            "maharashtra": "महाराष्ट्र",
+            "gujrat": "गुजरात",
+            "karnatka": "कर्नाटक"
+          },
+          "registrationTypeErrors": {
+            "required": "पंजीकरण प्रकार आवश्यक है"
+          }
+        },
+        "registrationDate": {
+          "registrationDateLabel": "पंजीकरण की तारीख",
+          "registrationDateErrors": {
+            "required": "पंजीकरण की तारीख आवश्यक है"
+          }
+        },
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing",
+        "register0": "क्या आप ने अभी तक पीएमएवाई के लिए रजिस्टर नहीं किया?",
+        "register1": "",
+        "register2": "",
+        "registerHere": "यहाँ रजिस्टर करें",
+        "unableTxt": "अगर आप पंजीकरण करने में असमर्थ हुए हैं, तो नगर निगम कार्यालय, पनवेल पर जाएँ और व्यक्तिगत रूप से अपने दस्तावेज़ को वहाँ जमा करें। उसके बाद आप नगर निगम कार्यालय द्वारा जारी रसीद को पोर्टल पर अपलोड करें।"
+      }
+    },
+    "affidavitBForm": {
+      "title": "नमूना बी",
+      "formControl": {
+        "appliNameInputLabel": "आवेदक का नाम",
+        "appliNamePlaceholder": "आवेदक का नाम दर्ज करें",
+        "appliNameErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "appliAgeInputLabel": "आवेदक की उम्र",
+        "appliAgePlaceholder": "आवेदक की उम्र दर्ज करें",
+        "appliAgeErrors": {
+          "required": "उम्र आवश्यक है",
+          "limitation": "कृपयावैध उम्र दर्ज करें"
+        },
+        "appliOccuInputLabel": "आवेदक का व्यवसाय",
+        "appliOccuPlaceholder": "आवेदक का व्यवसाय दर्ज करें",
+        "appliOccuErrors": {
+          "required": "व्यवसाय आवश्यक है",
+          "limitation": "कृपया वैध व्यवसाय दर्ज करें"
+        },
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "affidavitCForm": {
+      "title": "शपथ पत्र: वार्षिक आय पर घोषणा",
+      "formControl": {
+        "appliNameInputLabel": "आवेदक का नाम",
+        "appliNamePlaceholder": "आवेदक का नाम दर्ज करें",
+        "appliNameErrors": {
+          "required": "नाम आवश्यक है",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "appliAgeInputLabel": "आवेदक की उम्र",
+        "appliAgePlaceholder": "आवेदक की उम्र दर्ज करें",
+        "appliAgeErrors": {
+          "required": "उम्र आवश्यक है",
+          "limitation": "कृपयावैध उम्र दर्ज करें"
+        },
+        "appliOccuInputLabel": "आवेदक का व्यवसाय",
+        "appliOccuPlaceholder": "आवेदक का व्यवसाय दर्ज करें",
+        "appliOccuErrors": {
+          "required": "व्यवसाय आवश्यक है",
+          "limitation": "कृपया वैध व्यवसाय दर्ज करें"
+        },
+        "downloadCertiText0": "नमूना",
+        "uploadErrors": {
+          "required": "फ़ाइल की आवश्यकता है",
+          "limitation": "फाइल बहुत बड़ी है",
+          "fileFormat": "असमर्थित प्रारूप"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "affidavitForm": {
+      "title": "शपथ पत्र: घोषणा भारत में पक्का घर (फॉर्म ए)",
+      "formControl": {
+        "downloadCertiText0": "नमूना"
+      }
+    },
+    "docUploadedSuccessMsg": "दस्तावेज़ सफलतापूर्वक अपलोड हो गयी!",
+    "fileUploadedTitle": "फाइल अपलोड हो गयी",
+    "downloadButtonText": "नमूना डाउनलोड करें",
+    "cancelButtonText": "रद्द करें",
+    "saveButtonText": "सहेजें",
+    "reuploadTxt": "पुन: अपलोड",
+    "docRejectTxt": "दस्तावेज़ अस्वीकृत कारण",
+    "preview": "प्रीव्यू",
+    "docRejNoteTxt": "एक बार दस्तावेज़ दोबारा सबमिट करने के बाद, इसे तब तक दोबारा अपलोड नहीं किया जा सकता जब तक कि सत्यापन प्रक्रिया पूरी नहीं हो जाती।",
+    "noteTxt": "टिप्पणी: "
+  },
+  "title": "दस्तावेज़ अपलोड करें",
+  "completeLaterButtonText": "बाद में पूरा करें",
+  "bannerTitleText": "कोई दस्तावेज़। कहीं भी। किसी भी समय",
+  "bannerParaText": "जब भी आपके लिए सुविधाजनक हो अपने दस्तावेज़ अपलोड करें, या हमारे",
+  "bannerParaLinkText": "ऑफलाइन केंद्र पर जाएँ।",
+  "backButtonText": "पीछे",
+  "saveBtn": "सहेजें",
+  "addBtn": "जोड़ें",
+  "reUploadSuccessTxt": "सफलतापूर्वक पुनः अपलोड किया गया",
+  "docVerifiedTxt": "दस्तावेज़ सत्यापित",
+  "selfAttestedTxt": "स्वसत्यापित दस्तावेज",
+  "skipLabelTxt": "यदि आपके पास यह दस्तावेज़ नहीं है, तो आप अभी के लिए इसे छोड़ सकते हैं",
+  "skipDialogTittle": "जाति वैधता प्रमाण पत्र ना होने पर...",
+  "skipDialogContent": "यदि आपके पास यह दस्तावेज़ नहीं है, तो आप अभी इस चरण को छोड़ कर आगे बढ़ सकते हैं। हालाँकि, आपको आवंटन पत्र प्राप्त करने के लिए यह दस्तावेज़ जमा करना आवश्यक है। यह दस्तावेज़ जमा न करने तक आवंटन पत्र नहीं दिया जाएगा। यह दस्तावेज़ जमा न करने पर बुकिंग रद्द कर दी जाएगी और बुकिंग राशि जब्त कर ली जाएगी।",
+  "confirmSkipBtn": "मान्य",
+  "cancelSkip": "अमान्य",
+  "orTxt": "या",
+  "rejectionReasonTxt": "खारिज करने का कारण:",
+  "RequiredLaterTxt": "बाद में आवश्यक",
+  "DGIPRcertificateTxt": "DGIPR/CIDCO PRO Certificate",
+  "optionalDocTxt": "यदि जाति वैधता प्रमाण पत्र उपलब्ध नहीं है, तो कृपया जल्द से जल्द प्राप्त करें",
+  "uploadDocAlertTxt": "आपने आवेदन शुल्क का भुगतान कर दिया है, आपकी दस्तावेज़ सत्यापन प्रक्रिया चल रही है। तब तक आप अपने दस्तावेज़ों को तभी संपादित कर सकते हैं जब दस्तावेज़ अस्वीकृत हो।",
+  "mandatoryTxt": "अनिवार्य",
+  "journalistBracketTxt": "महाराष्ट्र राज्य सरकार के अधिकारी/कर्मचारी होने का प्रमाण पत्र",
+  "CIDCOBracketTxt": "सक्षम प्राधिकारी के हस्ताक्षर और मुहर के साथ विभाग के लेटर हेड पर",
+  "JournalistBracketTxt": "महाराष्ट्र में कार्यरत पत्रकार होने का प्रमाण पत्र",
+  "ReligiousMinoritesBracketTxt": "क्षेत्रीय अल्पसंख्यक समुदाय यानी मुस्लिम, ईसाई, पारसी, बौद्ध, जैन, सिख में होने का शपथ पत्र",
+  "AffidavitBracketTxt": "शपथ पत्र: वार्षिक आय पर घोषणा",
+  "editBtn": "सुधारें",
+  "sampleTxt": "नमूना",
+  "loadProgress": "प्रोग्रेस सेव्ह हो रही है",
+  "checkLabel": "मैं सहमत हूँ की मेरी जानकारी का उपयोग बैंकिंग प्रक्रिया के लिए किया जा सकता है।",
+  "FcfsTnCLabel": "दस्तावेज़ नियम और शर्तें",
+  "FcfsCheckLabel1": "मैं अपने दस्तावेजों की मौलिकता से सहमत हूं और ",
+  "FcfsCheckLabel2": "नियम और शर्तों",
+  "FcfsCheckLabel3": " के अधीन, मैं बैंकिंग प्रक्रियाओं के लिए अपनी जानकारी के उपयोग के लिए सहमति देता हूं।",
+  "FcfsTnC1": "अपना दस्तावेज़ सबमिट करने के लिए धन्यवाद। हमें आवश्यक जानकारी प्रदान करने के आपके प्रयास की हम सराहना करते हैं। कृपया ध्यान दें कि हमारी सत्यापन प्रक्रिया के भाग के रूप में, हम आपके द्वारा प्रदान किए गए दस्तावेज़ की मैन्युअल रूप से समीक्षा भी करेंगे। जबकि मैन्युअल दस्तावेज़ सत्यापन यदि आपने गलत दस्तावेज़ प्रदान किए हैं, तो 2000 रुपये की राशि जब्त कर ली जाएगी।",
+  "FcfsTnC2": "हम सटीकता और सुरक्षा के महत्व को समझते हैं, और हम यह सुनिश्चित करना चाहते हैं कि हमें सबमिट की गई सभी सूचनाओं की पूरी तरह से समीक्षा और सत्यापन किया जाए। निश्चिंत रहें कि आपके दस्तावेज़ पर ध्यान दिया जाएगा और इसकी जांच की जाएगी।",
+  "FcfsTnC3": "इस मामले में आपके सहयोग और समझ के लिए धन्यवाद। यदि आपके कोई प्रश्न या चिंताएँ हैं, तो कृपया हमसे संपर्क करने में संकोच न करें।",
+  "dragDropLabel": "उठाएं और यहाँ रखें या",
+  "browse": "अपलोड",
+  "fileLimit0": "",
+  "fileLimit1": "जेपीजी, पीएनजी और पीडीएफ के प्रारूप में ",
+  "fileLimit2": "अधिकतम २ एमबी की फाईल ही स्वीकार की जायेगी।",
+  "fileLimit3": "जेपीजी और  पीएनजी के प्रारूप में ",
+  "nextButtonText": "सहेजें",
+  "acknowledgeMsg0": "कृपया सभी दस्तावेज अपलोड करें और पावती स्वीकार करें",
+  "acknowledgeMsg1": "कृपया सभी आवश्यक दस्तावेज अपलोड करें और पावती स्वीकार करें फिर पूरा करने के लिए आगे बढ़ें पर क्लिक करें।",
+  "acknowledgeLabel": "कृपया स्वीकार करें",
+  "acknowledgeContent": "मैं प्रमाणित करता हूं कि अपलोड किए गए सभी दस्तावेज सत्य और सही हैं। मैं सत्यापन के लिए इन दस्तावेजों के उपयोग के लिए अपनी सहमति देता हूं।",
+  "okBtn": "आगे बढ़ें",
+  "barCodeHelperTxt": "कृपया कोई एक विकल्प चुनें"
+}

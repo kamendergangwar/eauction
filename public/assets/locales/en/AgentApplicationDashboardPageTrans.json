@@ -1,0 +1,33 @@
+{
+  "tabs": {
+    "item1": "All Applications",
+    "item2": "In Progress",
+    "item3": "Completed",
+    "item4": "Rejected"
+  },
+  "filterSection": {
+    "filterTitle": "Filter by",
+    "searchLabel": "Search Applicant",
+    "categoryLabel": "Category",
+    "projectLabel": "Project",
+    "statusLabel": "Status",
+    "filterBtnText": "Apply",
+    "clearBtnText": "Clear"
+  },
+  "cardViewLabels": {
+    "apnNoLabel": "APN No.",
+    "aadhaarLabel": "Aadhaar",
+    "projectLabel": "Project",
+    "categoryLabel": "Category",
+    "inProgresslabel": "In Progress",
+    "progressStatusText": {
+      "step1": "Personal Details",
+      "step2": "Category Details",
+      "step3": "KYC Documents",
+      "step4": "Make Payment"
+    }
+  },
+  "firstLineErrorMsg": "You haven’t applied for any projects yet.",
+  "secondLineErrorMsg": "Start by filling the application form today",
+  "actionButtonText": "View Projects"
+}

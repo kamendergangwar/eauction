@@ -1,0 +1,210 @@
+{
+  "projectForm": {
+    "title1": "Select Location & Towers",
+    "title": "Select Project",
+    "listViewBtn": "List",
+    "mapViewBtn" : "Map",
+    "timeValidTxt1": "In case Booking amount is not paid before",
+    "timeValidTxt2": "flat selected below will be released for others",
+    "continuePaymentTxt": "Continue to pay Booking amount",
+    "formControl": {
+      "location": {
+        "locationLabel": "Location",
+        "locationPlaceholder": "Select Location",
+        "options": {
+          "mumbai": "Mumbai",
+          "naviMumbai": "Navi Mumbai",
+          "pune": "Pune"
+        }
+      },
+      "projectType": {
+        "projectTypeLabel": "Type",
+        "typePlaceholder": "Select Type",
+        "options": {
+          "kh1BHK": "1 BHK",
+          "kh2BHK": "2 BHK",
+          "kh3BHK": "3 BHK"
+        }
+      },
+      "priceRange": {
+        "priceRangeLabel": "Price",
+        "priceRangePlaceholder": "Select Price",
+        "lackTxt": "Lakh"
+      },
+      "searchBtnTxt": "Search",
+      "resetFilterBtnText": "Reset Filter",
+      "noProject": "No Projects Data",
+      "noProjectFound": "No Projects found for the selected filter criteria. Please change the filters to get more projects."
+    }
+  },
+  "switchSchemeForm": {
+    "title": "Do you want to switch the Scheme",
+    "subTitle": "By changing the scheme benefits and price may vary.",
+    "okBtn": "OK",
+    "cancelBtn": "Cancel",
+    "schemeTxt": "Scheme Selected",
+    "PMAYTxt": "PMAY",
+    "non-PMAY": "Non-PMAY",
+    "pmayBtn": "Change"
+  },
+  "projectCard": {
+    "typeLabel": "Type",
+    "bhkText": "BHK",
+    "kTxt": "K",
+    "lackTxt": "Lakh",
+    "crkTxt": "Cr",
+    "carpetAreaLabel": "RERA Carpet Area",
+    "unitPriceLabel": "Price",
+    "sqftText": "SQFT",
+    "helpingText": "Select if you are interested in applying for this project",
+    "amenitiesLabel": "Amenities",
+    "moreBtnLabel": "more",
+    "deSelectButtonText": "Remove Project",
+    "selectButtonText": "Select Project",
+    "moreDetailButtonText": "View Project Details",
+    "addCategoryButton": "Add Category",
+    "appliedUnderCategories": "Applied under Category",
+    "typicalFloorPlanTxt": "Typical Floor Plan",
+    "unitPlanTxt": "Unit Plan of",
+    "keyPlanTxt": "Key Plan of",
+    "unitNo": "Unit No.",
+    "floorNo": "Floor No.",
+    "selectedChip": "Selected Flat",
+    "unitPlan": "Unit Plan",
+    "keyPlan": "Key Plan",
+    "reraArea": "RERA Carpet Area",
+    "totalTower": "Total Towers",
+    "totalAvailUnit": "Total Units Available",
+    "categoryTxt": "Category",
+    "selectTowerText": "Select Tower",
+    "chooseYourFlatText": "Choose Your Flat",
+    "legends": {
+      "sold": "Sold",
+      "pending": "Pending Payment",
+      "available": "Available",
+      "selected": "Selected"
+    },
+    "floorText": "Floor",
+    "confirmBookingText": "Please confirm your booking to proceed",
+    "sendOtpText": "An OTP has been sent to your registered mobile number",
+    "getOtpButtonText": "Get OTP to confirm your booking",
+    "cancelFlatBookingText": "Are you sure you want to cancel this flat booking?",
+    "cancelFlatBookingNote": "By canceling this flat, you can rebook any flat again you want.",
+    "cancelPrevFlatBookingText": "Are you sure you want to cancel existing flat booking?",
+    "cancelPrevFlatBookingNote": "By canceling previous flat, you can rebook new flat again if you want, within the time available with respect to Timer on top.",
+    "getOtpButtonCancellationText": "Get OTP to confirm your cancellation",
+    "afterCancellationToastMsg": "Flat Booking Cancelled Successfully, Please rebook new flat.",
+    "cancelBtn": "Cancel",
+    "unitType": "Unit Type",
+    "towerNo": "Tower No.",
+    "submitBtn": "Submit",
+    "bookNowBtn": "Book now",
+    "continueBtn": "Continue",
+    "enterOtpText": "Enter OTP",
+    "otpReqText": "OTP is required",
+    "resendOtpText": "Resend OTP in",
+    "sec": "seconds",
+    "yesText": "Yes",
+    "noText": "No",
+    "flatSelectedText1": "You have selected Flat No.",
+    "flatSelectedText2": ", Click on Book Now to continue.",
+    "numberOfUnits": "No. of Units",
+    "numberOfTower": "No. of Towers",
+    "numberOfFloors": "No. of Floors",
+    "tower": "Tower",
+    "units": "Unit",
+    "type": "Type",
+    "selectedPreferencesText": "Selected Preferences",
+    "editPreferencesText": "Edit Preferences"
+  },
+  "categorySelectionForm": {
+    "title": "Select Categories",
+    "helpText1": "Select the categories under which you want to apply for this scheme.",
+    "helpText2": "You can select multiple categories.",
+    "dataNotFoundMessage": "There are no categories available for this project.",
+    "formControl": {
+      "selectionError": "Please select a category to proceed",
+      "okayButton": "Select"
+    }
+  },
+  "savingLoaderTxt": "Saving Progress",
+  "saveButtonText": "NEXT",
+  "noProjectsErrorMsg": "No Projects Available",
+  "projectDetailsPage": {
+    "erraCertifiedBtn": "RERA CERTIFIED",
+    "goToTopBtnTxt": "Go to Top",
+    "essentialDetailsSec": {
+      "label1": "Unit Price",
+      "label2": "RERA Carpet Area",
+      "label3": "Type",
+      "label4": "Development Status",
+      "bhkText": "BHK",
+      "sqftText": "SQFT"
+    },
+    "navBtnsSec": {
+      "navButton1": "Overview",
+      "navButton2": "About Project",
+      "navButton3": "Floor Plans",
+      "navButton4": "Amenities",
+      "navButton5": "Location"
+    },
+    "overviewSec": {
+      "title": "Overview",
+      "tenementsText": "Tenements",
+      "incomeGroupText": "Income group",
+      "reraIdText": "MahaRERA No. ",
+      "categoryTitleTxt": "Category"
+    },
+    "aboutUsSec": {
+      "title": "About Project",
+      "paragraph": "EWS Type of Houses located at the heart of the Navi Mumbai and equipped with amenities like Solar Panels, Rainwater Harvesting, different Species of trees, Football Field, Cricket Ground, Basketball Court, Multipurpose Ground, Garden for Seniors, Parking, Fitness Club, Commercial Shops, Bus Terminus and Railway Forecourt"
+    },
+    "floorPlansSec": {
+      "title": "Floor Plans",
+      "tab1": "Master Plan",
+      "tab2": "Wing A",
+      "tab3": "Wing B",
+      "tab4": "Wing C"
+    },
+    "viewHomesSec": {
+      "title": "View Homes in 3D",
+      "paragraph": "Capture your glimpse at the CIDCO house with 3D virtual tour. View how it will look in real space by clicking on the button below.",
+      "takeTourBtnTxt": "Take a Virtual Tour"
+    },
+    "amenitiesSec": {
+      "title": "Amenities"
+    },
+    "locationSec": {
+      "title": "Location",
+      "tab1": "Project Location",
+      "tab2": "Location Map",
+      "tab3": "Connectivity"
+    }
+  },
+  "selectFlatDialog": {
+    "filterTxt": "Filter",
+    "clearTxt": "Clear",
+    "typeTxt": "Type",
+    "applyTxt": "Apply",
+    "cancelTxt": "Cancel",
+    "keyPlan": "Key Plan of Unit",
+    "refugeFloorTxt": "Refuge Floor",
+    "viewKeyLbl": "Click to view Key Plan of Flat",
+    "viewUnitLbl": "Click to view Unit Plan of Flat",
+    "viewFloorLbl": "Click here to view Floor Plan",
+    "floorTab": "FLOOR PLAN",
+    "unitTab" : "UNIT PLAN",
+    "keyTab" : "KEY PLAN / FLOOR PLAN",
+    "availableTxt" : "Available",
+    "unitsTxt" : "Units",
+    "towerTxt" : "Tower"
+  },
+  "projectMap": {
+    "clickLocationTxt":"Click on the Location of your choice",
+    "clickTowerTxt":"Click on the Tower of your choice",
+    "backLocationBtn":"Back To Locations",
+    "towersTxt":"Towers",
+    "totalUnitsTxt":"Total Units",
+    "noFlatTxt" : "No Flat is Available"
+  }
+}

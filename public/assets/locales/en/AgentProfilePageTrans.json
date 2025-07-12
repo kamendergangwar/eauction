@@ -1,0 +1,66 @@
+{
+  "pageTitle": "Profile",
+  "appCardSection": {
+    "mainTitle": "Monthly Stats",
+    "cardTitle1": "Total Applications",
+    "cardTitle2": "Applications In Progress"
+  },
+  "notifcationsSection": {
+    "title": "Notifcations",
+    "switchLabel": "Turned On!"
+  },
+  "companyDetailsSection": {
+    "title": "Company Details",
+    "dataLabel1": "CFC Id", 
+    "dataLabel2": "Company Name",
+    "dataLabel3": "Managed by"
+  },
+  "personalInformationSection": {
+    "title": "Personal Information",
+    "dataLabel1": "Full Name",
+    "dataLabel2": "Gender",
+    "dataLabel3": "Contact Details",
+    "dataLabel4": "Email Id",
+    "dataLabel5": "Current Address",
+    "editBtnText": "Edit"
+  },
+  "personalInfoEdit": {
+    "title": "Personal Information",
+    "formControl": {
+      "fullNameLabel": "Full Name",
+      "fullNamePlaceholder": "Enter Your Full Name",
+      "fullNameErrors": {
+        "required": "Full Name is Required"
+      },
+      "emailIdLabel": "Email",
+      "emailIdPlaceholder": "Enter Your Email ID",
+      "emailIdErrors": {
+        "required": "Email ID is Required",
+        "limitation": "Please enter a valid email address"
+      },
+      "mobileNumberLabel": "Mobile Number",
+      "mobileNumberPlaceholder": "Enter Your Mobile Number",
+      "mobileNumberErrors": {
+        "required": "Mobile number is required",
+        "limitation": "Please enter a valid mobile number"
+      },
+      "genderLabel": "Gender",
+      "genderPlaceholder": "Select Gender",
+      "genderErrors": {
+        "required": "Gender is required"
+      },
+      "genderOptions": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      },
+      "currentAddressLabel": "Current Address",
+      "currentAddressPlaceholder": "Enter Your Current Address",
+      "currentAddressErrors": {
+        "required": "Current Address is required"
+      },
+      "saveBtnText": "Save",
+      "cancelBtnText": "Cancel"
+    }
+  }
+}

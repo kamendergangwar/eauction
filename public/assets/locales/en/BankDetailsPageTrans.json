@@ -1,0 +1,166 @@
+{
+  "title": "Pay Booking Amount",
+  "tittle2": "Pay Application Fee",
+  "totalProject": "Total Applied Project",
+  "billingDetails": {
+    "title": "Billing Summary",
+    "noteText": "Note",
+    "noteMessage": "You will have to pay separate application fee and other charges mentioned below for all the categories you're applying for.",
+    "projectText": "Project",
+    "selectCatText": "Selected Category",
+    "selectedFlatTxt": "Selected Flat :",
+    "unitType": "Type :",
+    "towerNo": "Tower No.:",
+    "carpetAreaLabel": "RERA Carpet Area :",
+    "unitNo": "Unit No.:",
+    "floorNo": "Floor No.:",
+    "SQFT": "SQFT",
+    "tableHeaders": {
+      "head1": "Application Fee",
+      "head2": "Application GST",
+      "head3": "Registration Fee",
+      "head4": "Registration Fee GST",
+      "head5": "Total",
+      "head6": "Booking Amount",
+      "head7": "GST (@ 18%)",
+      "head8": "GST (@ 1%)",
+      "head9": "GST"
+    },
+    "note": {
+      "label": "Note : ",
+      "content" : "Application fee is Non-refundable."
+    },
+    "paymentAlertMsg": "Payment already done",
+    "acknowledgeContent": "I Agree",
+    "nonRefundableTxt": "non-refundable",
+    "loanAvailableTxt": "Loan available",
+    "removeButtonText": "Remove Project",
+    "referralBoxTitle": "Enter referral code if you have any",
+    "referralInputPlaceholder": "Enter Referral Code",
+    "referralErrorMessage": "Special characters not allowed",
+    "totalSubCardTitle": "Total Sum to be paid",
+    "helpText": "Loan available for Registration Fee on next screen",
+    "TotalTxt": "Total Amount to be paid",
+    "TotalInfo": "(Modifications in application are not allowed after payment)",
+    "isPostalAddYesTxt": "Yes",
+    "isPostalAddNoTxt": "No",
+    "emdInfoModal": {
+      "title": "If unsuccessful, willing to be a part of next Scheme?",
+      "bodyText": "If yes, we will",
+      "bodyText1": "hold your registration fee for the next scheme ",
+      "bodyText2": "without interest and the next scheme application would be hassle-free for you.",
+      "bodyText3": "If No, then the registration fee would be refunded within 15 days to your source account.",
+      "acceptBtn": "Accept",
+      "declineBtn": "Decline",
+      "saveBtnText": "Save",
+      "cancelBtnText": "Cancel",
+      "searchBank": "Search for a bank"
+    },
+    "holdEmd": "If unsuccessful, willing to be a part of next Scheme",
+    "readmoreTxt": "Read More"
+  },
+  "noProjectInBilling": {
+    "title": "No Projects Selected yet.",
+    "noteMessage": "To continue with Lottery registration, please click Add Project.",
+    "addBtn": "Add Project"
+  },
+  "applyLoanYesNoSection": {
+    "earnestMoneyDepTitle": "Earnest Money Deposit (Registration Fee) Scheme",
+    "earnestMoneyDepDesc": "Earnest Money Deposit Loan Scheme provides clean loan to eligible people, who bid for purchase of house/flat offered by Urban Development Authorities like CIDCO/HUDCO/DDA/State Government Housing Development Projects etc.",
+    "applyLoanYesNo": "Do you want to Apply Loan for Registration Fee?",
+    "paymentOptionTxt": "Payment Gateway",
+    "loanYesTxt": "Yes",
+    "loanNoTxt": "No",
+    "nocDialogHeading": "To obtain Mortgage NOC, following documents are required to be uploaded and pay ₹250 + GST for Non-PMAY",
+    "nocDialogHeadingPMAY": "To obtain Mortgage NOC, following documents are required to be uploaded",
+    "nocDialogPoint1": "Loan Sanction Letter",
+    "nocDialogPoint2" : "Request Letter from  bank for Mortgage NOC",
+    "housingLoan": "Are you interested to avail loan",
+    "housingLoanDialog": "Financial Institutions for Home Loans",
+    "housingLoansubDialog1" : "List of banks empanelled with CIDCO",
+    "housingLoansubDialog2" : "Select Bank :",
+    "readmoreTxt": "Read More",
+    "housingLoanSummary": "If you are a successful winner in lottery draw and wish to avail Housing Loan from Bank or Financial Institutions, you will be issued Mortgage NOC alongwith Allotment letter. Please note that for this Rs. 250/- + GST will be charged to you and included in incidental charges to be paid after allotment.",
+    "readmoreSummary": "You will have to pay cost of mortgage NOC as per per your preferred bank / FI of  Rs. 250/- + GST . NOC will be sent to your email or you can download from your account.",
+    "paymentSummary": {
+      "title": "Payment Summary",
+      "appFeePlsGstTxt": "Total Application Fee + GST",
+      "nonRefundableTxt": "non-refundable",
+      "totalEmdAmtTxt": "Total Registration Fee",
+      "appFeePlsGst": "Application Fee + GST",
+      "emdPlsGstTxt": "Registration Fee",
+      "loanAppliedTxt": "Loan Applied!",
+      "grandTotalTxt": "Grand Total"
+    }
+  },
+  "selectPaymentTypeSection": {
+    "title": "Payment Mode",
+    "fullAmountText": "Pay in Full amount",
+    "transactionOnline": "Make Online Payment",
+    "transactionOffline": "Make Offline Payment",
+    "applyLoanText": "Apply Loan for Registration Fee Amount",
+    "totalAmountText": "Total Amount",
+    "loanAmountEmdText": "Loan Amount for Registration Fee",
+    "noteText": "Note",
+    "noteParagraph": "You will be redirected to razor pay to complete your Transaction.",
+    "eChallanTxt": "E-Challan",
+    "eChallanInfoTxt": "Download the E-Challan and visit your nearest branch to make payment.",
+    "paymentSummary": {
+      "title": "Payment Summary",
+      "statusTxt": "Loan Applied",
+      "totalEMDAmount": "Total Registration Fee Amount",
+      "appFeePlsGst": "Application Fee + GST",
+      "loanAmountforEMD": "Loan Amount for Registration Fee",
+      "bankProcessingFee": "Bank processing Fee",
+      "amountPayable": "Amount Payable",
+      "forTxt": "For",
+      "applicationTxt": "Application"
+    },
+    "selectPaymentMethodError": {
+      "required": "Select a Payment Method"
+    }
+  },
+  "selectBankSection": {
+    "title": "Select Bank through which you want to Apply for Loan",
+    "processingFeeText": "Bank Processing Fees for Registration Fee Loan",
+    "nonRefundableText": "Non-refundable",
+    "noteText": "Note",
+    "noteParagraph": "Each bank charges seperate convinience fee and has a different cap for loan eligibility.",
+    "noteParagraph2": "Additional GST of 18% has been imposed on the processing fee.",
+    "searchTxt": "Search Banks",
+    "selectBankErrors": {
+      "required": "Select a Bank"
+    },
+    "clearFilterBtnTxt": "Clear Filter"
+  },
+  "howApplyLoanSection": {
+    "title": "How do you want to apply for loan?",
+    "payOnlineText": "Pay online",
+    "payOfflineText": "Pay Offline",
+    "noteText": "Note",
+    "noteParagraph": "Apply by going to your nearby branch and complete the procedure with the help of loan officer."
+  },
+  "benefitsOfApplyingLoan": {
+    "title": " Benefits of Applying for Loan",
+    "infoTxt0": "Flexibility and versatility....",
+    "infoTxt1": "Lower interest rates and higher borrowing limits.",
+    "infoTxt2": "No collateral requirement....",
+    "infoTxt3": "Easier to manage....",
+    "infoTxt4": "Interest rates can be higher than alternatives....",
+    "infoTxt5": "Fees and penalties can be high....",
+    "infoTxt6": "Higher payments than credit cards."
+  },
+  "savingLoaderTxt": "Saving Progress",
+  "saveButtonText": "NEXT",
+  "makePaymentBtn": "Proceed",
+  "dialogTitle": "Confirm Payment",
+  "dialogDesc": "Kindly ensure that your documents are correct and you want to proceed with the payment.",
+  "selectedBank": "Bank Selected",
+  "dialogPoint1": "Application Fee is Non-Refundable.",
+  "dialogPoint2": "Once the payment is done, you will not be able to edit your application including the category selected.",
+  "emdconfirmDialog":{
+    "title": "Challan Expired",
+    "description1" : "You are left with ",
+    "description2" : " now to make booking payment, do not use NEFT/CASH (Offline Payment Mode) to make booking payment.It might be cancelled or might not get successful, we suggest you to go with Online payment mode."
+  }
+}

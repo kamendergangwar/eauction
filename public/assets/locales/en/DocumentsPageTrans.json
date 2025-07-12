@@ -1,0 +1,849 @@
+{
+  "puccaHouseForm": {
+    "title": "Do you own a pucca house?",
+    "puccaHouseMessage": "Pucca house are made of easily available raw materials, like mud, straw, stones, wood, iron, bricks, cement, steel, etc., to form a concrete structure",
+    "formControl": {
+      "checkBoxLabel": "I confirm that I am not in possession of any pucca house",
+      "checkBoxError": "Confirming the checkbox is required."
+    }
+  },
+  "eStampForm": {
+    "title": "E-Stamping and E-Signing",
+    "description": " Get your documents stamped & signed online without stepping out from home. It is more secure, tamper-proof, less effort and authenticity verified through Aadhaar Signature.",
+    "termsConditionBox": {
+      "title": "Terms and conditions *",
+      "text1": "1. Charges for E-Stamping and E-Signing are separate from Application Fee",
+      "text2": "2. Charges are to be paid before using the feature",
+      "text3": "3. E-Stamping and E-Signing need to be done for all required documents"
+    },
+    "formControl": {
+      "checkBoxLabel": "I understand and agree to terms and conditions",
+      "checkBoxErrors": {
+        "required": "Acknowledge the Terms & Conditions"
+      },
+      "totalText": "Total Amount to be paid for E-Stamping and E-Signing is Rs 115.",
+      "viewBillText": "View billing summary",
+      "selectButtonText": "Select e-stamping",
+      "deSelectButtonText": "Deselect e-stamping"
+    },
+    "billingSummary": {
+      "title": "E-stamping and E-Signing billing summary",
+      "billingSummaryTable": {
+        "tableTh0": "Document name",
+        "tableTh1": "E-Stamping fee",
+        "tableTh2": "E-Signing fee",
+        "tableTh3": "Total"
+      },
+      "removeButtonText": "REMOVE E-STAMPING AND E-SIGNING"
+    }
+  },
+  "documentsForm": {
+    "title": "Document Submission",
+    "uploadDocTitle": "Upload Scanned documents",
+    "description": "Upload a scanned copy of the following documents. Formats such as pdf, jpeg, png not exceeding the size of 1MB are allowed. Please upload documents as required per section.",
+    "castCertificateForm": {
+      "title": "Caste Certificate",
+      "formControl": {
+        "certifcateNumberInputLabel": "Certificate Number",
+        "certifcateNumberPlaceholder": "Enter certificate number",
+        "certifcateNumberErrors": {
+          "required": "Certificate number is required",
+          "limitation": "Please enter a valid certificate number"
+        },
+        "nameCertifcateInputLabel": "Name as on certificate",
+        "nameCertifcatePlaceholder": "Enter name as on certificate",
+        "nameCertifcateErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "certificateState": {
+          "certificateStateLabel": "Certificate State",
+          "options": {
+            "maharashtra": "Maharahstra",
+            "gujrat": "Gujrat",
+            "karnatka": "Karnataka"
+          },
+          "certificateStateErrors": {
+            "required": "Certificate State is required"
+          }
+        },
+        "documentDate": {
+          "documentDateLabel": "Certificate Date",
+          "documentDateErrors": {
+            "required": "Certificate Date is required"
+          }
+        },
+        "barCodeLabel": "Is Barcode present ?",
+        "checkBoxLabel0": "Yes",
+        "checkBoxLabel1": "No",
+        "mahaCertificateLabel": "Is Maha online certificate?",
+        "checkBoxLabel2": "Yes",
+        "checkBoxLabel3": "No",
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File is too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "casteValidityForm": {
+      "title": "Caste Validity Certificate",
+      "formControl": {
+        "isBaartiMahaOnline": "Is BAARTI/MahaOnline Certificate?",
+        "checkBoxLabel0": "BAARTI",
+        "checkBoxLabel1": "MahaOnline",
+        "checkBoxLabel2": "Other",
+        "documentNoInputLabel": "Certificate Number",
+        "documentNoPlaceholder": "Enter certificate number",
+        "documentNoErrors": {
+          "required": "Certificate number is required",
+          "limitation": "Please enter a valid cerificate number"
+        },
+        "nameCertifcateInputLabel": "Name as on certificate",
+        "nameCertifcatePlaceholder": "Enter name as on certificate",
+        "nameCertifcateErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "casteCategory": {
+          "casteCategoryLabel": "Caste Category",
+          "options": {
+            "general": "General (GP)",
+            "sc": "Schedule Cast (SC)",
+            "st": "Schedule Tribes (ST)",
+            "nt": "Nomadic Tribes (NT)",
+            "dt": "Denotified Tribes (DT)"
+          },
+          "casteCategoryErrors": {
+            "required": "Category is required"
+          }
+        },
+        "validity": {
+          "validityLabel": "Validity in years",
+          "options": {
+            "one": "1",
+            "two": "2",
+            "three": "3",
+            "four": "4",
+            "five": "5",
+            "six": "6",
+            "seven": "7"
+          },
+          "validityErrors": {
+            "required": "Validity is required"
+          }
+        },
+        "certificateState": {
+          "certificateStateLabel": "Certificate State",
+          "options": {
+            "maharashtra": "Maharahstra",
+            "gujrat": "Gujrat",
+            "karnatka": "Karnataka"
+          },
+          "certificateStateErrors": {
+            "required": "Certificate State is required"
+          }
+        },
+        "documentDate": {
+          "documentDateLabel": "Certificate Date",
+          "documentDateErrors": {
+            "required": "Certificate Date is required"
+          }
+        },
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "disabilityForm": {
+      "title": "Disability Certificate",
+      "formControl": {
+        "documentNoInputLabel": "Certificate Number",
+        "documentNoPlaceholder": "Enter certificate number",
+        "documentNoErrors": {
+          "required": "Certificate Number is required",
+          "limitation": "Please enter a valid cerificate number"
+        },
+        "barCodeLabel": "Is barcode personal identification number present?",
+        "checkBoxLabel0": "Yes",
+        "checkBoxLabel1": "No",
+        "rampLabel": "Is ramp required?",
+        "checkBoxLabel2": "Yes",
+        "checkBoxLabel3": "No",
+        "fileUploadTitleTxt0": "Disability Certificate",
+        "fileUploadTitleTxt1": "PH Consent",
+        "downloadCertiText0": "Sample",
+        "downloadCertiText1": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "affidavitEForm": {
+      "title": "FORM E",
+      "affidavitErrors": {
+        "required": "Name is required",
+        "limitation": "Please enter a valid name"
+      }
+    },
+    "journalistForm": {
+      "title": "Journalist Certificate",
+      "formControl": {
+        "nameInputLabel": "Name as on certificate",
+        "nameCertifcatePlaceholder": "Enter name as on certificate",
+        "nameCertifcateErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "newsAgency": {
+          "newsAgencyLabel": "News Agency Name",
+          "options": {
+            "news1": "AAJ KA SIDDHANT",
+            "mews2": "JAI MAHARASHTRA",
+            "news3": "LOKARAJYA",
+            "news4": "MAHARASHTRA AHEAD"
+          },
+          "newsAgencyErrors": {
+            "required": "News Agency Name is required"
+          }
+        },
+        "designationInputLabel": "Designation",
+        "designationPlaceholder": "Enter designation",
+        "designationErrors": {
+          "required": "Designation is required",
+          "limitation": "Please enter a valid designation"
+        },
+        "refNoInputLabel": "Reference Number",
+        "refNoPlaceholder": "Enter reference number",
+        "refNoErrors": {
+          "required": "Reference Number is required"
+        },
+        "fileUploadTitleTxt0": "DGIPR Certificate",
+        "fileUploadTitleTxt1": "FORM D",
+        "downloadCertiText0": "Sample",
+        "downloadCertiText1": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "affidavitDForm": {
+      "title": "FORM D",
+      "formControl": {
+        "departmentInputLabel": "Department",
+        "departmentPlaceholder": "Enter department",
+        "departmentErrors": {
+          "required": "Department is required",
+          "limitation": "Please enter a valid department"
+        },
+        "designationInputLabel": "Designation",
+        "designationPlaceholder": "Enter designation",
+        "designationErrors": {
+          "required": "Designation is required",
+          "limitation": "Please enter a valid designation"
+        },
+        "joiningDate": {
+          "joiningDateLabel": "Date of Joining",
+          "joiningDateErrors": {
+            "required": "Joining Date is required"
+          }
+        },
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "exServiceForm": {
+      "title": "Ex-Servicemen/Serving Document",
+      "formControl": {
+        "rankInputLabel": "Rank",
+        "rankPlaceholder": "Enter rank",
+        "rankErrors": {
+          "required": "Rank is required",
+          "limitation": "Please enter a valid rank"
+        },
+        "idNumberInputLabel": "Id Number",
+        "idNumberPlaceholder": "Enter id number",
+        "idNumberErrors": {
+          "limitation": "Please enter a valid id number"
+        },
+        "armyNumberInputLabel": "Army Number",
+        "armyNumberPlaceholder": "Enter army number",
+        "armyNumberErrors": {
+          "limitation": "Please enter a valid army number"
+        },
+        "defenceType": {
+          "defenceTypeLabel": "Defence Type",
+          "options": {
+            "regularArmy": "Regular Army",
+            "navy": "Navy",
+            "airForce": "Air Force",
+            "coastGuard": "Coast Guard"
+          },
+          "defenceTypeErrors": {
+            "required": "Defence Type is required"
+          }
+        },
+        "serviceType": {
+          "serviceTypeLabel": "Service Type",
+          "options": {
+            "regularArmy": "Regular Army",
+            "navy": "Navy",
+            "airForce": "Air Force",
+            "coastGuard": "Coast Guard"
+          },
+          "serviceTypeErrors": {
+            "required": "Service Type is required"
+          }
+        },
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "apmcForm": {
+      "title": "APMC registration certificate",
+      "formControl": {
+        "documentNoInputLabel": "Certificate Number",
+        "documentNoPlaceholder": "Enter cerificate number",
+        "documentNoErrors": {
+          "required": "Certificate Number is required",
+          "limitation": "Please enter a valid cerificate number"
+        },
+        "nameInputLabel": "Name as on APMC certificate",
+        "namePlaceholder": "Enter name as on APMC certificate",
+        "nameErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "documentDate": {
+          "documentDateLabel": "Cerificate Date",
+          "documentDateErrors": {
+            "required": "Cerificate Date is required"
+          }
+        },
+        "authority": {
+          "authorityLabel": "Issuing authority location",
+          "options": {
+            "maharashtra": "Maharahstra",
+            "gujrat": "Gujrat",
+            "karnatka": "Karnataka"
+          },
+          "authorityErrors": {
+            "required": "Issuing authority location is required"
+          }
+        },
+        "location": {
+          "locationLabel": "Applicant working location",
+          "options": {
+            "maharashtra": "Maharahstra",
+            "gujrat": "Gujrat",
+            "karnatka": "Karnataka"
+          },
+          "locationErrors": {
+            "required": "Applicant working location is required"
+          }
+        },
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "pjLetterForm": {
+      "title": "PAP judgement letter, Vanshaval, Other Document",
+      "formControl": {
+        "applicantLabel": "Applicant Type?",
+        "checkBoxLabel0": "Self",
+        "checkBoxLabel1": "Legal Heir",
+        "nameInputLabel": "Name as on PAP Letter",
+        "namePlaceholder": "Enter name as on pap letter",
+        "nameErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "judgementInputLabel": "Judgement letter document number",
+        "judgementPlaceholder": "Enter judgement letter document number",
+        "judgementErrors": {
+          "required": "Number is required",
+          "limitation": "Please enter a valid number"
+        },
+        "documentDate": {
+          "documentDateLabel": "Judgement letter document date",
+          "documentDateErrors": {
+            "required": "Date is required"
+          }
+        },
+        "vanshavalDocsRelationInputLabel": "Legal Heir relationship",
+        "vanshavalDocsRelationPlaceholder": "Enter Legal Heir relationship",
+        "vanshavalDocsRelationshipErrors": {
+          "required": "Legal Heir relationship is required",
+          "limitation": "Please enter a valid relationship"
+        },
+        "vanshavalDocsInputLabel": "Vanshaval letter document number",
+        "vanshavalDocsPlaceholder": "Enter vanshaval letter document number",
+        "vanshavalDocsErrors": {
+          "required": "Number is required",
+          "limitation": "Please enter a valid number"
+        },
+        "vanshavalDocstDate": {
+          "documentDateLabel": "Vanshaval letter document date",
+          "documentDateErrors": {
+            "required": "Date is required"
+          }
+        },
+        "otherDocumentLabel": "Has applicant brought other PAP documents?",
+        "checkBoxLabel2": "Yes",
+        "checkBoxLabel3": "No",
+        "docuNameInputLabel": "Other document name",
+        "docuNamePlaceholder": "Enter other document name",
+        "docuNameErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "docuNoInputLabel": "Other document number",
+        "docuNoPlaceholder": "Enter other document number",
+        "docuNoErrors": {
+          "required": "Number is required",
+          "limitation": "Please enter a valid number"
+        },
+        "otherDocumentDate": {
+          "documentDateLabel": "Other document date",
+          "documentDateErrors": {
+            "required": "Date is required"
+          }
+        },
+        "fileUploadTitleTxt0": "PAP Judgement letter",
+        "fileUploadTitleTxt1": "Other Document",
+        "fileUploadTitleTxt2": "Vanshaval Document",
+        "downloadCertiText0": "Sample",
+        "downloadCertiText1": "Sample",
+        "downloadCertiText2": "Sample",
+        "uploadErrors0": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "uploadErrors1": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "affidavitFForm": {
+      "title": "FORM F",
+      "formControl": {
+        "relAffidavit": {
+          "relAffidavitLabel": "Select religion as in FORM F",
+          "options": {
+            "sikhs": "Sikhism",
+            "muslim": "Islam",
+            "jain": "Jainism",
+            "christian": "Christianity",
+            "hindu": "Hinduism",
+            "buddhism": "Buddhism",
+            "judaism": "Judaism"
+          },
+          "relAffidavitErrors": {
+            "required": "Religion is required"
+          }
+        },
+        "relleaving": {
+          "relleavingLabel": "Select religion as in leaving certificate",
+          "options": {
+            "sikhs": "Sikhism",
+            "muslim": "Islam",
+            "jain": "Jainism",
+            "christian": "Christanity",
+            "hindu": "Hinduism",
+            "buddhism": "Buddhism",
+            "judaism": "Judaism"
+          },
+          "relleavingErrors": {
+            "required": "Religion is required"
+          }
+        },
+        "fileUploadTitleTxt0": "FORM F",
+        "fileUploadTitleTxt1": "School Leaving Certificate",
+        "downloadCertiText0": "Sample",
+        "downloadCertiText1": "Sample",
+        "uploadErrors0": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "uploadErrors1": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "emplCardForm": {
+      "title": "Personal Manager Certificate",
+      "formControl": {
+        "department": {
+          "departmentLabel": "Department",
+          "options": {
+            "maharashtra": "Maharahstra",
+            "gujrat": "Gujrat",
+            "karnatka": "Karnataka"
+          },
+          "departmentErrors": {
+            "required": "Department is required"
+          }
+        },
+        "designationInputLabel": "Designation",
+        "designationPlaceholder": "Enter designation",
+        "designationErrors": {
+          "required": "Designation is required",
+          "limitation": "Please enter a valid designation"
+        },
+        "documentDate": {
+          "documentDateLabel": "Date of joining",
+          "documentDateErrors": {
+            "required": "Joining date is required"
+          }
+        },
+        "houseLabel": "Does employee own a house under employee welfare scheme?",
+        "checkBoxLabel0": "Yes",
+        "checkBoxLabel1": "No",
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        }
+      }
+    },
+    "selfIncomeForm": {
+      "title": "Income Details (Self)",
+      "formControl": {
+        "empType": {
+          "empTypeLabel": "Employee Type",
+          "options": {
+            "label0": "Government Employee/ Private Employee",
+            "label1": "Self Employed",
+            "label2": "Unemployed/ Zero-Income/ Non Working"
+          },
+          "empTypeErrors": {
+            "required": "Employee type is required"
+          }
+        },
+        "panNumberInputLabel": "PAN Number",
+        "panNumberPlaceholder": "Enter PAN number here",
+        "panNumberErrors": {
+          "required": "PAN Card number is required",
+          "limitation": "Please enter a valid PAN card number"
+        },
+        "passwordInputLabel": "Password",
+        "passwordPlaceholder": "Enter password",
+        "passwordErrors": {
+          "required": "Password is required",
+          "limitation": "Please enter a valid password"
+        },
+        "noteDetails": {
+          "title": "*Note",
+          "note0": "1) Please provide ITR Portal Login Password to Fetch ITR details",
+          "note1": "2) This is solely to verify the Income Details",
+          "note2": "3) We don't store your password"
+        },
+        "downloadCertiText0": "Sample",
+        "salaryLabel": "Is salary covered for year 2020-2021",
+        "isBarCode": "Is Barcode present ?",
+        "checkBoxLabel0": "Yes",
+        "checkBoxLabel1": "No",
+        "itrLabel": "Is ITR filed for year 2020-2021?",
+        "checkBoxLabel2": "Yes",
+        "checkBoxLabel3": "No"
+      }
+    },
+    "aadharCardForm": {
+      "title": "Applicant Aadhar Card",
+      "title1": "Co Applicant Aadhar Card"
+    },
+    "panCardForm": {
+      "title": "Applicant PAN Card",
+      "title1": "Co Applicant PAN Card"
+    },
+    "sposeIncomeForm": {
+      "title": "Income Details (Spouse)",
+      "formControl": {
+        "empType": {
+          "empTypeLabel": "Employee Type",
+          "options": {
+            "label0": "Government Employee/ Private Employee",
+            "label1": "Self Employed",
+            "label2": "Unemployed/ Zero-Income/ Non Working"
+          },
+          "empTypeErrors": {
+            "required": "Employee type is required"
+          }
+        },
+        "panNumberInputLabel": "PAN Number",
+        "panNumberPlaceholder": "Enter PAN number here",
+        "panNumberErrors": {
+          "required": "PAN Card number is required",
+          "limitation": "Please enter a valid PAN card number"
+        },
+        "passwordInputLabel": "Password",
+        "passwordPlaceholder": "Enter password",
+        "passwordErrors": {
+          "required": "Password is required",
+          "limitation": "Please enter a valid password"
+        },
+        "noteDetails": {
+          "title": "*Note",
+          "note0": "1) Please provide ITR Portal Login Password to Fetch ITR details",
+          "note1": "2) This is solely to verify the Income Details",
+          "note2": "3) We don't store your password"
+        },
+        "downloadCertiText0": "Sample",
+        "salaryLabel": "Is salary covered for year 2020-2021",
+        "isBarCode": "Is salary covered for year 2020-2021?",
+        "checkBoxLabel0": "Yes",
+        "checkBoxLabel1": "No",
+        "itrLabel": "Is ITR filed for year 2020-2021?",
+        "checkBoxLabel2": "Yes",
+        "checkBoxLabel3": "No"
+      }
+    },
+    "domicileForm": {
+      "title": "Domicile Certificate",
+      "formControl": {
+        "certifcateInputLabel": "Certificate Number",
+        "certifcatePlaceholder": "Enter certificate number",
+        "certifcateErrors": {
+          "required": "Cerificate Number is required",
+          "limitation": "Please enter a valid certificate number"
+        },
+        "nameInputLabel": "Name as on domicile",
+        "namePlaceholder": "Enter name as on domicile",
+        "nameErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "domicileState": {
+          "domicileStateLabel": "Domicile State",
+          "options": {
+            "maharashtra": "Maharahstra",
+            "uttarakhand": "Uttarakhand",
+            "westBengal": "West Bengal"
+          },
+          "domicileStateErrors": {
+            "required": "Document State is required"
+          }
+        },
+        "documentDate": {
+          "documentDateLabel": "Domicile Date",
+          "documentDateErrors": {
+            "required": "Domicile Date is required"
+          }
+        },
+        "barCodeLabel": "Is Barcode present ?",
+        "barcodeRequired": "Barcode Number is required",
+        "barcodeLimit" : "20-digit barcode is mandatory",
+        "barcodeNumber": "Barcode Number",
+        "checkBoxLabel0": "Yes",
+        "checkBoxLabel1": "No",
+        "mahaCertificateLabel": "Is Maha online document?",
+        "checkBoxLabel2": "Yes",
+        "checkBoxLabel3": "No",
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "pmayProofForm": {
+      "title": "PMAY registration proof",
+      "formControl": {
+        "certifcateNumberInputLabel": "Enter Aadhaar Number Here",
+        "certifcateNumberPlaceholder": "Enter Aadhaar number",
+        "certifcateNumberErrors": {
+          "required": "Adhaar number is required",
+          "limitation": "Please enter a valid Aadhaar number"
+        },
+        "registrationType": {
+          "registrationTypeLabel": "Registration Type",
+          "options": {
+            "maharashtra": "Maharahstra",
+            "gujrat": "Gujrat",
+            "karnatka": "Karnataka"
+          },
+          "registrationTypeErrors": {
+            "required": "Registration type is required"
+          }
+        },
+        "registrationDate": {
+          "registrationDateLabel": "Registration Date",
+          "registrationDateErrors": {
+            "required": "Registration date is required"
+          }
+        },
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing",
+        "register0": "Haven't registered for ",
+        "register1": "PMAY ",
+        "register2": "yet?",
+        "registerHere": "Register Here",
+        "unableTxt": "Unable to register, then visit the Municipal Corporation Office, Panvel, and submit your documents in person. Upload the issued receipt on the portal."
+      }
+    },
+    "affidavitBForm": {
+      "title": "FORM B",
+      "formControl": {
+        "appliNameInputLabel": "Applicant Name",
+        "appliNamePlaceholder": "Enter applicant's name",
+        "appliNameErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "appliAgeInputLabel": "Applicant Age",
+        "appliAgePlaceholder": "Enter applicant's age",
+        "appliAgeErrors": {
+          "required": "Age is required",
+          "limitation": "Please enter a valid age"
+        },
+        "appliOccuInputLabel": "Applicant Occupation",
+        "appliOccuPlaceholder": "Enter applicant occupation",
+        "appliOccuErrors": {
+          "required": "Occupation is required",
+          "limitation": "Please enter a valid occupation"
+        },
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "affidavitCForm": {
+      "title": "Affidavit: Declaration on Annual Income",
+      "formControl": {
+        "appliNameInputLabel": "Applicant Name",
+        "appliNamePlaceholder": "Enter applicant's name",
+        "appliNameErrors": {
+          "required": "Name is required",
+          "limitation": "Please enter a valid name"
+        },
+        "appliAgeInputLabel": "Applicant Age",
+        "appliAgePlaceholder": "Enter applicant's age",
+        "appliAgeErrors": {
+          "required": "Age is required",
+          "limitation": "Please enter a valid age"
+        },
+        "appliOccuInputLabel": "Applicant Occupation",
+        "appliOccuPlaceholder": "Enter applicant occupation",
+        "appliOccuErrors": {
+          "required": "Occupation is required",
+          "limitation": "Please enter a valid occupation"
+        },
+        "downloadCertiText0": "Sample",
+        "uploadErrors": {
+          "required": "File is required",
+          "limitation": "File too large",
+          "fileFormat": "Unsupported Format"
+        },
+        "selectedEStampText": "Selected for E-stamping and e-signing"
+      }
+    },
+    "affidavitForm": {
+      "title": "Declaration Pucca House in India (Form A)",
+      "formControl": {
+        "downloadCertiText0": "Sample"
+      }
+    },
+    "docUploadedSuccessMsg": "Document Uploaded Successfully",
+    "fileUploadedTitle": "File Uploaded",
+    "downloadButtonText": "Download Sample",
+    "cancelButtonText": "Cancel",
+    "saveButtonText": "Save",
+    "reuploadTxt": "Re-Upload",
+    "docRejectTxt": "Document Rejected Reason",
+    "preview": "Preview",
+    "docRejNoteTxt": "Once a document is resubmitted, it cannot be uploaded again unless the verification process has been completed.",
+    "noteTxt": "Note: "
+  },
+  "title": "Upload Documents",
+  "completeLaterButtonText": "COMPLETE LATER",
+  "bannerTitleText": "Any Document. Anywhere. Anytime",
+  "bannerParaText": "Upload your documents whenever it is convenient for you, or visit our",
+  "bannerParaLinkText": "Offline Centers.",
+  "backButtonText": "BACK",
+  "saveBtn": "Save",
+  "addBtn": "Upload",
+  "reUploadSuccessTxt": "Re-Uploaded Successfully",
+  "docVerifiedTxt": "Document Verified",
+  "selfAttestedTxt": "Self-attested document",
+  "skipLabelTxt": "If you do not have this document, you can Skip for now",
+  "skipDialogTittle": "Skip Affirmation",
+  "skipDialogContent": "If you do not have a this document, you may skip as of now. However, you are required to submit the document for getting an allotment letter. The letter will be retained till the document is submitted. In case of non submission, booking stands cancelled and booking amount will be forfeited.",
+  "confirmSkipBtn": "Accept",
+  "cancelSkip": "Decline",
+  "orTxt": "or",
+  "RequiredLaterTxt": "Required Later",
+  "DGIPRcertificateTxt": "DGIPR/CIDCO PRO Certificate",
+  "rejectionReasonTxt": "Reason for rejection:",
+  "AffidavitBracketTxt": "Affidavit: Declaration on Annual Income",
+  "ReligiousMinoritesBracketTxt": "Affidavit for being in Regional Minority Community i.e. Muslims, Christians, Zoroastrians, Buddhist, Jain, Sikhs",
+  "optionalDocTxt": "In-case the caste validity certificate is not available, Please procure as soon as possible",
+  "uploadDocAlertTxt": "You have made Application Fee payment, your document verification process is in progress. Till then you can edit your documents only if the document is rejected.",
+  "mandatoryTxt": "mandatory",
+  "journalistBracketTxt": "Certificate for being a Maharashtra State Government Officer/Employee",
+  "CIDCOBracketTxt": "on Dept. Letter Head with Signature & Stamp of Competent Authority",
+  "JournalistBracketTxt": "Certificate for being a Journalist working in Maharashtra",
+  "editBtn": "Edit",
+  "sampleTxt": "Sample",
+  "loadProgress": "Save Progress...",
+  "checkLabel": "I Agree that my Information can be Used for Banking Process.",
+  "FcfsCheckLabel1": "I Agree the originality of my documents and, subject to the ",
+  "FcfsCheckLabel2": "Terms and Conditions",
+  "FcfsCheckLabel3": ", I consent to the use of my information for banking processes.",
+  "FcfsTnCLabel": "Document Terms & Conditions",
+  "FcfsTnC1": "Thank you for submitting your document. We appreciate your effort in providing us with the necessary information. Please note that as part of our verification process, we will also manually review the document you have provided. while Manual Document verification if you provided wrong documents Rs-2000 amount will forfeited.",
+  "FcfsTnC2": "We understand the importance of accuracy and security, and we want to ensure that all information submitted to us is thoroughly reviewed and verified. Rest assured that your document will be given the attention and scrutiny it deserves.",
+  "FcfsTnC3": "Thank you for your cooperation and understanding in this matter. If you have any questions or concerns, please do not hesitate to contact us.",
+  "dragDropLabel": "Drag & Drop or",
+  "browse": "Upload",
+  "fileLimit0": "",
+  "fileLimit1": "Jpg, Png & Pdf format",
+  "fileLimit2": "(maximum size upto 2 MB)",
+  "fileLimit3": "Jpg, Png format",
+  "nextButtonText": "Proceed to Complete",
+  "acknowledgeMsg0": "Kindly upload all the documents and accept the acknowledgement.",
+  "acknowledgeMsg1": "Please upload all required documents and accept the acknowledge then click on proceed to complete",
+  "acknowledgeLabel": "Please Acknowledge",
+  "acknowledgeContent": "I certify that all the documents uploaded are true and correct to the best of my knowledge. I give my consent to the use of these documents for verification.",
+  "okBtn": "Ok",
+  "barCodeHelperTxt": "Please Select any one option"
+}

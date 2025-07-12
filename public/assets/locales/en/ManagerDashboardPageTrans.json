@@ -1,0 +1,65 @@
+{
+  "managerDashboard": {
+    "title": "Manager Dashboard",
+    "subTitle": "Overall Performance Of All Agents",
+    "activeSchemeTxt": "Active Scheme"
+  },
+  "toggleButtonGroup": {
+    "button1": "All",
+    "button2": "Last Week",
+    "button3": "Last 2 Week",
+    "button4": "Last Month",
+    "button5": "This Year"
+  },
+  "filterByDateTxt": "Filter by Date",
+  "appCardGroup": {
+    "card1": "Total Applications",
+    "card2": "Total Submitted",
+    "card3": "Total Earnings",
+    "viewDetailsBtnTxt": "View Details",
+    "showMoreBtnTxt": "Show More",
+    "popover": {
+      "title": "Submitted Applications"
+    }
+  },
+  "reservationCountCard": {
+    "title": "Reservation Count",
+    "subTitle": "Project Wise Reservation Status"
+  },
+  "comparitiveAnalysisCard": {
+    "title": "Comparitive Analysis",
+    "subTitle": "Estimating Performance Goals",
+    "searchInputPlaceholder": "Search Employee",
+    "toggleButtonGroup": {
+      "button1": "All",
+      "button2": "Last Week",
+      "button3": "Last 2 Week",
+      "button4": "Last Month",
+      "button5": "This Year"
+    },
+    "tableHead": {
+      "head1": "Agent Name",
+      "head2": "Overall Stats",
+      "head3": "Total Completed",
+      "head4": "Overall Success Rate",
+      "head5": "Total Earnings"
+    },
+    "overallStatusLabels": {
+      "label1": "Lead",
+      "label2": "Completed",
+      "label3": "In Progress"
+    }
+  },
+  "earningsSummaryPage": {
+    "title": "Earnings Summary",
+    "subTitle": "Set Price Range to see each Employee Contribution.",
+    "searchInputPlaceholder": "Search by Project Name",
+    "totalEarningsLabel": "Total Earnings",
+    "totalAgentsLabel": "Total Agents",
+    "listView": {
+      "filterText": "Showing Employees who contributed in earning",
+      "filterRsText": "Rs.",
+      "applicationsText": "Applications"
+    }
+  }
+}

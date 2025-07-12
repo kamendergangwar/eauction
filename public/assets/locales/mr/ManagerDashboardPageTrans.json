@@ -1,0 +1,65 @@
+{
+  "managerDashboard": {
+    "title": "व्यवस्थापक डॅशबोर्ड",
+    "subTitle": "सर्व एजंट्सची एकूण कामगिरी",
+    "activeSchemeTxt": "सक्रिय योजना"
+  },
+  "toggleButtonGroup": {
+    "button1": "सर्व",
+    "button2": "शेवटचा आठवडा",
+    "button3": "शेवटचे 2 आठवडे",
+    "button4": "शेवटचा महिना",
+    "button5": "या वर्षी"
+  },
+  "filterByDateTxt": "तारखेनुसार फिल्टर करा",
+  "appCardGroup": {
+    "card1": "एकूण अर्ज",
+    "card2": "एकूण सबमिट केलेले",
+    "card3": "एकूण कमाई",
+    "viewDetailsBtnTxt": "तपशील पहा",
+    "showMoreBtnTxt": "अधिक दाखवा",
+    "popover": {
+      "title": "सबमिट केलेले अर्ज"
+    }
+  },
+  "reservationCountCard": {
+    "title": "आरक्षण गणना",
+    "subTitle": "प्रकल्पवार आरक्षण स्थिती"
+  },
+  "comparitiveAnalysisCard": {
+    "title": "तुलनात्मक विश्लेषण",
+    "subTitle": "कामगिरी ध्येयांचा अंदाज",
+    "searchInputPlaceholder": "कर्मचारी शोध",
+    "toggleButtonGroup": {
+      "button1": "सर्व",
+      "button2": "शेवटचा आठवडा",
+      "button3": "शेवटचे 2 आठवडे",
+      "button4": "शेवटचा महिना",
+      "button5": "या वर्षी"
+    },
+    "tableHead": {
+      "head1": "एजंटचे नाव",
+      "head2": "एकूण आकडेवारी",
+      "head3": "एकूण पूर्ण",
+      "head4": "एकूण यश दर",
+      "head5": "एकूण कमाई"
+    },
+    "overallStatusLabels": {
+      "label1": "आघाडी",
+      "label2": "पूर्ण",
+      "label3": "प्रगतीपथावर"
+    }
+  },
+  "earningsSummaryPage": {
+    "title": "कमाईचा सारांश",
+    "subTitle": "प्रत्येक कर्मचाऱ्याचे योगदान पाहण्यासाठी किंमत श्रेणी सेट करा.",
+    "searchInputPlaceholder": "प्रकल्पाच्या नावाने शोधा",
+    "totalEarningsLabel": "एकूण कमाई",
+    "totalAgentsLabel": "एकूण एजंट",
+    "listView": {
+      "filterText": "कमाईमध्ये योगदान देणारे कर्मचारी दाखवत आहे",
+      "filterRsText": "रुपये",
+      "applicationsText": "अर्ज"
+    }
+  }
+}

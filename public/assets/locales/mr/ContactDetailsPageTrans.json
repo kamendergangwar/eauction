@@ -1,0 +1,118 @@
+{
+  "applicatntsContactForm": {
+    "title": "संपर्क माहिती",
+    "contactForm": {
+      "formControl": {
+        "mobileNumberInputLabel": "पर्यायी मोबाईल नंबर",
+        "mobileNumberPlaceholder": "मोबाइल नंबर प्रविष्ट करा",
+        "mobileNumberErrors": {
+          "required": "मोबाइल नंबर आवश्यक आहे",
+          "limitation": "कृपया एक वैध मोबाइल नंबर प्रविष्ट करा"
+        },
+        "whatsappNumberInputLabel": "व्हॉट्सअ‍ॅप नंबर",
+        "whatsappNumberPlaceholder": "व्हाट्सएप नंबर प्रविष्ट करा",
+        "whatsappNumberErrors": {
+          "limitation": "कृपया एखादा वैध व्हाट्सएप नंबर प्रविष्ट करा"
+        },
+        "checkBoxLabel0": "पर्यायी मोबाइल क्रमांकाप्रमाणेच",
+        "checkBoxLabel1": "व्हॉट्स अॅपवर सूचना मिळवा",
+        "emailInputLabel": "ईमेल एड्रेस",
+        "emailPlaceholder": "ईमेल एड्रेस प्रविष्ट करा",
+        "emailErrors": {
+          "limitation": "कृपया वैध ईमेल एड्रेस प्रविष्ट करा"
+        }
+      }
+    }
+  },
+  "applicatntsaddressForm": {
+    "title": "निवास तपशील",
+    "description": "कायमचा पत्ता",
+    "permanentAddressForm": {
+      "formControl": {
+        "apartmentNumberInputLabel": "इमारत / अपार्टमेंट क्रमांक",
+        "apartmentNumberPlaceholder": "इमारत / अपार्टमेंट क्रमांक प्रविष्ट करा",
+        "apartmentNumberErrors": {
+          "required": "इमारत / अपार्टमेंट क्रमांक आवश्यक आहे",
+          "limitation": "कृपया वैध इमारत / अपार्टमेंट क्रमांक प्रविष्ट करा"
+        },
+        "careOfInputLabel": "ची देखभाल (सी / ओ)",
+        "careOfPlaceholder": "ची देखभाल (सी / ओ) प्रविष्ट करा",
+        "streetInputLabel": "रस्ता / लेन",
+        "streetPlaceholder": "रस्ता / लेन प्रविष्ट करा",
+        "streetErrors": {
+          "required": "रस्ता / लेन आवश्यक आहे"
+        },
+        "pincodeInputLabel": "पिन कोड",
+        "pincodePlaceholder": "पिन कोड प्रविष्ट करा",
+        "pincodeErrors": {
+          "required": "पिनकोड आवश्यक आहे",
+          "limitation": "कृपया एक वैध पिन कोड प्रविष्ट करा"
+        },
+        "districtInputLabel": "जिल्हा",
+        "districtPlaceholder": "जिल्हा प्रविष्ट करा",
+        "districtErrors": {
+          "required": "जिल्हा आवश्यक आहे"
+        },
+        "stateInputLabel": "राज्य",
+        "statePlaceholder": "राज्य प्रविष्ट करा",
+        "stateErrors": {
+          "required": "राज्य आवश्यक आहे"
+        },
+        "villageInputLabel": "गाव / शहर",
+        "villagePlaceholder": "गाव / गावात प्रवेश करा",
+        "villageErrors": {
+          "required": "गाव / शहर आवश्यक आहे"
+        },
+        "landmarkInputLabel": "लँडमार्क",
+        "landmarkPlaceholder": "लँडमार्क प्रविष्ट करा"
+      }
+    }
+  },
+  "applicatntsCommunicationAddressForm": {
+    "description": "संप्रेषण पत्ता",
+    "checkBoxLabel": "कायमचा पत्ता म्हणून समान",
+    "communicationAddressForm": {
+      "formControl": {
+        "apartmentNumberInputLabel": "इमारत / अपार्टमेंट क्रमांक",
+        "apartmentNumberPlaceholder": "इमारत / अपार्टमेंट क्रमांक प्रविष्ट करा",
+        "apartmentNumberErrors": {
+          "required": "इमारत / अपार्टमेंट क्रमांक आवश्यक आहे",
+          "limitation": "कृपया वैध इमारत / अपार्टमेंट क्रमांक प्रविष्ट करा"
+        },
+        "careOfInputLabel": "ची देखभाल (सी / ओ) ",
+        "careOfPlaceholder": "ची देखभाल (सी / ओ) प्रविष्ट करा",
+        "streetInputLabel": "रस्ता / लेन",
+        "streetPlaceholder": "रस्ता / लेन प्रविष्ट करा",
+        "streetErrors": {
+          "required": "रस्ता / लेन आवश्यक आहे"
+        },
+        "pincodeInputLabel": "पिन कोड",
+        "pincodePlaceholder": "पिन कोड प्रविष्ट करा",
+        "pincodeErrors": {
+          "required": "पिनकोड आवश्यक आहे",
+          "limitation": "कृपया एक वैध पिन कोड प्रविष्ट करा"
+        },
+        "districtInputLabel": "जिल्हा",
+        "districtPlaceholder": "जिल्हा प्रविष्ट करा",
+        "districtErrors": {
+          "required": "जिल्हा आवश्यक आहे"
+        },
+        "stateInputLabel": "राज्य",
+        "statePlaceholder": "राज्य प्रविष्ट करा",
+        "stateErrors": {
+          "required": "राज्य आवश्यक आहे"
+        },
+        "villageInputLabel": "गाव / शहर",
+        "villagePlaceholder": "गाव / गावात प्रवेश करा",
+        "villageErrors": {
+          "required": "गाव / शहर आवश्यक आहे"
+        },
+        "landmarkInputLabel": "लँडमार्क प्रविष्ट",
+        "landmarkPlaceholder": "लँडमार्क प्रविष्ट करा"
+      }
+    }
+  },
+  "completeLaterButtonText": "नंतर पूर्ण करा",
+  "backButtonText": "मागे",
+  "saveButtonText": "सेव्ह आणि पुढील"
+}

@@ -1,0 +1,151 @@
+{
+    "applicationDetails": {
+        "title": "Application Overview",
+        "formControl": {
+            "applicationNoLabel": "Applicant No.",
+            "appliedDateLabel": "Applied on",
+            "statusLabel": "Status",
+            "downloadButtonText": "DOWNLOAD"
+        }
+    },
+    "applicantDetails": {
+        "title": "Applicant Personal Details",
+        "editButtonText": "Edit Details",
+        "editProfileButtonText": "Change Profile Picture",
+        "formControl": {
+            "fullNameLabel": "Full Name",
+            "maritalStatusLabel": "Marital Status",
+            "genderLabel": "Gender",
+            "dateOfBirthLabel": "Date of Birth"
+        }
+    },
+    "applicantKycDetails": {
+        "title": "Applicant KYC Details",
+        "formControl": {
+            "aadhaarNumberLabel": "Aadhaar Number",
+            "aadhaarVerifiedText": "Aadhaar Verified",
+            "panNumberLabel": "PAN Number",
+            "panVerifiedText": "PAN Verified",
+            "bankNameLabel": "Bank Name",
+            "branchNameLabel": "Branch",
+            "bankAccountNumberLabel": "Bank Account Number",
+            "micrNumberLabel": "MICIR Number",
+            "ifscCodeLabel": "IFSC Code",
+            "bankDetailsLabel": "Bank Details",
+            "fileSizeLabel": "Size",
+            "cancelledCheque": "Cancelled Cheque"
+        }
+    },
+    "contactDetails": {
+        "title": "Contact Details",
+        "editButtonText": "Edit Details",
+        "formControl": {
+            "mobileNoLabel": "Mobile Number",
+            "emailAddLabel": "Email Address",
+            "whatsAppNoLabel": "WhatsApp Number"
+        }
+    },
+    "addressDetails": {
+        "title": "Address",
+        "editButtonText": "Edit Details",
+        "formControl": {
+            "addressLabel": "Address",
+            "mobileNumberLabel": "Mobile Number",
+            "cityLabel": "City",
+            "stateLabel": "State",
+            "districtLabel": "District",
+            "postalCodeLabel": "Pin Code"
+        }
+    },
+    "categoryDetails": {
+        "title": "Category Details",
+        "editButtonText": "Edit Details",
+        "formControl": {
+            "castCategoryLabel": "Caste Category",
+            "reservationCategoryLabel": "Reservation Category"
+        }
+    },
+    "incomeDetails": {
+        "title": "Income Details",
+        "editButtonText": "Edit Details",
+        "formControl": {
+            "occupationLabel": "Occupation",
+            "employmentStatusLabel": "Employment Status",
+            "averageMonthlyFamilyIncomeLabel": "Average Monthly Family Income",
+            "incomeGroupLabel": "Income Group",
+            "employmentStatusLabel0": "Salaried",
+            "employmentStatusLabel1": "Daily Wage",
+            "employmentStatusLabel2": "Labour",
+            "employmentStatusLabel3": "Self Employed",
+            "employmentStatusLabel4": "Other"
+        }
+    },
+    "myDocumentsDetails": {
+        "title": "My Documents"
+    },
+    "coApplicantDetails": {
+        "title": "Co-Applicant Details",
+        "editButtonText": "Edit Details",
+        "formControl": {
+            "fullNameLabel": "Full Name",
+            "dateOfBirthLabel": "Date of Birth",
+            "genderLabel": "Gender",
+            "relationshipLabel": "Relationship"
+        }
+    },
+    "coApplicantsKycDetails": {
+        "title": "Co-applicant’s KYC Details",
+        "formControl": {
+            "aadhaarNumberLabel": "Aadhaar Number",
+            "aadhaarVerifiedText": "Aadhaar Verified",
+            "panNumberLabel": "PAN Number",
+            "panVerifiedText": "PAN Verified"
+        }
+    },
+    "coApplicantsAddressDetails": {
+        "title": "Co-applicant’s Address",
+        "formControl": {
+            "addressLine1Label": "Address Line 1",
+            "sameAsApplicantText": "Same as Applicant",
+            "addressLine2Label": "Address Line 2",
+            "postalCodeLabel": "Pin Code",
+            "stateLabel": "State",
+            "cityTownLabel": "City / Town",
+            "mobileNumberLabel": "Mobile Number",
+            "emailAddressLabel": "Email Address",
+            "districtLabel": "District"
+        }
+    },
+    "selectedProjects": {
+        "title": "Selected Projects",
+        "editButtonText": "Edit Details",
+        "projectCard": {
+            "kTxt": "K",
+            "lackTxt": "Lakh",
+            "crkTxt": "Cr",
+            "typeLabel": "Type",
+            "bhkText": "BHK",
+            "carpetAreaLabel": "RERA Carpet Area",
+            "sqmtText": "sqft"
+        }
+    },
+    "sourceInformationList": {
+        "label1": "News Paper",
+        "label2": "Radio",
+        "label3": "Television",
+        "label4": "Outdoor Hoarding",
+        "label5": "NMMT Bus",
+        "label6": "ST Bus",
+        "label7": "Social Media",
+        "label8": "Digital Google",
+        "label10": "Relative",
+        "label9": "Toll Free Number"
+    },
+    "sourceOfInfoQuestion": "How did you know about CIDCO housing?",
+    "sourceOfInfoLabel": "Source of Information",
+    "termsAndConditionsText1": "By checking this box you agree to the",
+    "termsAndConditionsText2": "Terms and Conditions",
+    "termsAndConditionsText3": "set by CIDCO",
+    "confirmAppBtnText": "Confirm Application",
+    "termsAndCondiErrorMessage": "Acknowledge the Terms & Conditions"
+}

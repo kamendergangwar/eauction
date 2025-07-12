@@ -1,0 +1,66 @@
+{
+  "pageTitle": "प्रोफाइल",
+  "appCardSection": {
+    "mainTitle": "मासिक आँकड़े",
+    "cardTitle1": "कुल आवेदन",
+    "cardTitle2": "प्रगति में आवेदन"
+  },
+  "notifcationsSection": {
+    "title": "अधिसूचनाएं",
+    "switchLabel": "चालू!"
+  },
+  "companyDetailsSection": {
+    "title": "कंपनी विवरण",
+    "dataLabel1": "CFC आईडी",
+    "dataLabel2": "कंपनी का नाम",
+    "dataLabel3": "द्वारा प्रबंधित"
+  },
+  "personalInformationSection": {
+    "title": "व्यक्तिगत जानकारी",
+    "dataLabel1": "पूरा नाम",
+    "dataLabel2": "लिंग",
+    "dataLabel3": "संपर्क विवरण",
+    "dataLabel4": "ईमेल आईडी",
+    "dataLabel5": "वर्तमान पता",
+    "editBtnText": "संपादित करें"
+  },
+  "personalInfoEdit": {
+    "title": "व्यक्तिगत जानकारी",
+    "formControl": {
+      "fullNameLabel": "पूरा नाम",
+      "fullNamePlaceholder": "अपना पूरा नाम दर्ज करें",
+      "fullNameErrors": {
+        "required": "पूरा नाम आवश्यक है"
+      },
+      "emailIdLabel": "ईमेल",
+      "emailIdPlaceholder": "अपना ईमेल आईडी दर्ज करें",
+      "emailIdErrors": {
+        "required": "ईमेल आईडी आवश्यक है",
+        "limitation": "कृपया एक वैध ईमेल पता दर्ज करें"
+      },
+      "mobileNumberLabel": "मोबाइल नंबर",
+      "mobileNumberPlaceholder": "अपना मोबाइल नंबर दर्ज करें",
+      "mobileNumberErrors": {
+        "required": "मोबाइल नंबर आवश्यक है",
+        "limitation": "कृपया एक वैध मोबाइल नंबर दर्ज करें"
+      },
+      "genderLabel": "लिंग",
+      "genderPlaceholder": "लिंग चुनें",
+      "genderErrors": {
+        "required": "लिंग आवश्यक है"
+      },
+      "genderOptions": {
+        "male": "पुरुष",
+        "female": "महिला",
+        "other": "अन्य"
+      },
+      "currentAddressLabel": "वर्तमान पता",
+      "currentAddressPlaceholder": "अपना वर्तमान पता दर्ज करें",
+      "currentAddressErrors": {
+        "required": "वर्तमान पता आवश्यक है"
+      },
+      "saveBtnText": "सहेजें",
+      "cancelBtnText": "रद्द करें"
+    }
+  }
+}

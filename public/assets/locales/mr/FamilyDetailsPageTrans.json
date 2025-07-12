@@ -1,0 +1,113 @@
+{
+  "addFamilyDetailForm": {
+    "title": "कुटुंबातील सदस्य जोडा",
+    "isMarriedText": "कृपया आपल्या जोडीदाराचा तपशील प्रविष्ट करा",
+    "familyTable": {
+      "tableTh": "संयुक्त मालकी",
+      "tableTh1": "कुटुंब सदस्याचे नाव",
+      "tableTh2": "वय",
+      "tableTh3": "लिंग",
+      "tableTh4": "नाते",
+      "tableTh5": "आधार क्रमांक",
+      "tableTh6": "मोबाइल नंबर",
+      "tableTh7": "छायाचित्र"
+    },
+    "buttonText": "कुटुंब सदस्य जोडा",
+    "familyMemberForm": {
+      "formControl": {
+        "photoMessage": "छायाचित्र रंगात आणि आकारात 2 इंचाचा x 2 इंच असावा. कोणत्याही जेपीईजी किंवा पीएनजीला परवानगी आहे",
+        "photoErrors": {
+          "required": "अर्जदार फोटो आवश्यक आहे",
+          "limitation": "कृपया योग्य आकाराची फाइल प्रविष्ट करा"
+        },
+        "editButtonText": "चित्र संपादित करा",
+        "nameLabel": "नाव प्रविष्ट करा",
+        "namePlaceholder": "कुटुंबातील सदस्याचे पूर्ण नाव",
+        "nameErrors": {
+          "required": "सदस्याचे नाव आवश्यक आहे",
+          "limitation": "कृपया वैध सदस्याचे नाव प्रविष्ट करा"
+        },
+        "memberAgeInputLabel": "वय प्रविष्ट करा",
+        "memberAgePlaceholder": "कुटुंबातील सदस्याचे वय प्रविष्ट करा",
+        "memberAgeErrors": {
+          "required": "वय आवश्यक आहे",
+          "limitation": "कृपया वैध वय प्रविष्ट करा"
+        },
+        "gender": {
+          "genderLabel": "लिंग",
+          "options": {
+            "male": "नर",
+            "female": "स्त्री",
+            "other": "इतर"
+          },
+          "genderErrors": {
+            "required": "लिंग आवश्यक आहे"
+          }
+        },
+        "relationship": {
+          "relationshipLabel": "नाते",
+          "options": {
+            "spouse": "जोडीदार",
+            "son": "मुलगा",
+            "daughter": "मुलगी",
+            "father": "पिता",
+            "mother": "आई",
+            "sister": "बहिण",
+            "brother": "भाऊ",
+            "grandFather": "आजोबा",
+            "grandMother": "आजी",
+            "grandSon": "नातू",
+            "grandDaughter": "नात"
+          },
+          "relationshipErrors": {
+            "required": "कृपया संबंध निवडा"
+          }
+        },
+        "mobileNumberInputLabel": "मोबाइल नंबर",
+        "mobileNumberPlaceholder": "मोबाइल नंबर प्रविष्ट करा",
+        "mobileNumberErrors": {
+          "required": "मोबाइल नंबर आवश्यक आहे",
+          "limitation": "कृपया एक वैध मोबाइल नंबर प्रविष्ट करा"
+        },
+        "aadhaarNumberInputLabel": "आधार क्रमांक",
+        "aadhaarNumberPlaceholder": "आधार क्रमांक प्रविष्ट करा",
+        "aadhaarNumberErrors": {
+          "required": "आधार क्रमांक आवश्यक आहे",
+          "limitation": "कृपया वैध आधार क्रमांक प्रविष्ट करा"
+        },
+
+        "addressInputLabel": "पत्ता",
+        "addressPlaceholder": "पत्ता प्रविष्ट करा",
+        "addressErrors": {
+          "required": "पत्ता आवश्यक आहे"
+        },
+        "emailAddressInputLabel": "ईमेल पत्ता",
+        "emailAddressPlaceholder": "पूर्ण ईमेल पत्ता",
+        "panNumberInputLabel": "पॅन क्रमांक",
+        "panNumberPlaceholder": "पॅन क्रमांक प्रविष्ट करा",
+        "panNumberErrors": {
+          "required": "पॅन क्रमांक आवश्यक आहे",
+          "limitation": "कृपया योग्य पॅन क्रमांक प्रविष्ट करा"
+        },
+        "dateOfBirthInputLabel": "जन्म तारीख",
+        "dateOfBirthErrors": {
+          "required": "जन्म तारीख आवश्यक आहे"
+        },
+        "jointOwnerMessage": "हा सदस्य संयुक्त मालक आहे?",
+        "checkBoxYesLabel": "होय",
+        "checkBoxNoLabel": "नाही",
+        "cancelButtonText": "रद्द करा",
+        "saveFamilyButtonText": "जतन करा"
+      }
+    },
+    "memberDetelePopup": {
+      "title": "आपली खात्री आहे की आपण या कुटुंबातील सदस्याला काढू इच्छिता?",
+      "description": "एकदा काढल्यानंतर आपल्याला पुन्हा सदस्य जोडण्यासाठी सर्व तपशील पुन्हा प्रविष्ट करावे लागतील",
+      "cancelButton": "नाही",
+      "confirmButton": "होय"
+    },
+    "completeLaterButtonText": "नंतर पूर्ण करा",
+    "backButtonText": "मागे",
+    "saveButtonText": "सेव्ह आणि पुढील"
+  }
+}

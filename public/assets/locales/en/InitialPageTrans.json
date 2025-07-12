@@ -1,0 +1,521 @@
+{
+  "loginForm": {
+    "title": "Welcome back",
+    "del_description": "Log in to access the portal",
+    "formControl": {
+      "phoneNumberLabel": "Mobile Number",
+      "phoneNumberPlaceholder": "Enter your mobile number",
+      "phoneNumberErrors": {
+        "required": "Mobile Number is required",
+        "limitation": "Please enter a valid Mobile Number"
+      },
+      "passwordLabel": "Password",
+      "passwordErrors": {
+        "required": "Password is required",
+        "limitation": "Must Contain 8 Characters, One Uppercase, One Lowercase, One Number and  One Special Character - Allowed Characters: @$!%*?&"
+      },
+      "loginWithOTPText": "Login with OTP",
+      "passwordText": "Forgot Password?",
+      "buttonText": "Login",
+      "messageText": "Don’t have an account? <1>Create Account</1>",
+      "or": "Or"
+    }
+  },
+  
+  "signUpForm": {
+    "title": "Create Account",
+    "grievanceTitle": "Create Account to Raise a Grievance",
+    "description": "",
+    "formControl": {
+      "phoneNumberLabel": "Mobile Number",
+      "phoneNumberPlaceholder": "Enter your mobile number",
+      "phoneNumberErrors": {
+        "required": "Mobile Number is required",
+        "limitation": "Please enter a valid Mobile Number"
+      },
+      "passwordLabel": "Password",
+      "passwordErrors": {
+        "required": "Password is required",
+        "limitation": "Must Contain 8 Characters, One Uppercase, One Lowercase, One Number and  One Special Character - Allowed Characters: @$!%*?&"
+      },
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordErrors": {
+        "required": "Password is required",
+        "limitation": "Both passwords need to be the same"
+      },
+      "fullname": {
+        "fullnameLabel": "Full Name",
+        "fullnamePlaceholderL": "Enter Full name",
+        "limitation": "Enter Valid name",
+        "required": "Full Name is required"
+      },
+      "buttonText": "Sign Up",
+      "messageText": "Already have an account? <1>Login</1>",
+      "isBotOrHumanText": "Suspicious activity found. Please try again later",
+      "next": "Get OTP",
+      "otpVerify": {
+        "verifyAccount": "Verify Your Account",
+        "verifyAccountGrievance": "Verify Your Account to Raise a Grievance",
+        "desc": "Please enter Verification OTP sent to.",
+        "button": "Verify"
+      },
+      "ResendOTPin0": "Resend OTP in",
+      "ResendOTPin1": "sec",
+      "clickhere": "click here"
+    }
+  },
+  "termsConditions": {
+    "title": "Terms & Conditions",
+    "content": "I/We hereby provide my/our consent in accordance with Aadhaar Act 2016 and regulations made thereunder for collecting, storing and it's usage for validating/authenticating and updating my/our Aadhaar Number in accordance with the Aadhaar Act 2016 (and regulations made thereunder) and PMLA. I/We hereby provide my/our consent for sharing/disclosing my Aadhaar number.",
+    "formControl": {
+      "checkBoxLabel": "I/We hereby agree to the terms and conditions",
+      "checkBoxErrors": {
+        "required": "Acknowledge the Terms & Conditions"
+      },
+      "buttonText": "Yes, I Agree"
+    }
+  },
+  "verifyAadhaarForm": {
+    "title": "Verify First Applicant's Aadhaar for KYC",
+    "title1": "Verify Co-Applicant's Aadhaar for KYC",
+    "description": "We need your Aadhaar details to confirm your KYC.",
+    "description1": "We need Co-Applicant's Aadhaar details to confirm KYC.",
+    "formControl": {
+      "aadhaarNumInputLabel": "Enter 12-digit Aadhaar Number ",
+      "aadhaarNumPlaceholder": "0000-0000-0000",
+      "aadhaarNumErrors": {
+        "required": "Aadhaar Number is required",
+        "limitation": "Please enter a valid Aadhaar Number"
+      },
+      "securityCode": "Captcha Code",
+      "securityCodeLabel": "Enter Captcha Code",
+      "securityCodePlaceholder": "Enter Security Code",
+      "securityCodeErrors": {
+        "required": "Security Code is required",
+        "limitation": "Please enter a valid Security Code"
+      },
+      "aadharTnC": "I've read the Terms & Conditions and hereby give my consent for Aadhaar verification.",
+      "messageText0": "Your Aadhaar isn't linked to the phone number",
+      "messageText1": "Go ahead with Offline e-KYC here",
+      "messageText2": "Aadhaar verified successfully",
+      "messageText3": "Aadhaar verified successfully",
+      "messageText4": "GST Verified successfully",
+      "messageText5": "Bank Details Verified successfully",
+      "buttonText1": "Complete KYC later",
+      "buttonText2": "Verify",
+      "buttonText3": "Next"
+    }
+  },
+  "authVerifyAadhaarForm": {
+    "title": "Verify user with Aadhaar Number",
+    "description": "Enter your 12-digit Aadhaar Number.",
+    "formControl": {
+      "aadhaarNumInputLabel": "Enter Aadhaar Number",
+      "aadhaarNumPlaceholder": "Enter Aadhaar Number",
+      "aadhaarNumHelperText": "12-digit UID (XXXX/XXXX/XXXX)",
+      "aadhaarNumErrors": {
+        "required": "Aadhaar number is required",
+        "limitation": "Please enter a valid Aadhaar number"
+      },
+      "securityPinInputLabel": "Enter Security Code",
+      "securityPinInputPlaceholder": "Enter Security Code",
+      "securityPinHelperText": "Type the character you see in the picture",
+      "securityPinErrors": {
+        "required": "Security Code is required",
+        "limitation": "Please enter a valid Security Code"
+      },
+      "checkBoxLabel": "I have read the  <1>terms & conditions</1> and given my consent for Aadhaar verification.",
+      "checkBoxErrors": {
+        "required": "Acknowledge the Terms & Conditions"
+      },
+      "submitButtonText1": "Send OTP",
+      "submitButtonText2": "Complete KYC later",
+      "isBotOrHumanText": "Suspicious activity found. Please try again later",
+      "clickhere": "click here"
+    }
+  },
+  "authOTpVerifyForm": {
+    "title": "OTP Verification",
+    "description": "Verify your Aadhaar",
+    "sendTxt1": "An OTP has been sent to the registered mobile number associated with Aadhaar number",
+    "changeTxt": "Change here",
+    "formControl": {
+      "otpInputLabel": "Enter OTP",
+      "otpInputPlaceholder": "Enter OTP",
+      "otpHelperText": "Please enter 6-digit OTP",
+      "oneTimePasswordErrors": {
+        "required": "OTP is required",
+        "limitation": "Please enter a valid OTP"
+      },
+      "resendOtpTxt": "Resend OTP in",
+      "resendOtpSecTxt": "Seconds",
+      "resendText": "Retry",
+      "submitButtonText": "Verify",
+      "aadhaarVerification": "Aadhaar verified successfully"
+    }
+  },
+  "uploadAadhaarCardForm": {
+    "title": "Upload Aadhaar",
+    "title1": "Upload Co-Applicant's Aadhaar",
+    "description": "Upload scanned copy of your Aadhaar card.",
+    "description1": "Upload scanned copy of Co-Applicant's Aadhaar card.",
+    "formControl": {
+      "dragNdDropText": "Drag & Drop or",
+      "browseBtnText": "Upload",
+      "kycCaptionTxt1": "Preview",
+      "kycCaptionTxt2": "File Uploaded",
+      "buttonText2": "Re-upload",
+      "buttonText3": "Next",
+      "fileLimit0": "We support",
+      "fileLimit1": "jpg, png & pdf format",
+      "fileLimit2": "& Maximum Size 2 MB.",
+      "fileLimit3": "& Maximum Size 5 MB.",
+      "success": "Document Uploaded Successfully",
+      "uploadErrors": {
+        "required": "File is required",
+        "limitation": "File too large",
+        "fileFormat": "Unsupported Format"
+      }
+    }
+  },
+  "verifyPanCardForm": {
+    "title": "Verify First Applicant's PAN Card",
+    "title1": "Verify Co-Applicant's PAN Card",
+    "description": "Please enter your PAN details.",
+    "description1": "Please enter Co-Applicant's PAN details.",
+    "formControl": {
+      "pancardNumInputLabel": "Enter PAN Card Number",
+      "pancardNumPlaceholder": "Enter PAN Card Number",
+      "pancardNumErrors": {
+        "required": "PAN Card number is required",
+        "limitation": "Please enter a valid PAN Card number"
+      },
+      "messageText0": "Verification Successful",
+      "messageText1": "Co-Applicant's PAN Card Verified Successfully",
+      "buttonText3": "Next",
+      "panSuccessTxt": "Your PAN verification is successfully done"
+    }
+  },
+  "uploadPanCardForm": {
+    "title": "Upload PAN Card",
+    "title1": "Upload Co-Applicant's PAN Card",
+    "description": "Upload scanned copy of PAN Card.",
+    "description1": "Upload scanned copy of Co-Applicant's PAN Card.",
+    "formControl": {
+      "dragNdDropText": "Drag & Drop or",
+      "browseBtnText": "Upload",
+      "kycCaptionTxt1": "Preview",
+      "kycCaptionTxt2": "File Uploaded",
+      "buttonText2": "Re-upload",
+      "buttonText3": "Next",
+      "fileLimit0": "We support",
+      "fileLimit1": "jpg, png & pdf format",
+      "fileLimit2": "& Maximum Size 2 MB.",
+      "success": "Document Uploaded Successfully",
+      "uploadErrors": {
+        "required": "File is required",
+        "limitation": "File too large",
+        "fileFormat": "Unsupported Format"
+      }
+    }
+  },
+  "kycOfflineForm": {
+    "title": "Offline E-KYC",
+    "description": "Upload the Zip file and submit the 4 digit pin",
+    "formControl": {
+      "fileLabel": "UPLOAD",
+      "fileErrors": {
+        "required": "A File is required",
+        "limitation": "File too large"
+      },
+      "securityPinInputLabel": "Enter 4 digit pin",
+      "securityPinInputPlaceholder": "Enter security pin",
+      "securityPinErrors": {
+        "required": "Security pin is required",
+        "limitation": "Please enter a valid Security pin"
+      },
+      "backButtonText": "BACK",
+      "nextButtonText": "NEXT"
+    },
+    "offlineKYC": {
+      "title": "Offline KYC Process",
+      "description1": "1. On the UDAI portal enter aahaar no. and set code",
+      "description2": "2. Then enter the OTP and download the XML file.",
+      "description3": "3. Upload XML file and share code on our portal",
+      "description4": "4. Share original details with us for verification "
+    }
+  },
+  "forgotPasswordForm": {
+    "title": "Forgot Your Password ?",
+    "verifyOtpTitle": "Verify Your Account",
+    "description": "Click on Get OTP to verify it's you",
+    "verifyOtpDescription": "Enter the OTP Sent on your Registered Mobile No.",
+    "msgText": "Did you remember your Password? <1>Try to Login</1>",
+    "formControl": {
+      "phoneNumberLabel": "Mobile Number",
+      "phoneNumberPlaceholder": "Enter your mobile number",
+      "phoneNumberErrors": {
+        "required": "Mobile Number is required",
+        "limitation": "Please enter a valid Mobile Number"
+      },
+      "oneTimePasswordInputLabel": "Enter OTP",
+      "oneTimePasswordPlaceholder": "Enter the OTP sent to mobile number",
+      "oneTimePasswordErrors": {
+        "required": "OTP is required",
+        "limitation": "Please enter a valid OTP"
+      },
+      "resendText": "Resend OTP",
+      "generateOTPButtonText": "Get OTP",
+      "submitButtonText": "Verify"
+    }
+  },
+  "newPasswordForm": {
+    "title": "Reset Password",
+    "description": "The Password must contain 8 Characters at least 1 Capital Letter, 1 Special Character, 1 Number",
+    "formControl": {
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter new password",
+      "passwordErrors": {
+        "required": "Password is required",
+        "limitation": "Must Contain 8 Characters, One Uppercase, One Lowercase, One Number and  One Special Character - Allowed Characters: @$!%*?&"
+      },
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordPlaceholder": "Enter Password",
+      "confirmPasswordErrors": {
+        "required": "Confirm Password is required",
+        "limitation": "Both password need to be the same"
+      },
+      "passwordHelpText": "Password must be min 8 Characters long & must contain:",
+      "hintText1": "Atleast 1 Uppercase Letter",
+      "hintText2": "Atleast 1 Lowercase Letter",
+      "hintText3": "Atleast 1 Number",
+      "hintText4": "Atleast 1 Special Character",
+      "submitButtonText": "Reset My Password",
+      "advoiceText0": "To make sure your account is secure, you’ll be",
+      "advoiceText1": "logged out",
+      "advoiceText2": "of other devices once you set the new password"
+    }
+  },
+  "loginWithOtpForm": {
+    "title": "Log In with Mobile Number",
+    "description1": "Enter your registered mobile number",
+    "description2": "Please Enter verification OTP sent to",
+    "formControl": {
+      "phoneNumberLabel": "Mobile Number",
+      "phoneNumberPlaceholder": "Enter your mobile number",
+      "phoneNumberErrors": {
+        "required": "Mobile Number is required",
+        "limitation": "Please enter a valid Mobile Number"
+      },
+      "oneTimePasswordInputLabel": "Enter OTP",
+      "oneTimePasswordPlaceholder": "Enter the OTP sent to mobile number",
+      "oneTimePasswordErrors": {
+        "required": "OTP is required",
+        "limitation": "Please enter a valid OTP"
+      },
+      "resendText": "Resend OTP",
+      "generateOTPButtonText": "Get OTP",
+      "loginWithPasswordText": "Login with password",
+      "submitButtonText": "Sign Up",
+      "verifyAccount": "Verify Your Account",
+      "ResendOTPin0": "Resend OTP in",
+      "ResendOTPin1": "sec",
+      "clickhere": "click here"
+    }
+  },
+  "setPassword": {
+    "title": "Set Your Password",
+    "descp": "The Password must contain 8 Characters at least 1 Capital Letter, 1 Special Character, 1 Number.",
+    "button": "Create Account"
+  },
+  "kycBank": { 
+    "title": "Enter Bank Details",
+    "title1": "Enter Your Firm Bank Details",
+
+    "descp": "Enter your Bank Details.",
+    "descp1": "Enter your Firm Bank Details.",
+    "formControl": {
+      "accountNumber": {
+        "label": "Enter Bank Account Number",
+        "placeholder": "Enter Bank Account Number",
+        "required": "Bank Account Number is Required",
+        "limitation": "Enter Valid Account Number"
+      },
+      "confirmaccountNumber": {
+        "label": "Confirm Bank Account Number",
+        "placeholder": "Confirm Bank Account Number",
+        "required": "Confirm Bank Account Number is Required",
+        "limitation": "Enter Valid Account Number to Confirm"
+      },
+      "radio": {
+        "label": "Please Select Refund Type to proceed with :",
+        "required": "Select one to proceed with",
+        "rtman": "Refund To Above Mentioned Account Number",
+        "rts": "Refund To Source"
+      },
+      "ifsc": {
+        "label": "Enter IFSC ",
+        "placeholder": "Enter IFSC Number",
+        "required": "IFSC Number is Required",
+        "limitation": "Enter Valid IFSC Number"
+      },
+      "micr": {
+        "label": "Enter MICR",
+        "placeholder": "Enter MICR Number",
+        "required": "MICR Number is Required",
+        "limitation": "Enter Valid MICR Number"
+      },
+      "bank": {
+        "label": "Bank Name",
+        "placeholder": "Bank Name",
+        "required": "Bank Name is Required",
+        "limitation": "Enter Valid Bank Name"
+      },
+      "accountholdername": {
+        "label": "Account Holder Name",
+        "placeholder": "Enter Account Holder Name",
+        "required": "Account Holder Name Is Required",
+        "limitation": "Enter Valid Account Holder Name"
+      },
+      "branch": {
+        "label": "Branch Name",
+        "placeholder": "Branch Name",
+        "required": "Branch Name is Required",
+        "limitation": "Enter Valid Branch Name"
+      },
+      "upload": {
+        "title": "Upload Cheque",
+        "descp": "Upload scanned copy of your Cancelled Cheque.",
+        "kycCaptionTxt1": "Preview",
+        "dragNdDropText": "Drag & Drop or",
+        "browseBtnText": "Upload",
+        "fileLimit0": "We support",
+        "fileLimit1": "jpg, png & pdf format",
+        "fileLimit2": "& Maximum Size 2 MB.",
+        "success": "Document Uploaded Successfully",
+        "uploaded": "File Uploaded",
+        "reupload": "Re-upload"
+      },
+      "uploadErrors": {
+        "required": "File is required",
+        "limitation": "File too large",
+        "fileFormat": "Unsupported Format"
+      }
+    }
+  },
+  "userDeclaration": {
+    "title": "Declaration",
+    "confirmationCheckBoxLabel": "I confirm that the information provided with respect to my mentioned Identity Details are Correct and remains unchanged.",
+    "continueBtnText": "Continue",
+    "questionPage1": {
+      "title": "Monthly Income of your Family",
+      "helpText": "For Married Applicant   : Family income is the combined monthly income(Basic +DA) of Husband and Wife ",
+      "helpText1": "For Unmarried Applicant : Family income is the Monthly income of applicant",
+      "exampleText": "Example : Rajesh earns ₹ 5,000 per month and his wife Shalini Earns ₹ 12,000 per month Hence, Family Income of Rajesh will be 5,000 + 12,000 = ₹ 17,000 per month",
+      "showExampleBtnTxt": "Show Example",
+      "hideExampleBtnTxt": "Hide Example",
+      "belowText": "Upto ₹ 50,000",
+      "aboveText": "Above ₹ 50,000",
+      "betweenText": "₹ 50,001 To ₹ 75,000"
+    },
+    "questionPage2": {
+      "title": "Do you own a Pucca House anywhere in",
+      "titlePrimaryTxt": "India?",
+      "yesText": "Yes",
+      "noText": "No"
+    },
+    "questionPage3": {
+      "title": "Do you own a Pucca House in",
+      "titlePrimaryTxt": "Navi Mumbai?",
+      "yesText": "Yes",
+      "noText": "No"
+    },
+    "questionPage4": {
+      "title": "Congratulations",
+      "infoText1": "You are eligible",
+      "infoText2": "for NON PMAY CIDCO Mega Housing Scheme ",
+      "applyNowBtnTxt": "Apply Now"
+    },
+    "questionPage5": {
+      "title": "Thank You!",
+      "subTitle": "You are eligible to Apply for both (PMAY & NON PMAY) CIDCO Mega Housing Scheme",
+      "pMayCheckBox": {
+        "title": "PMAY",
+        "description": "Government subsidy of ₹2.5 Lakhs for EWS"
+      },
+      "nonPmayCheckBoxTxt": {
+        "title": "NON PMAY",
+        "description": "No Government subsidy"
+      },
+      "knowMoreBtn": "Know More"
+    },
+    "questionPage6": {
+      "title": "Sorry!",
+      "subTitle": "No schemes available yet.",
+      "infoText": "Please fill out your details below and we will Notify you when the right scheme is available for you.",
+      "formControl": {
+        "nameLabel": "Full Name",
+        "namePlaceholder": "Enter Full Name",
+        "nameErrors": {
+          "required": "Full Name is required",
+          "limitation": "Please enter a valid Name"
+        },
+        "whatsappNumberInputLabel": "WhatsApp Number",
+        "whatsappNumberPlaceholder": "Enter WhatsApp Number",
+        "whatsappNumberErrors": {
+          "limitation": "Please enter a valid WhatsApp Number"
+        },
+        "checkBoxLabel": "Get Updates On",
+        "locationLabel": "Location",
+        "locationErrors": {
+          "required": "Location is required"
+        },
+        "emailInputLabel": "Email",
+        "emailPlaceholder": "ex : abc@gmail.com",
+        "emailErrors": {
+          "limitation": "Please enter a valid email address"
+        },
+        "optionaltxt": "Optional",
+        "whatsAppTxt": "WhatsApp."
+      },
+      "submitBtnTxt": "Submit"
+    },
+    "questionPage7": {
+      "title": "Thank you!",
+      "subTitle": "Your Response has been Submitted Successfully.",
+      "goHomeBtnTxt": "Go Home"
+    }
+  },
+  "onboarding": {
+    "clickHere": "Click Here.",
+    "noticeHeading": "IMPORTANT NOTICE",
+    "noticePoint1": "The entire application process is digital.",
+    "noticePoint2": "Before applying, ensure that the mandatory documents are ready. For more information,",
+    "noticePoint3": {
+      "before" : "Kindly refer to the",
+      "highLight" : "GUIDE VIDEO",
+      "highLight2": "HELP VIDEO",
+      "after" : "to understand the application process in detail."
+    },
+    "noticePoint4": {
+      "before" : "Application fee is",
+      "highLight" : "Non Refundable.",
+      "after" : "",
+      "subPoint1": "₹ 2,500 + GST for NON PMAY",
+      "subPoint2": "₹ 500 + GST for PMAY (EWS)"
+    },
+    "noticePoint5": "For any help call us on",
+    "noticePoint5A": "(Timing: 8 AM to 10 PM)",
+    "acceptCondition": "I have read the instructions and understood",
+    "acceptConditionError": "Please make sure, you read the instructions",
+    "step": "Step",
+    "journeyHeading": "Easy Steps for Select My CIDCO Home",
+    "journeySteps" :{
+      "step1" : "Establish your eligibility",
+      "step2" : "Upload self attested documents & affidavits for verification",
+      "step3" : "Pay Application fee",
+      "step4" : "Select your Home & pay Booking amount",
+      "step5" : "Collect your allotment letter"
+    }
+  }
+}

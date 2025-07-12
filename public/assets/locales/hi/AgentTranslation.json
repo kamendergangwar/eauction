@@ -1,0 +1,15 @@
+﻿{
+  "registerApplication": "आवेदक पंजीकृत करें",
+  "support": "सहायता",
+  "agentHeaderSection": {
+    "agentSideMenu": {
+      "home": "होम",
+      "profile": "प्रोफाइल",
+      "applicationDashboard": "एप्लिकेशन डैशबोर्ड",
+      "analytics": "एनालिटिक्स",
+      "uploadLeads":"लीड अपलोड करें",
+      "changePassword": "पासवर्ड बदलें",
+      "logout": "लॉगआउट"
+    }
+  }
+}

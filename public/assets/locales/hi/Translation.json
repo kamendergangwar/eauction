@@ -1,0 +1,85 @@
+﻿{
+  "greeting": "सभी को नमस्कार",
+  "headerSection": {
+    "rightSideMenuTitle": "मेरा खाता",
+    "timeValidTxt1": "इस तारीख से पहले बुकिंग राशि का भुगतान करें।",
+    "timeValidTxt2": "टाइम आउट - कृपया फिर से फ्लैट चुनें।",
+    "timeValidTxt3": "फ्लैट बुकिंग का प्रयास शेष - ",
+    "timeValidTxt4": "टाइमर समाप्त होने के बाद फ्लैट बुकिंग स्वचालित रूप से रद्द हो गई",
+    "dayTxt": "दिन",
+    "hrTxt": "घंटे",
+    "minTxt": "मिनट",
+    "secTxt": "सेकंड",
+    "profileMenu": {
+      "dashboard": "डैशबोर्ड",
+      "profile": "निजी प्रोफाइल",
+      "application": "मेरा आवेदन - पत्र",
+      "personalDetails": "व्यक्तिगत जानकारी",
+      "grievance": "शिकायत",
+      "transactionDetails": "लेनदेन का विवरण",
+      "myDocuments": "मेरे दस्तावेज़",
+      "languageSetting": "भाषा सेटिंग",
+      "logout": "लॉग आउट"
+    },
+    "support": "सहायता केंद्र",
+    "helpDeskDropDown": {
+      "title": "हम आपकी किस प्रकार सहायता कर सकते हैं?",
+      "globSearchInputPlaceholder": "सवाल खोजें",
+      "helpButtonText1": "(एफएक्यू) अक्सर पूछे जाने वाले सवाल",
+      "helpButtonText1Mobile": "सामान्य सवाल",
+      "helpButtonText2": "हमारे साथ व्हॉट्सअ‍ॅप पर चैट करें",
+      "helpButtonText3": "सहायताव्हिडिओ",
+      "helpButtonText4": "यूजर उपयोगकर्ता पुस्तिका डाउनलोड करें",
+      "helpButtonText5": "शर्तें और गोपनीयता",
+      "querryCallUsText": "किसी भी प्रश्न के लिए हमें कॉल करें",
+      "callUsTimingTxt" : "(समय: सुबह 8 बजे से रात 10 बजे तक)"
+    },
+    "ribbion":{
+      "banner": "**** PMAY योजना",
+      "banner1":"की लॉटरी अब बंद हो गई है **** अधिक जानने के लिए जाएँ https://cidcohomes.com",
+      "tittle": "पंजीकरण बंद।"
+    }
+  },
+  "faqSection": {
+    "title": "(एफएक्यू) अक्सर पूछे जाने वाले सवाल",
+    "searchInputPlaceholder": "सवाल खोजें"
+  },
+  "videoTutorialSection": {
+    "title": "वीडियो ट्यूटोरियल/सहायता",
+    "searchInputPlaceholder": "खोजें"
+  },
+  "termsAndPpSection": {
+    "title": "शर्तें और गोपनीयता नीति",
+    "tabs": {
+      "tab1": "मूल शर्तें",
+      "tab2": "परियोजना शुल्क (ईएमडी के बारे में सभी)",
+      "tab3": "धन वापसी नीति",
+      "tab4": " सुरक्षा",
+      "tab5": "पेमेंट सेटिंग और सुरक्षा",
+      "tab6": "लीगल पॉलिसीज/कानूनी नीतियां",
+      "tab7": "साइट की विशेषताएं"
+    }
+  },
+  "mainStepperSection": {
+    "step1": "व्यक्तिगत जानकारी",
+    "step2": "श्रेणी विवरण",
+    "step3": "दस्तावेज़ जमा करें",
+    "step4": "भुगतान करें"
+  },
+  "subStepperSection": {
+    "step1": "आधार सत्यापित करें",
+    "step2": "पैन कार्ड सत्यापित करें",
+    "step3": "बैंक विवरण सत्यापित करें",
+    "step4": "जीएसटी सत्यापित करें"
+  },
+  "photoImageDialog": {
+    "title": "फोटो जोड़ें",
+    "description": "फोटोग्राफ रंगीन और 2 इंच x 2 इंच के आकार का होना चाहिए। इसका उपयोग सीएफ़सी केंद्र में आपकी पहचान करने के लिए किया जाएगा। किसी भी जेपीईजी या पीएनजी की अनुमति है।",
+    "cropButton": "चित्र को काटो",
+    "chooseFileButton": "फ़ाइल का चयन",
+    "fileErrors": {
+      "fileFormatError": "फ़ाइल प्रारूप मान्य नहीं है",
+      "fileSizeError": "फ़ाइल का आकार ५० केबी से ५ एमबी के बीच होना चाहिए"
+    }
+  }
+}

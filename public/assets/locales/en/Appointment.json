@@ -1,0 +1,55 @@
+{
+    "rescheduleAppointment": {
+        "title": "Document Verification Appointment Details",
+        "appointmentCenterLabel": "Appointment Center:",
+        "scheduledOnLabel": "Scheduled On:",
+        "scheduleBtn": "Reschedule",
+        "cancelBtn": "Cancel",
+        "AppointmentModel": {
+            "cancelModel": {
+                "title": "Cancel Appointment",
+                "descriptionContent": "Are you sure you want to cancel your Scheduled appointment?"
+            },
+            "rescheduleModel": {
+                "title": "Reschedule Appointment",
+                "descriptionContent": "Are you sure you want to reschedule your appointment scheduled on"
+            },
+            "yesBtn": "Yes",
+            "noBtn": "No"
+        }
+    },
+    "scheduleAppointment": {
+        "title": "Schedule Your Appointment",
+        "title1": "Reschedule Your Appointment",
+        "docCenterTitle": "Document Verification Center",
+        "previousAppointmentTitle":"Previous Appointment",
+        "currentAppointment":"Current Appointment",
+        "appointmentCenterLabel":"Appointment Center:",
+        "scheduledOn":"Scheduled On:",
+        "validTillTxt":"Valid till",
+        "CancelledTxt":"Cancelled",
+        "idTxt":"id",
+        "Slot":{
+            "noSlot":"No Slots Available",
+            "yesSlot": "Slots Available",
+            "bookBtn":"Book Now",
+            "yourSessionTxt":"Your Session Timeout",
+            "kindlyselectTxt": "Kindly select your slot again",
+            "selectslotBtn": "Select your slot"
+        }
+    },
+    "bookSlot":{
+        "title":"Book your Appointment Slot",
+        "chooseSlotTxt": "Choose Slot",
+        "timeTxt": "Time",
+        "meetingDetailTxt":"Meeting Details",
+        "appointmentDetailTxt": "Appointment details",
+        "confirmBookingBtn":"Confirm Booking"
+    },
+    "appointmentSuccessfull":{
+        "title":"Appointment Successfull!",
+        "descriptionTxt": "Thank you for Booking the slot, your appointment details has been sent to your email and registered mobile no.",
+        "myAppointmentBtn":"My Appointments",
+        "downloadReceiptBtn":"Download Receipt"
+    }
+}

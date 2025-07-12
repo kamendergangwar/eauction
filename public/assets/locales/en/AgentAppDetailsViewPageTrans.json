@@ -1,0 +1,200 @@
+{
+    "applicatntProfilePage": {
+        "applicationDetail": {
+            "formControl": {
+                "applicantNoLabel": "Applicant no.",
+                "appliedDateLabel": "Applied on",
+                "applicationStatus": "Application Status",
+                "backButtonText": "Back to Dashboard",
+                "downloadButtonText": "DOWNLOAD"
+            },
+            "applicationStatusTexts": {
+                "status0": "Saved",
+                "status1": "Approved",
+                "status2": "Rejected",
+                "status3": "Verified",
+                "status4": "Winner",
+                "status5": "Waiting",
+                "status6": "Lost",
+                "status9": "Delete"
+            }
+        },
+        "applicantDetail": {
+            "title": "Applicant's Details",
+            "editButtonText": "EDIT",
+            "formControl": {
+                "aadhaarNumberLabel": "Aadhaar Number",
+                "panNumberLabel": "Pan Number"
+            }
+        },
+        "genderOptions": {
+            "male": "Male",
+            "female": "Female",
+            "other": "Other"
+        },
+        "personalDetail": {
+            "title": "Personal Information",
+            "formControl": {
+                "applicantNameLabel": "Applicant's Full Name",
+                "genderLabel": "Gender",
+                "dobLabel": "Date of Birth",
+                "fatherNameLabel": "Father's Name",
+                "maritalStatusLable": "Marital Status"
+            },
+            "maritalStsOptions": {
+                "single": "Single",
+                "married": "Married",
+                "divorced": "Divorced",
+                "widow": "Widow",
+                "widower": "Widower"
+            }
+        },
+        "familyDetailForm": {
+            "title": "Family Details",
+            "editButtonText": "EDIT",
+            "familyTable": {
+                "tableTh1": "Name",
+                "tableTh2": "Age",
+                "tableTh3": "Gender",
+                "tableTh4": "Relationship",
+                "tableTh5": "Aadhaar Number",
+                "tableTh6": "Phone Number",
+                "tableTh7": "Joint Owner",
+                "tableTh8": "Photo"
+            },
+            "relationshipOptions": {
+                "spouse": "Spouse",
+                "son": "Son",
+                "daughter": "Daughter",
+                "father": "Father",
+                "mother": "Mother",
+                "sister": "Sister",
+                "brother": "Brother",
+                "grandFather": "Grandfather",
+                "grandMother": "Grandmother",
+                "grandSon": "Grandson",
+                "grandDaughter": "Granddaughter"
+            }
+        },
+        "contactInformation": {
+            "title": "Contact Information",
+            "editButtonText": "EDIT",
+            "formControl": {
+                "mobileNumberLabel": "Mobile Number",
+                "whatsappLabel": "WhatsApp Number",
+                "emailLabel": "Email Address"
+            }
+        },
+        "accomodationDetal": {
+            "title": "Accomodation Details",
+            "formControl": {
+                "permanentAddressLabel": "Permanent Address",
+                "communicationAddressLabel": "Communication Address"
+            }
+        },
+        "categoryDetails": {
+            "title": "Category Details",
+            "editButtonText": "EDIT",
+            "formControl": {
+                "castCategoryLabel": "Caste category",
+                "otherCategoryLabel": "Other Category"
+            }
+        },
+        "incomeInformation": {
+            "title": "Income Information",
+            "editButtonText": "EDIT",
+            "formControl": {
+                "occupationLabel": "Occupation",
+                "employmentStatusLabel": "Employement Status",
+                "annualIncomeLabel": "Annual Family Income",
+                "incomeGroupLabel": "Income Group"
+            },
+            "occupationOptions": {
+                "agriculture": "Agriculture",
+                "business": "Business",
+                "selfEmployed": "Self-Employed",
+                "service": "Service",
+                "other": "Other"
+            },
+            "employmentOptions": {
+                "selfEmployed": "Self Employed",
+                "salaried": "Salaried",
+                "regularWage": "Daily Wage",
+                "labour": "Labour",
+                "other": "Other"
+            }
+        },
+        "schemeDetail": {
+            "title": "Selected Scheme",
+            "projectIdLabel": "Project ID",
+            "applicationStatusLabel": "Application Status",
+            "bhkText": "BHK",
+            "sqftText": "Sqft",
+            "editButtonText": "EDIT",
+            "applicationStatusValTxt": {
+                "status0": "Saved",
+                "status1": "Completed",
+                "status2": "Rejected",
+                "status3": "Verified",
+                "status4": "Winner",
+                "status5": "Waiting",
+                "status6": "Lost",
+                "status9": "Delete"
+            }
+        },
+        "documentsForm": {
+            "title": "Submit Document",
+            "editButtonText": "EDIT",
+            "puccaHouseForm": {
+                "title": "Do you own a pucca house?",
+                "checkBoxLabel": "I confirm that I am not in possession of any pucca house"
+            },
+            "castCertificateForm": {
+                "title0": "Submit Document",
+                "title1": "Caste Certificate",
+                "formControl": {
+                    "certifcateNumberInputLabel": "Certificate Number",
+                    "nameCertifcateInputLabel": "Name as on certificate",
+                    "certificateStateLabel": "Certificate State",
+                    "documentDateLabel": "Document Date",
+                    "barCodeLabel": "Is Barcode present ?",
+                    "mahaCertificateLabel": "Is Maha online certificate?",
+                    "attachementLabel": "Attachements"
+                }
+            },
+            "casteValidityForm": {
+                "title": "Caste Validity Certificate",
+                "formControl": {
+                    "documentNoInputLabel": "Document Number",
+                    "nameCertifcateInputLabel": "Name on cast validity",
+                    "casteCategoryLabel": "Caste Category",
+                    "validityLabel": "Validity",
+                    "certificateStateLabel": "Caste State",
+                    "documentDateLabel": "Document Date",
+                    "attachementLabel": "Attachements"
+                }
+            }
+        },
+        "bankDetails": {
+            "title": "Bank Details",
+            "editButtonText": "EDIT",
+            "formControl": {
+                "accountNumberLabel": "Account Number",
+                "branchNameLabel": "Branch Name",
+                "bankNameLabel": "Bank Name",
+                "IFSCcodeLabel": "IFSC Code"
+            }
+        },
+        "billingForm": {
+            "title": "Billing Summary",
+            "billingTable": {
+                "tableTh0": "Application",
+                "tableTh1": "Application Fee",
+                "tableTh2": "Processing Fee (Non-Refundable)",
+                "tableTh3": "Subtotal",
+                "tableTh4": "GST",
+                "tableTh5": "Total"
+            }
+        }
+    }
+}

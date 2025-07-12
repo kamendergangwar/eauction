@@ -1,0 +1,21 @@
+{
+    "title": "Select Your Flat Preferences",
+    "subTitle": "To proceed please select the type of House your looking for",
+    "floorSection": {
+        "title": "Which Floor do you prefer?",
+        "subTitle": "You can select more than one Floor rise"
+    },
+    "viewSection": {
+        "title": "Which View do you prefer?",
+        "subTitle": "You can select more than one View"
+    },
+    "parkingSection": {
+        "title": "Choose Parking",
+        "subTitle": "You can select more than one"
+    },
+    "smenitiesSection": {
+        "title": "What Amenities do you want?",
+        "subTitle": "You can select more than one Amenities"
+    },
+    "submitButtonText": "Next"
+  }

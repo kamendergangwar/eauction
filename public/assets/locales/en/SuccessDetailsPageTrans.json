@@ -1,0 +1,76 @@
+{
+  "eChallanPage": {
+    "title": "E - Challan",
+    "description": "Please complete the procedure by visiting your nearest branch"
+  },
+  "offLineBank": {
+    "title": "Offline Bank Transaction Procedure",
+    "step1": "Download the E-Challan",
+    "step2": "From the Next screen and visit your nearest branch.",
+    "step3": "Offline payments are made",
+    "step4": "via cash, cheques, bank transfers, postal orders,",
+    "step5": "or any other Process.",
+    "infoTxt": "Steps to do the Cheque Transfer"
+  },
+  "stepstoDoTheChequeTransfer": {
+    "title": "Steps to do the Cheque Transfer",
+    "step1": "Write a Cheque in the name",
+    "step2": "CIDCO Housing 2021.",
+    "step3": "Draw a line through any blank spaces on the cheque so people can’t add extra numbers or names.",
+    "step4": "Add details (such as a reference or account number) to the payee line. This makes sure the money ends up in the right place",
+    "step5": "Keep the cheque stub that contains the details and reference.",
+    "step6": "Make sure you have enough money in your account to cover the value of the cheque until the person has paid it in and the money has been deducted. If you don’t, some banks might charge you a fee for the bounced payment."
+  },
+  "amountToBePaid": "Amount to be Paid",
+  "bankNameLabel": "Bank Name",
+  "eChallanIdLabel": "E- challan ID",
+  "virtualAcountNoLabel": "Virtual account number",
+  "totalLoanAmountLabel": "Loan Amount",
+  "noteText": "Note",
+  "notePara": "Your Application will only be completed once we get confirmation from bank and total amount is paid",
+  "downloadEchallanBtn": "Download E-Challan",
+  "uploadDocumentsBtn": "Go to Upload Documents",
+  "paymentSuccessPage": {
+    "title": "Payment successful",
+    "description": "Please check payment receipt in Transaction details from My account.",
+    "goToDashboardBtn": "Go to Dashboard",
+    "paymentInvoiceTitleTxt": "Transaction Details",
+    "downloadReceiptBtn": "Download Receipt",
+    "checkEmailTxt": "Please check your email for the payment receipt. If you don't find it, check your spam folder or contact us on :",
+    "noticeListTxt": {
+      "point1": "Your documents are currently under verification.",
+      "point2": "The verification process will take up to 7 working days.",
+      "point3": "Once all your documents are verified, you can proceed to selection of the flat.",
+      "point4": "If any of your document is rejected during scrutiny, Application fee will be forfeited."
+    },
+    "noteTxt": "We appreciate your patience during the verification process and will keep you updated on any further developments.",
+    "gstTxt": "(Including GST @1%)",
+    "gstTxt2":"(Including GST @18%)",
+    "congratulationsTxt": "Congratulations",
+    "successDescTxt": "Your have successfully booked your CIDCO flat. A receipt is sent on your email. If you do not find it in your inbox, Kindly check your spam folder or contact us on:",
+    "bookedFlatSummeryTxt": "Booked Flat Summary",
+    "applicationno":"Application No."
+  },
+  "unitNo": "Unit No.",
+  "unitType": "Unit Type",
+  "reraArea": "RERA Carpet Area",
+  "SQFT": "SQFT",
+  "priceRangeLabel": "Price",
+  "towerNo": "Tower No.",
+  "floorText": "Floor",
+  "fromAccountLabel": "From Account",
+  "transactionIdLabel": "Transaction Id",
+  "paymentMethod": "Payment method",
+  "totalAmountPaidLabel": "Total Amount Paid",
+  "paymentFailedPage": {
+    "title": "Payment Failed!",
+    "description": "We are unable to process your Payment, Please Try again.",
+    "tryAgainBtn": "Try Again"
+  },
+  "termsandconditions": {
+    "Termsconditionslabel": "* Terms and conditions apply",
+    "noteLabel": "Note",
+    "noteContent": "In-case you are a unsuccessful applicant in the lottery draw, then the registration fee would be refunded to the source account within 15 working days. *"
+  },
+  "totalAmountLabel": "Total Amount"
+}

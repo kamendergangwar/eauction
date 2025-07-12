@@ -1,0 +1,85 @@
+{
+  "greeting": "सर्वांना नमस्कार",
+  "headerSection": {
+    "rightSideMenuTitle": "माझे खाते",
+    "timeValidTxt1": "या तारखेपूर्वी अनामत (बुकिंग) रक्कम भरणा करा.",
+    "timeValidTxt2": "निर्धारित वेळ संपली. पुन्हा एकदा सदनिका निवडा.",
+    "timeValidTxt3": "फ्लॅट बुकिंग प्रयत्न बाकी - ",
+    "timeValidTxt4": "टाइमर संपल्यानंतर फ्लॅट बुकिंग आपोआप रद्द झाले",
+    "dayTxt": "दिवस",
+    "hrTxt": "तास",
+    "minTxt": "मिनिटे",
+    "secTxt": "सेकंद",
+    "profileMenu": {
+      "dashboard": "डॅशबोर्ड",
+      "profile": "माझे प्रोफाईल",
+      "application": "माझा अर्ज/ माझे ऍप्लिकेशन",
+      "personalDetails": "वैयक्तिक माहिती",
+      "grievance": "तक्रार",
+      "transactionDetails": "व्यवहाराची माहिती/तपशील",
+      "myDocuments": "माझे दस्तऐवज",
+      "languageSetting": "भाषा सेटिंग",
+      "logout": "लॉगआउट"
+    },
+    "support": "मदत कक्ष",
+    "helpDeskDropDown": {
+      "title": "आम्ही तुम्हाला कशी मदत करू शकतो?",
+      "globSearchInputPlaceholder": "प्रश्न शोधा",
+      "helpButtonText1": "(एफएक्यू) वारंवार विचारले जाणारे प्रश्न",
+      "helpButtonText1Mobile": "एफएक्यू",
+      "helpButtonText2": "आमच्याशी व्हॉट्सअ‍ॅप वर चॅट करा",
+      "helpButtonText3": "ट्यूटोरियल/मदत",
+      "helpButtonText4": "यूजर मॅन्युअल डाउनलोड करा",
+      "helpButtonText5": "नीतिअटी आणि गोपनीयता धोरण",
+      "querryCallUsText": "कोणत्याही प्रश्नासाठी आम्हाला कॉल करा",
+      "callUsTimingTxt" : "(वेळ: सकाळी ८ ते रात्री १० वाजेपर्यंत)"
+    },
+    "ribbion":{
+      "banner": "**** PMAY योजना",
+      "banner1":"ची लॉटरी आता बंद झाली आहे **** अधिक जाणून घेण्यासाठी भेट द्या https://cidcohomes.com",
+      "tittle": "नोंदणी बंद."
+    }
+  },
+  "faqSection": {
+    "title": "(एफएक्यू) वारंवार विचारले जाणारे प्रश्न",
+    "searchInputPlaceholder": "प्रश्न शोधा"
+  },
+  "videoTutorialSection": {
+    "title": "व्हिडिओ ट्यूटोरियल/मदत",
+    "searchInputPlaceholder": "शोधा"
+  },
+  "termsAndPpSection": {
+    "title": "अटी आणि गोपनीयता धोरण",
+    "tabs": {
+      "tab1": "मूलभूत अटी",
+      "tab2": "प्रकल्प शुल्क (ईएमडी बद्दल सर्व)",
+      "tab3": "रिफंड पॉलिसी/परतावा धोरण",
+      "tab4": "डेटा सिक्युरिटी/सुरक्षा",
+      "tab5": "पेमेंट सेटिंग्ज आणि सिक्युरिटी/सुरक्षा",
+      "tab6": "कायदेशीर धोरणे/लीगल पॉलिसीज",
+      "tab7": "साइट वैशिष्ट्ये/फीचर्स"
+    }
+  },
+  "mainStepperSection": {
+    "step1": "वैयक्तिक माहिती",
+    "step2": "श्रेणी तपशील",
+    "step3": "कागदपत्रे सबमिट करा",
+    "step4": "पेमेंट करा"
+  },
+  "subStepperSection": {
+    "step1": "आधारची पडताळणी करा",
+    "step2": "पॅनकार्डची पडताळणी करा",
+    "step3": "बँक तपशील सत्यापित करा",
+    "step4": "जीएसटी सत्यापित करा"
+  },
+  "photoImageDialog": {
+    "title": "फोटो जोडा",
+    "description": "छायाचित्र रंगात आणि 2 इंच x 2 इंच आकाराचे असावे. याचा उपयोग CFC केंद्रात तुम्हाला ओळखण्यासाठी केला जाईल. कोणत्याही jpeg किंवा png ला परवानगी आहे.",
+    "cropButton": "प्रतिमा क्रॉप करा",
+    "chooseFileButton": "फाईल निवडा",
+    "fileErrors": {
+      "fileFormatError": "फाइल स्वरूपन वैध नाही",
+      "fileSizeError": "फाइल आकार ५० केबी ते  ५ मब दरम्यान असावा"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "rescheduleAppointment": {
+    "title": "दस्तावेज़ सत्यापन नियुक्ति विवरण",
+    "appointmentCenterLabel": "नियुक्ति केंद्र",
+    "scheduledOnLabel": "अनुसूचित पर",
+    "scheduleBtn": "पुनर्निर्धारित करें",
+    "cancelBtn": "रद्द करें",
+    "AppointmentModel": {
+      "cancelModel": {
+        "title": "अपॉइंटमेंट रद्द करें",
+        "descriptionContent": "क्या आप सुनिश्चित हैं कि आप अपना शेड्यूल किया गया अपॉइंटमेंट रद्द करना चाहते हैं?"
+      },
+      "rescheduleModel": {
+        "title": "अपॉइंटमेंट को पुनर्निर्धारित करें",
+        "descriptionContent": " क्या आप सुनिश्चित हैं कि आप अपना अपॉइंटमेंट फिर से निर्धारित करना चाहते हैं?"
+      },
+      "yesBtn": "हाँ",
+      "noBtn": "नहीं"
+    }
+  },
+  "scheduleAppointment": {
+    "title": "अपनी नियुक्ति निर्धारित करें",
+    "title1": "अपनी नियुक्ति को पुनर्निर्धारित करें",
+    "docCenterTitle": "दस्तावेज़ सत्यापन केंद्र",
+    "previousAppointmentTitle": "पिछली नियुक्ति",
+    "currentAppointment": "वर्तमान नियुक्ति",
+    "appointmentCenterLabel": "नियुक्ति केंद्र",
+    "scheduledOn": "अनुसूचित पर",
+    "validTillTxt": "तक मान्य",
+    "CancelledTxt": "रद्द करें",
+    "idTxt": "आईडी",
+    "Slot": {
+      "noSlot": "कोई स्लॉट उपलब्ध नहीं है",
+      "yesSlot": "स्लॉट उपलब्ध हैं",
+      "bookBtn": "अब बुक करें",
+      "yourSessionTxt": "आपका सत्र टाइमआउट",
+      "kindlyselectTxt": "कृपया अपना स्लॉट फिर से चुनें",
+      "selectslotBtn": "अपना स्लॉट चुनें"
+    }
+  },
+  "bookSlot": {
+    "title": "अपना अपॉइंटमेंट स्लॉट बुक करें",
+    "chooseSlotTxt": "स्लॉट चुनें",
+    "timeTxt": "समय",
+    "meetingDetailTxt": "बैठक विवरण",
+    "appointmentDetailTxt": "नियुक्ति विवरण",
+    "confirmBookingBtn": "बुकिंग की पुष्टि करें"
+  },
+  "appointmentSuccessfull": {
+    "title": "नियुक्ति सफल",
+    "descriptionTxt": "स्लॉट बुक करने के लिए धन्यवाद, आपकी नियुक्ति का विवरण आपके ईमेल और पंजीकृत मोबाइल नंबर पर भेज दिया गया है।",
+    "myAppointmentBtn": "मेरी नियुक्ति",
+    "downloadReceiptBtn": "रसीद डाउनलोड करें"
+  }
+}

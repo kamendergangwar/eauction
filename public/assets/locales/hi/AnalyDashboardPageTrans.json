@@ -1,0 +1,72 @@
+﻿{
+  "analyticsDashboard": {
+    "title": "एनालिटिक्स डैशबोर्ड",
+    "subTitle": "उपनाम",
+    "activeSchemeTxt": "सक्रिय योजना"
+  },
+  "toggleButtonGroup": {
+    "button1": "सभी",
+    "button2": "पिछले सप्ताह",
+    "button3": "पिछले २ सप्ताह",
+    "button4": "पिछले महीने",
+    "button5": "इस साल"
+  },
+  "dateFilter": {
+    "fromDateLabel": "तारीख से",
+    "toDateLabel": "आज तक"
+  },
+  "filterByDateTxt": "तिथि के अनुसार फ़िल्टर करें",
+  "appCardGroup": {
+    "card1": "कुल आवेदन",
+    "card2": "कुल जमा किए गए",
+    "card3": "आवेदन प्रगति पर हैं",
+    "viewDetailsBtnTxt": "विवरण देखें",
+    "card2Popover": {
+      "title": "प्रस्तुत आवेदन",
+      "paymentCompletedTxt": "भुगतान पूर्ण"
+    },
+    "card3Popover": {
+      "title": "प्रगति में आवेदन का सारांश",
+      "personalDetailsTxt": "व्यक्तिगत जानकारी",
+      "categoryDetailsTxt": "श्रेणी विवरण",
+      "documentsUploadTxt": "दस्तावेज़ अपलोड करें",
+      "makePaymentTxt": "भुगतान करें",
+      "eStampingEsigningTxt": "ई मुद्रांकन और ई हस्ताक्षर"
+    },
+    "applicationsBtnTxt": "आवेदन"
+  },
+  "reservationCountCard": {
+    "title": "आरक्षण गणना",
+    "subTitle": "परियोजना आरक्षण स्थिति",
+    "applicationsBtnTxt": "आवेदन"
+  },
+  "projectOverviewCard": {
+    "title": "परियोजना अवलोकन",
+    "subTitle": "प्रत्येक परियोजना में कुल आवेदन संख्या।",
+    "viewDetailsBtnTxt": "विवरण देखें",
+    "applicationsBtnTxt": "आवेदन"
+  },
+  "recentActivityCard": {
+    "title": "हालिया गतिविधि",
+    "errorMsgTxt": "कोई हालिया गतिविधि नहीं"
+  },
+  "reportsPage": {
+    "title": "रिपोर्ट",
+    "subTitle1": "उपनाम1",
+    "subTitle2": "उपनाम2",
+    "searchInputPlaceholder": "परियोजना के नाम से खोजें",
+    "tableView": {
+      "head1": "क्रमांक",
+      "head2": "परियोजना अवधि",
+      "head3": "परियोजना का नाम",
+      "head4": "कुल प्रगति पर है",
+      "head5": "कुल पूर्ण"
+    },
+    "chartComponent": {
+      "totalAppLabel": "कुल आवेदन",
+      "chartProjectsLabel": "परियोजनाएं",
+      "totalSubmittedLabel": "कुल जमा",
+      "appInprogressLabel": "प्रगति में आवेदन"
+    }
+  }
+}

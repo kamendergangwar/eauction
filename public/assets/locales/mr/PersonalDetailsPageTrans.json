@@ -1,0 +1,237 @@
+{
+  "title": "वैयक्तिक माहिती",
+  "personalDetailsForm": {
+    "formControl": {
+      "dob": {
+        "dobLabel": "जन्म तारीख",
+        "dobPlaceholder": "दिवस/महिना/वर्ष",
+        "dobExample": "उदाहरण: २५/१२/१९९८",
+        "dobErrors": {
+          "required": "जन्म तारीख आवश्यक",
+          "eligibleText": "तुमचे वय १८ वर्षांपेक्षा कमी आहे, तर या योजनेसाठी अर्ज करण्यास पात्र नाही."
+        }
+      },
+      "maritalStatus": {
+        "maritalStatusLabel": "वैवाहिक स्थिती",
+        "options": {
+          "single": "अविवाहित",
+          "married": "विवाहित",
+          "divorced": "घटस्फोटित",
+          "widow": "विधवा",
+          "widower": "विधुर"
+        },
+        "maritalStatusErrors": {
+          "required": "वैवाहिक स्थिती आवश्यक"
+        }
+      },
+      "whatsappNumberInputLabel": "व्हॉट्सअ‍ॅप नंबर",
+      "whatsappNumberPlaceholder": "व्हॉट्सअ‍ॅप नंबर प्रविष्ट करा ",
+      "whatsappNumberErrors": {
+        "limitation": "कृपया वैध व्हॉट्सअ‍ॅप नंबर प्रविष्ट करा "
+      },
+      "checkBoxLabel1": " व्हॉट्सअ‍ॅपवर अपडेट्स प्राप्त करा ",
+      "emailInputLabel": "ईमेल आयडी",
+      "emailPlaceholder": "ईमेल आयडी",
+      "emailErrors": {
+        "limitation": "कृपया वैध ईमेल आयडी प्रविष्ट करा ",
+        "required": "ई मेल आयडी आवश्यक"
+      },
+      "emailConInputLabel": "ईमेल आयडी पुन्हा प्रविष्ट करा ",
+      "emailConPlaceholder": "ईमेल आयडी पुन्हा प्रविष्ट करा ",
+      "emailConErrors": {
+        "limitation": "कृपया वैध ईमेल आयडी प्रविष्ट करा ",
+        "required": "ई मेल आयडी आवश्यक"
+      },
+      "optionaltxt": "ऐच्छिक",
+      "whatsAppTxt": "",
+      "isPostalAddSameTxt": "तुमचा पोस्टल पत्ता व आधार कार्ड वरील पत्ता सारखाच आहे का?",
+      "isPostalAddSameSubTxt": "(तुम्ही प्रविष्ट केलेल्या ईमेल आयडी/पत्त्यावरच तुमच्याशी संवाद साधला जाईल)",
+      "myCurrentAddressTxt": "सध्याचा संपर्क पत्ता:",
+      "isPostalAddYesTxt": "हो",
+      "isPostalAddNoTxt": "नाही",
+      "viewAddBtntxt": "पत्ता दाखवा",
+      "ageTxt": "वय",
+      "maleTxt": "पुरुष",
+      "femaleTxt": "स्त्री",
+      "verifyEmail": "ईमेल सत्यापित करा", 
+      "verifyEmailAlert": "कृपया ईमेल पत्ता सत्यापित करा",
+      "emailVerificationTxt": "ईमेल आयडी पडताळणी",
+      "verificationCheckEmailTxt": "कृपया तुमचा ईमेल तपासा, मेलवर प्राप्त झालेला OTP कॉपी करा आणि तो खालील मजकूर बॉक्समध्ये प्रविष्ट करा.",
+      "getOtpButtonText": "या ईमेलवर OTP पाठवण्यात आला आहे : ",
+      "submitBtn": "प्रस्तुत करा",
+      "cancelBtn": "रद्द करा",
+      "enterOtpText": "कृपया OTP प्रविष्ट करा",
+      "otpReqText": "OTP आवश्यक आहे",
+      "emailVerified": "सत्यापित",
+      "emailVerificationCompleted": "ईमेल यशस्वीरित्या सत्यापित!",
+      "resendOtpText": "OTP पुन्हा पाठवा",
+      "sec": "सेकंद"
+    }
+  },
+  "completeLaterButtonText": "COMPLETE LATER",
+  "backButtonText": "डॅशबोर्ड वर जा",
+  "savingLoaderTxt": "जतन प्रक्रिया सुरु आहे",
+  "saveButtonText": "पुढे",
+  "addPostalAddressModal": {
+    "title": "पत्ता प्रविष्ट करा",
+    "subTitle": "सध्याचा पोस्टल पत्ता प्रविष्ट करा",
+    "formControl": {
+      "addressLine1Label": "पत्ता: पहिली ओळ ",
+      "addressLine1Placeholder": "फ्लॅट, घर क्र., इमारत, अपार्टमेंट",
+      "addressLine1Errors": {
+        "required": "पत्ता: पहिली ओळ  आवश्यक आहे"
+      },
+      "charactersNotAllowed": "विशेष वर्णांना परवानगी नाही",
+      "addressLine2Label": "पत्ता: दुसरी ओळ",
+      "addressLine2Placeholder": "क्षेत्र, कॉलनी, रस्ता, सेक्टर, गाव",
+      "postalCodeLabel": "पिन कोड",
+      "postalCodePlaceholder": "उदाहरण: ४०० ९८७",
+      "postalCodeErrors": {
+        "required": "पिन कोड आवश्यक आहे",
+        "limitation": "कृपया वैध पिन कोड प्रविष्ट करा "
+      },
+      "cityTownLabel": "शहर/नगर",
+      "cityTownPlaceholder": "कृपया शहर/नगर प्रविष्ट करा",
+      "cityTownErrors": {
+        "required": "शहर/नगर आवश्यक आहे"
+      },
+      "districtLabel": "जिल्हा",
+      "districtErrors": {
+        "required": "जिल्हा आवश्यक आहे"
+      },
+      "stateLabel": "राज्य",
+      "stateErrors": {
+        "required": "राज्य आवश्यक आहे"
+      },
+      "submitBtnTxt": "जतन करा"
+    }
+  },
+  "coApplicant": {
+    "title": "सह अर्जदाराचे नाव प्रविष्ट करा",
+    "optionalTxt": "ऐच्छिक",
+    "wantAddCoApplicantTxt": "सह-अर्जदार जोडू इच्छिता?",
+    "addCoApplicantBtnTxt": "सह अर्जदाराचे नाव प्रविष्ट करा",
+    "coApplicantBenefitsTitle": "सह-अर्जदार जोडण्याचे फायदे",
+    "benefitsListOfPoints": {
+      "point1": "संयुक्त गृहकर्जामध्ये, तुम्ही आणखी एक सह-अर्जदार जोडू शकता जो प्राथमिक अर्जदारासोबत गृहकर्ज भरण्याची जबाबदारी उचलू शकेल. कर्जाची जबाबदारी ही दोघांची सामुहिक जबाबदारी असेल. साधारणपणे, आई, जोडीदार, मुले, भाऊ यांच्यासह कुटुंबातील तात्काळ सदस्य, संयुक्त गृह कर्जामध्ये सह-अर्जदार होण्यासाठी अधिक पात्र असतात.",
+      "point2": "वैयक्तिक गृहकर्जाच्या तुलनेत संयुक्त गृहकर्ज घेण्याच्या विचारात अनेक अतिरिक्त फायदे आहेत. यामध्ये उच्च कर्ज रकमेची पात्रता, कमी व्याजदर आणि इतर आयकर लाभ यांचा समावेश आहे.",
+      "point3": "सर्व अर्जदारांनी त्यांना उत्पन्न मिळते की नाही किंवा ते मालमत्ताचे सह-मालक आहेत की नाही यासाठी त्यांचे केवायसी दस्तऐवज प्रदान करणे आवश्यक आहे."
+    },
+    "skipBtnText": "हा टप्पा वगळा",
+    "relationshipInputLabel": "अर्जदाराशी असलेले नाते",
+    "relationshipOptions": {
+      "spouse": "पती / पत्नी",
+      "son": "Son",
+      "daughter": "Daughter",
+      "father": "Father",
+      "mother": "आई",
+      "sister": "Sister",
+      "brother": "Brother",
+      "grandFather": "Grandfather",
+      "grandMother": "Grandmother",
+      "grandSon": "Grandson",
+      "grandDaughter": "Granddaughter"
+    },
+    "relationshipErrors": {
+      "required": "कृपया संबंध निवडा"
+    },
+    "skipCoApplicant": {
+      "title": "हा टप्पा नक्की वगळायचा आहे का?",
+      "description": "हा टप्पा वगळलात तर सह अर्जदार प्रविष्ट करण्यासाठी किंवा त्याचे नाव वगळण्यासाठी शुल्क आकारले जाईल.",
+      "yes": "होय",
+      "no": "नाही"
+    },
+    "addDetailsSection": {
+      "title": "फक्त सह अर्जदाराची माहिती प्रविष्ट करा",
+      "removeBtnTxt": "सह-अर्जदार काढा",
+      "card1Title": "केवायसी तपशील",
+      "card2Title": "वैयक्तिक माहिती",
+      "card3Title": "पत्ता",
+      "addBtnTxt": "जोडा",
+      "editBtnTxt": "संपादित करा",
+      "viewBtnTxt": "पहा"
+    },
+    "addPersonalDetailsForm": {
+      "title": "सह-अर्जदाराचे वैयक्तिक तपशील जोडा",
+      "formControl": {
+        "fullNameLabel": "सह-अर्जदाराचे संपूर्ण नाव",
+        "fullNamePlaceholder": "येथे नाव लिहा",
+        "fullNameErrors": {
+          "required": "सह-अर्जदाराचे संपूर्ण नाव आवश्यक आहे",
+          "limitation": "कृपया वैध नाव प्रविष्ट करा "
+        },
+        "dob": {
+          "dobLabel": "जन्म तारीख",
+          "dobPlaceholder": "दिवस/महिना/वर्ष",
+          "dobErrors": {
+            "required": "जन्म तारीख",
+            "eligibleText": "तुमचे वय १८ वर्षांपेक्षा कमी आहे, तर या योजनेसाठी अर्ज करण्यास पात्र नाही."
+          }
+        },
+        "mobileNumberInputLabel": "मोबाईल नंबर",
+        "mobileNumberPlaceholder": "तुमचा १० अंकी मोबाईल नंबर प्रविष्ट करा ",
+        "mobileNumberErrors": {
+          "required": "मोबाईल नंबर आवश्यक आहे",
+          "limitation": "कृपया वैध मोबाईल नंबर प्रविष्ट करा "
+        },
+        "emailInputLabel": "ईमेल",
+        "emailPlaceholder": "उदाहरण: abc@gmail.com",
+        "emailIdErrors": {
+          "required": "ईमेल आयडी आवश्यक आहे",
+          "limitation": "कृपया वैध ईमेल पत्ता प्रविष्ट करा"
+        }
+      },
+      "saveBtnTxt": "जतन करा"
+    },
+    "addAddressDetailsForm": {
+      "title": "सह-अर्जदाराचा पत्ता प्रविष्ट करा",
+      "subTitle": "खाली तुमच्या सह-अर्जदाराचा वर्तमान पत्ता प्रविष्ट करा",
+      "formControl": {
+        "addressLine1Label": "पत्ता: पहिली ओळ ",
+        "addressLine1Placeholder": "फ्लॅट, घर क्र., इमारत, अपार्टमेंट",
+        "addressLine1Errors": {
+          "required": "पत्ता: पहिली ओळ  आवश्यक आहे"
+        },
+        "charactersNotAllowed": "विशेष वर्णांना परवानगी नाही",
+        "addressLine2Label": "पत्ता: दुसरी ओळ",
+        "addressLine2Placeholder": "क्षेत्र, कॉलनी, रस्ता, सेक्टर, गाव",
+        "postalCodeLabel": "पिन कोड",
+        "postalCodePlaceholder": "उदाहरण: ४०० ९८७",
+        "postalCodeErrors": {
+          "required": "पिन कोड आवश्यक आहे",
+          "limitation": "कृपया वैध पिन कोड प्रविष्ट करा "
+        },
+        "cityTownLabel": "शहर/नगर",
+        "cityTownPlaceholder": "कृपया शहर/नगर प्रविष्ट करा",
+        "cityTownErrors": {
+          "required": "शहर/नगर आवश्यक आहे"
+        },
+        "districtLabel": "जिल्हा",
+        "districtErrors": {
+          "required": "जिल्हा आवश्यक आहे"
+        },
+        "stateLabel": "राज्य",
+        "stateErrors": {
+          "required": "राज्य आवश्यक आहे"
+        }
+      },
+      "saveBtnTxt": " जतन करा"
+    },
+    "kycDetailsView": {
+      "title": "केवायसी",
+      "aadhaarDetails": {
+        "title": "आधार तपशील",
+        "aadhaarNumberLabel": "आधार क्रमांक",
+        "nameLabel": "नाव",
+        "genderLabel": "लिंग",
+        "addressLabel": "पत्ता"
+      },
+      "panCardDetails": {
+        "title": "पॅन तपशील",
+        "panNumberLabel": "पॅन क्रमांक",
+        "nameLabel": "नाव",
+        "genderLabel": "लिंग"
+      }
+    }
+  }
+}

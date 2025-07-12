@@ -1,0 +1,66 @@
+{
+  "pageTitle": "प्रोफाईल",
+  "appCardSection": {
+    "mainTitle": "मासिक आकडेवारी",
+    "cardTitle1": "एकूण अनुप्रयोग",
+    "cardTitle2": "अर्ज प्रगतीपथावर"
+  },
+  "notifcationsSection": {
+    "title": "सूचना",
+    "switchLabel": "चालू!"
+  },
+  "companyDetailsSection": {
+    "title": "कंपनी तपशील",
+	"dataLabel1": "CFC आयडी",
+    "dataLabel2": "कंपनीचे नाव",
+    "dataLabel3": "व्यवस्थापित"
+  },
+  "personalInformationSection": {
+    "title": "वैयक्तिक माहिती",
+    "dataLabel1": "पूर्ण नाव",
+    "dataLabel2": "लिंग",
+    "dataLabel3": "संपर्क तपशील",
+    "dataLabel4": "ईमेल आयडी",
+    "dataLabel5": "वर्तमान पत्ता",
+    "editBtnText": "संपादित करा"
+  },
+  "personalInfoEdit": {
+    "title": "वैयक्तिक माहिती",
+    "formControl": {
+      "fullNameLabel": "पूर्ण नाव",
+      "fullNamePlaceholder": "तुमचे पूर्ण नाव एंटर करा",
+      "fullNameErrors": {
+        "required": "पूर्ण नाव आवश्यक आहे"
+      },
+      "emailIdLabel": "ईमेल",
+      "emailIdPlaceholder": "तुमचा ईमेल आयडी एंटर करा",
+      "emailIdErrors": {
+        "required": "ईमेल आयडी आवश्यक आहे",
+        "limitation": "कृपया वैध ईमेल पत्ता एंटर करा"
+      },
+      "mobileNumberLabel": "मोबाईल नंबर",
+      "mobileNumberPlaceholder": "तुमचा मोबाईल नंबर एंटर करा",
+      "mobileNumberErrors": {
+        "required": "मोबाईल नंबर आवश्यक आहे",
+        "limitation": "कृपया वैध मोबाइल नंबर एंटर करा"
+      },
+      "genderLabel": "लिंग",
+      "genderPlaceholder": "लिंग निवडा",
+      "genderErrors": {
+        "required": "लिंग आवश्यक आहे"
+      },
+      "genderOptions": {
+        "male": "पुरुष",
+        "female": "महिला",
+        "other": "इतर"
+      },
+      "currentAddressLabel": "वर्तमान पत्ता",
+      "currentAddressPlaceholder": "आपला वर्तमान पत्ता प्रविष्ट करा",
+      "currentAddressErrors": {
+        "required": "वर्तमान पत्ता आवश्यक आहे"
+      },
+      "saveBtnText": "जतन करा",
+      "cancelBtnText": "रद्द करा"
+    }
+  }
+}

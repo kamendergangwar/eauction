@@ -1,0 +1,200 @@
+﻿{
+    "applicatntProfilePage": {
+        "applicationDetail": {
+            "formControl": {
+                "applicantNoLabel": "आवेदक संख्या",
+                "appliedDateLabel": "आवेदन की स्थिति",
+                "applicationStatus": "आवेदन की स्थिति",
+                "backButtonText": "डैशबोर्ड पर वापस जाएं",
+                "downloadButtonText": "डाउनलोड करें"
+            },
+            "applicationStatusTexts": {
+                "status0": "सहेजा गया",
+                "status1": "स्वीकृत",
+                "status2": "अस्वीकृत",
+                "status3": "सत्यापित",
+                "status4": "विजेता",
+                "status5": "प्रतीक्षा",
+                "status6": "खोया",
+                "status9": "हटाएं"
+            }
+        },
+        "applicantDetail": {
+            "title": "आवेदक का विवरण",
+            "editButtonText": "संपादित करें",
+            "formControl": {
+                "aadhaarNumberLabel": "आधार संख्या",
+                "panNumberLabel": "पैन नंबर"
+            }
+        },
+        "genderOptions": {
+            "male": "पुरुष",
+            "female": "महिला",
+            "other": "अन्य"
+        },
+        "personalDetail": {
+            "title": "व्यक्तिगत जानकारी",
+            "formControl": {
+                "applicantNameLabel": "आवेदक का पूरा नाम",
+                "genderLabel": "लिंग",
+                "dobLabel": "जन्म की तारीख",
+                "fatherNameLabel": "पिता का नाम",
+                "maritalStatusLable": "वैवाहिक स्थिति"
+            },
+            "maritalStsOptions": {
+                "single": "एकल",
+                "married": "विवाहित",
+                "divorced": "तलाकशुदा",
+                "widow": "विधवा",
+                "widower": "विधुर"
+            }
+        },
+        "familyDetailForm": {
+            "title": "पारिवारिक विवरण",
+            "editButtonText": "संपादित करें",
+            "familyTable": {
+                "tableTh1": "नाम",
+                "tableTh2": "आयु",
+                "tableTh3": "लिंग",
+                "tableTh4": "रिश्ते",
+                "tableTh5": "आधार नंबर",
+                "tableTh6": "फोन नंबर",
+                "tableTh7": "संयुक्त मालिक",
+                "tableTh8": "फोटो"
+            },
+            "relationshipOptions": {
+                "spouse": "पति / पत्नी",
+                "son": "बेटा",
+                "daughter": "बेटी",
+                "father": "पिता",
+                "mother": "माँ",
+                "sister": "बहन",
+                "brother": "भाई",
+                "grandFather": "दादा",
+                "grandMother": "दादी",
+                "grandSon": "पोता",
+                "grandDaughter": "पोती"
+            }
+        },
+        "contactInformation": {
+            "title": "संपर्क जानकारी",
+            "editButtonText": "संपादित करें",
+            "formControl": {
+                "mobileNumberLabel": "मोबाइल नंबर",
+                "whatsappLabel": "व्हाट्सएप नंबर",
+                "emailLabel": "ईमेल पता"
+            }
+        },
+        "accomodationDetal": {
+            "title": "आवास विवरण",
+            "formControl": {
+                "permanentAddressLabel": "स्थायी पता",
+                "communicationAddressLabel": "संचार पता"
+            }
+        },
+        "categoryDetails": {
+            "title": "श्रेणी विवरण",
+            "editButtonText": "संपादित करें",
+            "formControl": {
+                "castCategoryLabel": "जाति श्रेणी",
+                "otherCategoryLabel": "अन्य श्रेणी"
+            }
+        },
+        "incomeInformation": {
+            "title": "आय की जानकारी",
+            "editButtonText": "संपादित करें",
+            "formControl": {
+                "occupationLabel": "व्यवसाय",
+                "employmentStatusLabel": "रोजगार की स्थिति",
+                "annualIncomeLabel": "वार्षिक पारिवारिक आय",
+                "incomeGroupLabel": "आय समूह"
+            },
+            "occupationOptions": {
+                "agriculture": "कृषि",
+                "business": "व्यापार",
+                "selfEmployed": "स्वयंरोजगार",
+                "service": "सेवा",
+                "other": "अन्य"
+            },
+            "employmentOptions": {
+                "selfEmployed": "स्वयंरोजगार",
+                "salaried": "नौकरी",
+                "regularWage": "नियमित वेतन",
+                "labour": "श्रम",
+                "other": "अन्य"
+            }
+        },
+        "schemeDetail": {
+            "title": "चयनित योजना",
+            "projectIdLabel": "परियोजना आईडी",
+            "applicationStatusLabel": "आवेदन की स्थिति",
+            "bhkText": "बीएचके",
+            "sqftText": "स्क्वेअर फुट",
+            "editButtonText": "संपादित करें",
+            "applicationStatusValTxt": {
+                "status0": "सहेजा गया",
+                "status1": "पूर्ण",
+                "status2": "अस्वीकृत",
+                "status3": "सत्यापित",
+                "status4": "विजेता",
+                "status5": "प्रतीक्षा",
+                "status6": "खोया",
+                "status9": "हटाएं"
+            }
+        },
+        "documentsForm": {
+            "title": "दस्तावेज़ जमा करें",
+            "editButtonText": "संपादित करें",
+            "puccaHouseForm": {
+                "title": "क्या आपके पास एक पक्का घर है?",
+                "checkBoxLabel": "मैं पुष्टि करता हूं कि मेरे पास कोई पक्का घर नहीं है"
+            },
+            "castCertificateForm": {
+                "title0": "दस्तावेज़ जमा करें",
+                "title1": "जाति प्रमाण पत्र",
+                "formControl": {
+                    "certifcateNumberInputLabel": "प्रमाणपत्र संख्या",
+                    "nameCertifcateInputLabel": "प्रमाणपत्र के अनुसार नाम",
+                    "certificateStateLabel": "राज्य प्रमाणपत्र ",
+                    "documentDateLabel": "दस्तावेज़ तिथि",
+                    "barCodeLabel": "क्या बार कोड मौजूद है?",
+                    "mahaCertificateLabel": "क्या महा ऑनलाइन प्रमाणपत्र है?",
+                    "attachementLabel": "संलग्नक"
+                }
+            },
+            "casteValidityForm": {
+                "title": "जाति वैधता प्रमाणपत्र",
+                "formControl": {
+                    "documentNoInputLabel": "दस्तावेज़ संख्या",
+                    "nameCertifcateInputLabel": "जाति वैधता  के नाम",
+                    "casteCategoryLabel": "जाति श्रेणी",
+                    "validityLabel": "वैधता",
+                    "certificateStateLabel": "राज्य प्रमाणपत्र",
+                    "documentDateLabel": "दस्तावेज़ तिथि",
+                    "attachementLabel": "संलग्नक"
+                }
+            }
+        },
+        "bankDetails": {
+            "title": "बैंक विवरण",
+            "editButtonText": "संपादित करें",
+            "formControl": {
+                "accountNumberLabel": "खाता संख्या",
+                "branchNameLabel": "शाखा का नाम",
+                "bankNameLabel": "बैंक का नाम",
+                "IFSCcodeLabel": "आईएफएससी कोड"
+            }
+        },
+        "billingForm": {
+            "title": "बिलिंग सारांश",
+            "billingTable": {
+                "tableTh0": "आवेदन",
+                "tableTh1": "आवेदन शुल्क",
+                "tableTh2": "प्रसंस्करण शुल्क (अप्रतिदेय)",
+                "tableTh3": "उपयोग",
+                "tableTh4": "जीएसटी",
+                "tableTh5": "कुल"
+            }
+        }
+    }
+}

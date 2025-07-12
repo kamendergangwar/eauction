@@ -1,0 +1,203 @@
+﻿{
+  "agentLoginForm": {
+    "title": "एजेंट लॉगिन",
+    "description": "पोर्टल तक पहुंचने के लिए लॉगिन करें",
+    "formControl": {
+      "userNameLabel": "मोबाइल नंबर",
+      "userNamePlaceholder": "अपना १० अंकों का मोबाइल नंबर दर्ज करें",
+      "userNameErrors": {
+        "required": "मोबाइल नंबर आवश्यक है"
+      },
+      "passwordLabel": "पासवर्ड",
+      "passwordPlaceholder": "अपना पासवर्ड दर्ज करें",
+      "passwordErrors": {
+        "required": "पासवर्ड आवश्यक है",
+        "limitation": "इसमें ८ अक्षर होने चाहिए, जिसमें एक अपरकेस, एक लोअरकेस, एक नंबर और एक विशेष वर्ण होना चाहिए - अनुमत वर्ण: @$!%*?&"
+      },
+      "passwordText": "पासवर्ड भूल गए?",
+      "buttonText": "लॉग इन करें"
+    }
+  },
+  "signUpForm": {
+    "title": "साइन अप करें",
+    "description": "नया खाता बनाने के लिए साइन अप करें",
+    "formControl": {
+      "phoneNumberLabel": "मोबाइल नंबर",
+      "phoneNumberPlaceholder": "अपना १० अंकों का मोबाइल नंबर दर्ज करें",
+      "phoneNumberErrors": {
+        "required": "मोबाइल नंबर आवश्यक है",
+        "limitation": "कृपया एक मान्य मोबाइल नंबर दर्ज करें"
+      },
+      "passwordLabel": "पासवर्ड",
+      "passwordErrors": {
+        "required": "पासवर्ड की आवश्यकता है",
+        "limitation": "इसमें ८ अक्षर होने चाहिए, जिसमें एक अपरकेस, एक लोअरकेस, एक नंबर और एक विशेष वर्ण होना चाहिए - अनुमत वर्ण: @$!%*?&"
+      },
+      "confirmPasswordLabel": "पासवर्ड की पुष्टि कीजिये",
+      "confirmPasswordErrors": {
+        "required": "पासवर्ड की आवश्यकता है",
+        "limitation": "दोनों पासवर्ड एक जैसे होने चाहिए"
+      },
+      "buttonText": "साइन अप करें",
+      "messageText": "पहले से साइन अप है? <1>लॉग इन करें</1>"
+    }
+  },
+  "termsConditions": {
+    "title": "लॉटरी नियम और शर्तें",
+    "content": "मैं \\ हम इसके द्वारा आधार अधिनियम के अनुसार अपनी सहमति प्रदान करते हैं २०१६  विनियमों ने संग्रह भंडारण और उपयोग  सत्यापन \\ प्रमाणीकरण और  मेरे \\ हमारे आधार को अद्यतन करने वाला) आधार अधिनियम २०१६ (और विनियमों) के अनुसार संख्या वहाँ बनाया) और पीएमएलए। मैं \\ हम इसके लिए मेरी \\ हमारी सहमति प्रदान करते हैं साझा करना \\ प्रकट करना",
+    "formControl": {
+      "checkBoxLabel": "मैं इसके साथ नियम और शर्तों से सहमत हूं",
+      "checkBoxErrors": {
+        "required": "स्वीकार नियम और शर्तें आवश्यक हैं"
+      },
+      "buttonText": "हाँ मैं सहमत हूँ"
+    }
+  },
+  "verifyAadhaarForm": {
+    "title": "आधार सत्यापित करें",
+    "description": "अपना आधार नंबर डालें। रिक्त स्थान के बिना इनपुट में",
+    "formControl": {
+      "aadhaarNumInputLabel": "आधार नंबर दर्ज करें",
+      "aadhaarNumPlaceholder": "आधार संख्या दर्ज करें",
+      "aadhaarNumErrors": {
+        "required": "आधार नंबर आवश्यक है",
+        "limitation": "कृपया एक मान्य आधार संख्या दर्ज करें"
+      },
+      "oneTimePasswordInputLabel": "ओटीपी दर्ज करें",
+      "oneTimePasswordPlaceholder": "अपना चार अंकों का ओटीपी दर्ज करें",
+      "oneTimePasswordErrors": {
+        "required": "ओटीपी की आवश्यकता है",
+        "limitation": "कृपया एक वैध ओटीपी दर्ज करें"
+      },
+      "resendText": "फिर से भेजें",
+      "messageText0": "आपका आधार फोन नंबर से लिंक नहीं है।",
+      "messageText1": "ऑफ़लाइन ई-केवाईसी के साथ आगे बढ़ें",
+      "buttonText1": "बाद में केवाईसी पूरा करें",
+      "buttonText2": "सत्यापित करें"
+    }
+  },
+  "authVerifyAadhaarForm": {
+    "title": "आधार संख्या के साथ उपयोगकर्ता को सत्यापित करें",
+    "description": "शुरू करने के लिए अपना १२ अंकों का आधार नंबर दर्ज करें।",
+    "formControl": {
+      "aadhaarNumInputLabel": "आधार नंबर दर्ज करें",
+      "aadhaarNumPlaceholder": "आधार नंबर दर्ज करें",
+      "aadhaarNumHelperText": "१२ अंक यूआईडी (१२३४/१२३४/१२३४)",
+      "aadhaarNumErrors": {
+        "required": "आधार नंबर जरूरी है",
+        "limitation": "कृपया एक मान्य आधार संख्या दर्ज करें"
+      },
+      "securityPinInputLabel": "सुरक्षा कोड डाले",
+      "securityPinInputPlaceholder": "सुरक्षा कोड डाले",
+      "securityPinHelperText": "चित्र में जो भी दिखाई दे रहा है उसे टाइप करें।",
+      "securityPinErrors": {
+        "required": "सुरक्षा कोड आवश्यक है",
+        "limitation": "कृपया एक मान्य सुरक्षा कोड दर्ज करें"
+      },
+      "checkBoxLabel": "मैंने <1>नियम और शर्तें</1> पढ़ ली हैं और मैं इसके लिए अपनी सहमति देता हूं।",
+      "checkBoxErrors": {
+        "required": "स्वीकार नियम और शर्तें आवश्यक हैं"
+      },
+      "submitButtonText1": "ओटीपी भेजें",
+      "submitButtonText2": "केवाईसी बाद में पूरा करें"
+    }
+  },
+  "kycOfflineForm": {
+    "title": "ऑफलाइन ई-केवाईसी",
+    "description": "ज़िप फ़ाइल अपलोड करें और ४ अंकों की पिन प्रदान करें",
+    "formControl": {
+      "fileLabel": "अपलोड करें",
+      "fileErrors": {
+        "required": "एक फ़ाइल की आवश्यकता है",
+        "limitation": "बहुत बड़ी फाइल"
+      },
+      "securityPinInputLabel": "४ अंकों का पिन दर्ज करें",
+      "securityPinInputPlaceholder": "सुरक्षा पिन दर्ज करें",
+      "securityPinErrors": {
+        "required": "सुरक्षा पिन की आवश्यकता है",
+        "limitation": "कृपया एक वैध पिन दर्ज करें"
+      },
+      "backButtonText": "पीछे",
+      "nextButtonText": "अगला"
+    },
+    "offlineKYC": {
+      "title": "ऑफ़लाइन केवाईसी प्रक्रिया",
+      "description1": "१. यूआयडीएआय पोर्टल पर आधार नंबर दर्ज करें और कोड सेट करें।",
+      "description2": "२. फिर ओटीपी दर्ज करें और एक्सएमएल फाइल डाउनलोड करें।",
+      "description3": "३. हमारे पोर्टल पर एक्सएमएल फ़ाइल और शेयर कोड अपलोड करें",
+      "description4": "४. सत्यापन के लिए हमारे साथ मूल विवरण साझा करें।"
+    }
+  },
+  "agentForgotPasswordForm": {
+    "title": "अपना पासवर्ड भूल गए?",
+    "description": "अपने मोबाइल नंबर पर ओटीपी प्राप्त करें",
+    "otpDescription": "अपना मोबाइल नंबर सत्यापित करने के लिए ओटीपी दर्ज करें",
+    "formControl": {
+      "phoneNumberLabel": "मोबाइल नंबर",
+      "phoneNumberPlaceholder": "अपना १० अंकों का मोबाइल नंबर दर्ज करें",
+      "phoneNumberErrors": {
+        "required": "मोबाइल नंबर की आवश्यकता है",
+        "limitation": "कृपया एक वैध मोबाइल नंबर दर्ज करें"
+      },
+      "oneTimePasswordInputLabel": "ओटीपी दर्ज करें",
+      "oneTimePasswordPlaceholder": "अपने पंजीकृत मोबाइल नंबर पर प्राप्त ओटीपी दर्ज करें",
+      "oneTimePasswordErrors": {
+        "required": "ओटीपी आवश्यक है",
+        "limitation": "कृपया एक वैध ओटीपी दर्ज करें "
+      },
+      "resendText": "ओटीपी दोबारा भेजें",
+      "generateOTPButtonText": "ओटीपी प्राप्त करें",
+      "backButtonText": "पीछे",
+      "submitButtonText": "सत्यापित करें",
+      "gotoLoginPageTxt": "लॉग इन करें"
+    }
+  },
+  "agentNewPasswordForm": {
+    "title": "पासवर्ड रीसेट करें",
+    "description": "",
+    "formControl": {
+      "passwordLabel": "नया पासवर्ड",
+      "passwordPlaceholder": "पासवर्ड दर्ज करें",
+      "passwordErrors": {
+        "required": "पासवर्ड आवश्यक है",
+        "limitation": "8 अक्षर, एक अपरकेस, एक लोअरकेस, एक नंबर और एक विशेष वर्ण होना चाहिए - अनुमत वर्ण: @$!%*?&"
+      },
+      "confirmPasswordLabel": "पासवर्ड की पुष्टि करें",
+      "confirmPasswordPlaceholder": "नया पासवर्ड फिर से दर्ज करें",
+      "confirmPasswordErrors": {
+        "required": "पासवर्ड की पुष्टि करें, आवश्यक है",
+        "limitation": "दोनों पासवर्ड समान होने चाहिए"
+      },
+      "passwordHelpText": "पासवर्ड कम से कम 8 वर्ण लंबा होना चाहिए और इसमें शामिल होना चाहिए:",
+      "hintText1": "कम से कम 1 अपरकेस अक्षर",
+      "hintText2": "कम से कम 1 लोअरकेस अक्षर",
+      "hintText3": "कम से कम 1 संख्या",
+      "hintText4": "कम से कम 1 विशेष वर्ण",
+      "submitButtonText": "पासवर्ड रीसेट करें",
+      "advoiceText": "यह सुनिश्चित करने के लिए कि आपका खाता सुरक्षित है, नया पासवर्ड सेट करने के बाद आप अन्य उपकरणों से लॉग आउट हो जाएंगे।"
+    }
+  },
+  "loginWithOtpForm": {
+    "title": "मोबाइल नंबर से लॉग इन करें",
+    "description1": "हम आपको सत्यापित करने के लिए ओटीपी भेजेंगे",
+    "description2": "कृपया मोबाइल नंबर पर प्राप्त ओटीपी दर्ज करें",
+    "formControl": {
+      "phoneNumberLabel": "मोबाइल नंबर",
+      "phoneNumberPlaceholder": "अपना १० अंकों का मोबाइल नंबर दर्ज करें",
+      "phoneNumberErrors": {
+        "required": "मोबाइल नंबर आवश्यक है",
+        "limitation": "कृपया एक मान्य मोबाइल नंबर दर्ज करें"
+      },
+      "oneTimePasswordInputLabel": "ओटीपी दर्ज करें",
+      "oneTimePasswordPlaceholder": "मोबाइल नंबर पर भेजे गए ओटीपी को दर्ज करें",
+      "oneTimePasswordErrors": {
+        "required": "ओटीपी आवश्यक है",
+        "limitation": "कृपया एक मान्य ओटीपी दर्ज करें"
+      },
+      "resendText": "ओटीपी पुनः भेजें",
+      "generateOTPButtonText": "ओटीपी जनरेट करें",
+      "loginWithPasswordText": "पासवर्ड से लॉगिन करें",
+      "submitButtonText": "प्रस्तुत"
+    }
+  }
+}

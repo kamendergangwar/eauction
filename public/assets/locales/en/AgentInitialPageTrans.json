@@ -1,0 +1,219 @@
+{
+  "agentLoginForm": {
+    "title": "CFC Login",
+    "description": "Login to access the portal",
+    "formControl": {
+      "userNameLabel": "Mobile Number",
+      "userNamePlaceholder": "Enter your 10 digit mobile number",
+      "userNameErrors": {
+        "required": "Mobile Number is required"
+      },
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter your Password",
+      "passwordErrors": {
+        "required": "Password is required",
+        "limitation": "Must Contain 8 Characters, One Uppercase, One Lowercase, One Number and  One Special Character - Allowed Characters: @$!%*?&"
+      },
+      "passwordText": "Forgot Password?",
+      "buttonText": "LOGIN"
+    }
+  },
+  "signUpForm": {
+    "title": "Sign Up",
+    "description": "Sign up to create a new account",
+    "formControl": {
+      "phoneNumberLabel": "Mobile Number",
+      "phoneNumberPlaceholder": "Enter your 10 digit mobile number",
+      "phoneNumberErrors": {
+        "required": "Mobile Number is required",
+        "limitation": "Please enter a valid Mobile Number"
+      },
+      "passwordLabel": "Password",
+      "passwordErrors": {
+        "required": "Password is required",
+        "limitation": "Must Contain 8 Characters, One Uppercase, One Lowercase, One Number and  One Special Character - Allowed Characters: @$!%*?&"
+      },
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordErrors": {
+        "required": "Password is required",
+        "limitation": "Both password need to be the same"
+      },
+      "buttonText": "SIGN UP",
+      "messageText": "Already signed up? <1>Log In</1>",
+      "isBotOrHumanText": "Suspicious activity found. Please try again later"
+    }
+  },
+  "termsConditions": {
+    "title": "Terms & Conditions",
+    "content": "I\\We hereby provide my\\ our consent in accordance with Aadhaar Act 2016 and regulations made thereunder for  collecting,storing and usage  validating/ authenticating and  updating my/our Aadhaar Number in accordance with the Aadhaar Act 2016 (and regulations made thereunder) and PMLA. I\\We hereby provide my\\ our consent for sharing\\disclosing ofmy Aadhaar",
+    "formControl": {
+      "checkBoxLabel": "I hereby agree to the terms and conditions",
+      "checkBoxErrors": {
+        "required": "Acknowledge the Terms & Conditions"
+      },
+      "buttonText": "YES, I AGREE"
+    }
+  },
+  "verifyAadhaarForm": {
+    "title": "Verify Aadhaar",
+    "description": "Enter your aadhaar no. in the below input without spaces",
+    "formControl": {
+      "aadhaarNumInputLabel": "Enter Aadhaar Number",
+      "aadhaarNumPlaceholder": "Enter aadhaar number",
+      "aadhaarNumErrors": {
+        "required": "Aadhaar number is required",
+        "limitation": "Please enter a valid Aadhaar number"
+      },
+      "oneTimePasswordInputLabel": "Enter OTP",
+      "oneTimePasswordPlaceholder": "Enter your four digit OTP",
+      "oneTimePasswordErrors": {
+        "required": "OTP is required",
+        "limitation": "Please enter a valid OTP"
+      },
+      "resendText": "Resend",
+      "messageText0": "Your Aadhaar isn't linked to the phone number.",
+      "messageText1": "Go ahead with Offline E-KYC here",
+      "buttonText1": "Complete KYC later",
+      "buttonText2": "VERIFY"
+    }
+  },
+  "authVerifyAadhaarForm": {
+    "title": "Verify user with Aadhaar Number",
+    "description": "Enter your 12 digit Aadhaar number.",
+    "formControl": {
+      "aadhaarNumInputLabel": "Enter Aadhaar Number",
+      "aadhaarNumPlaceholder": "Enter aadhaar number",
+      "aadhaarNumHelperText": "12 Digit UID (1234/1234/1234)",
+      "aadhaarNumErrors": {
+        "required": "Aadhaar number is required",
+        "limitation": "Please enter a valid Aadhaar number"
+      },
+      "securityPinInputLabel": "Enter Security Code",
+      "securityPinInputPlaceholder": "Enter Security Code",
+      "securityPinHelperText": "Type the character you see in the picture.",
+      "securityPinErrors": {
+        "required": "Security Code is required",
+        "limitation": "Please enter a valid Security Code"
+      },
+      "checkBoxLabel": "I have read the  <1>Terms and Conditions</1> and give my consent for the same.",
+      "checkBoxErrors": {
+        "required": "Acknowledge the Terms & Conditions"
+      },
+      "submitButtonText1": "Send OTP",
+      "submitButtonText2": "Complete KYC later",
+      "isBotOrHumanText": "Suspicious activity found. Please try again later"
+    }
+  },
+  "authOTpVerifyForm": {
+    "title": "OTP Verification",
+    "description": "Verify user OTP",
+    "formControl": {
+      "otpInputLabel": "Enter OTP",
+      "otpInputPlaceholder": "Enter OTP",
+      "otpHelperText": "Please enter 6 digit OTP",
+      "otpErrors": {
+        "required": "OTP is required",
+        "limitation": "Please enter a valid OTP"
+      },
+      "submitButtonText": "Verify"
+    }
+  },
+  "kycOfflineForm": {
+    "title": "Offline E-KYC",
+    "description": "Upload the Zip file and submit the 4 digit pin",
+    "formControl": {
+      "fileLabel": "UPLOAD",
+      "fileErrors": {
+        "required": "A File is required",
+        "limitation": "File too large"
+      },
+      "securityPinInputLabel": "Enter 4 digit pin",
+      "securityPinInputPlaceholder": "Enter security pin",
+      "securityPinErrors": {
+        "required": "Security pin is required",
+        "limitation": "Please enter a valid Security pin"
+      },
+      "backButtonText": "BACK",
+      "nextButtonText": "NEXT"
+    },
+    "offlineKYC": {
+      "title": "Offline KYC Process",
+      "description1": "1. On the UDAI portal enter aahaar no. and set code",
+      "description2": "2. Then enter the OTP and download the XML file.",
+      "description3": "3. Upload XML file and share code on our portal",
+      "description4": "4. Share original details with us for verification "
+    }
+  },
+  "agentForgotPasswordForm": {
+    "title": "Forgot Your Password?",
+    "description": "Get OTP on your mobile number",
+    "otpDescription": "Enter OTP to verify your mobile number",
+    "formControl": {
+      "phoneNumberLabel": "Mobile Number",
+      "phoneNumberPlaceholder": "Enter your 10 digit mobile number",
+      "phoneNumberErrors": {
+        "required": "Mobile Number is required",
+        "limitation": "Please enter a valid Mobile Number"
+      },
+      "oneTimePasswordInputLabel": "Enter OTP",
+      "oneTimePasswordPlaceholder": "Enter OTP received on your registered mobile number",
+      "oneTimePasswordErrors": {
+        "required": "OTP is required",
+        "limitation": "Please enter a valid OTP"
+      },
+      "resendText": "Resend OTP",
+      "generateOTPButtonText": "Get OTP",
+      "backButtonText": "Back",
+      "submitButtonText": "Verify",
+      "gotoLoginPageTxt": "Login"
+    }
+  },
+  "agentNewPasswordForm": {
+    "title": "Reset Password",
+    "description": "",
+    "formControl": {
+      "passwordLabel": "New Password",
+      "passwordPlaceholder": "Enter password",
+      "passwordErrors": {
+        "required": "Password is required",
+        "limitation": "Must Contain 8 Characters, One Uppercase, One Lowercase, One Number and  One Special Character - Allowed Characters: @$!%*?&"
+      },
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordPlaceholder": "Re-Enter New Password",
+      "confirmPasswordErrors": {
+        "required": "Confirm Password is required",
+        "limitation": "Both password need to be the same"
+      },
+      "passwordHelpText": "The Password must be Min 8 Characters Long & must contain:",
+      "hintText1": "Atleast 1 Uppercase Letter",
+      "hintText2": "Atleast 1 Lowercase Letter",
+      "hintText3": "Atleast 1 Number",
+      "hintText4": "Atleast 1 Special Character",
+      "submitButtonText": "Reset Password",
+      "advoiceText": "To make sure your account is secure, you’ll be logged out of other devices once you set the new password."
+    }
+  },
+  "loginWithOtpForm": {
+    "title": "Log In with Mobile Number",
+    "description1": "We will send you OTP to verify",
+    "description2": "Please Enter the OTP received on the mobile number",
+    "formControl": {
+      "phoneNumberLabel": "Mobile Number",
+      "phoneNumberPlaceholder": "Enter your 10 digit mobile number",
+      "phoneNumberErrors": {
+        "required": "Mobile Number is required",
+        "limitation": "Please enter a valid Mobile Number"
+      },
+      "oneTimePasswordInputLabel": "Enter OTP",
+      "oneTimePasswordPlaceholder": "Enter the OTP sent to mobile number",
+      "oneTimePasswordErrors": {
+        "required": "OTP is required",
+        "limitation": "Please enter a valid OTP"
+      },
+      "resendText": "Resend OTP",
+      "generateOTPButtonText": "Generate OTP",
+      "loginWithPasswordText": "Login with password",
+      "submitButtonText": "Submit"
+    }
+  }
+}

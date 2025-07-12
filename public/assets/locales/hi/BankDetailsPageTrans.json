@@ -1,0 +1,165 @@
+﻿{
+  "title": "बुकिंग राशि का भुगतान करें",
+  "tittle2": "आवेदन शुल्क का भुगतान करें",
+  "totalProject": "कुल परियोजना/प्रोजेक्ट",
+  "billingDetails": {
+    "title": "बिलिंग सारांश",
+    "noteText": "टिपण्णी",
+    "noteMessage": "आपको प्रत्येक श्रेणी के लिए भुगतान करना होगा जिसके लिए आप आवेदन कर रहे हैं",
+    "projectText": "योजना",
+    "selectCatText": "चयनित श्रेणी",
+    "selectedFlatTxt": "चयनित फ्लैट :",
+    "unitType": "प्रकार :",
+    "towerNo": "टॉवर नं. :",
+    "carpetAreaLabel": "रेरा कारपेट एरिया :",
+    "unitNo": "फ्लैट नं. :",
+    "floorNo": "मंजिल नं. :",
+    "SQFT": "स्क्वेअर फुट",
+    "tableHeaders": {
+      "head1": "आवेदन शुल्क",
+      "head2": "आवेदन जीएसटी",
+      "head3": "पंजीकरण शुल्क",
+      "head4": "पंजीकरण शुल्क जीएसटी",
+      "head5": "कुल राशि",
+      "head6": "बुकिंग राशि",
+      "head7": "जीएसटी (@ 18%)",
+      "head8": "जीएसटी (@ 1%)",
+      "head9": "जीएसटी"
+    },
+    "note": {
+      "label": "नोट : ",
+      "content" : "आवेदन शुल्क अप्रतिदेय है।"
+    },
+    "paymentAlertMsg": "भुगतान हो चुका है",
+    "acknowledgeContent": "मैं भुगतान शर्त से सहमत हूं",
+    "nonRefundableTxt": "नॉन रिफंडेबल",
+    "loanAvailableTxt": "ऋण उपलब्ध",
+    "removeButtonText": "परियोजना को हटा दें",
+    "referralBoxTitle": "यदि आपके पास कोई रेफ़रल कोड है तो दर्ज करें",
+    "referralInputPlaceholder": "रेफरल कोड दर्ज करें",
+    "totalSubCardTitle": "भुगतान की जाने वाली कुल राशि",
+    "helpText": "अगली स्क्रीन पर पंजीकरण शुल्क के लिए ऋण उपलब्ध है",
+    "TotalTxt": "कुल राशि",
+    "TotalInfo": "(भुगतान के बाद आवेदन में संशोधन की अनुमति नहीं है|)",
+    "isPostalAddYesTxt": "हाँ ",
+    "isPostalAddNoTxt": "नहीं",
+    "emdInfoModal": {
+      "title": "क्या आप अगली योजना के लिए पंजीकरण शुल्क रोकना चाहते हैं?",
+      "bodyText": "यदि हाँ , तो हम बिना ब्याज के",
+      "bodyText1": "अगली योजना के लिए आपका पंजीकरण शुल्क रोक लेंगे ",
+      "bodyText2": "और अगली योजना का आवेदन आपके लिए परेशानी मुक्त होगा।",
+      "bodyText3": "यदि नहीं, तो पंजीकरण शुल्क 15 दिनों के भीतर आपके स्रोत खाते में वापस कर दिया जाएगा।",
+      "acceptBtn": "सहमत",
+      "declineBtn": "असहमत",
+      "saveBtnText": "सहेजें",
+      "cancelBtnText": "रद्द करें",
+      "searchBank": "बैंक खोजें"
+    },
+    "holdEmd": "क्या आप अगली योजना के लिए पंजीकरण शुल्क रोकना चाहते हैं",
+    "readmoreTxt": "अधिक पढ़ें"
+  },
+  "noProjectInBilling": {
+    "title": "अभी तक कोई प्रोजेक्ट नहीं चुना गया है",
+    "noteMessage": "लॉटरी पंजीकरण जारी रखने के लिए, कृपया परियोजना जोड़ें पर क्लिक करें।",
+    "addBtn": "प्रोजेक्ट जोड़ें"
+  },
+  "applyLoanYesNoSection": {
+    "earnestMoneyDepTitle": "Earnest Money Deposit (EMD) Scheme",
+    "earnestMoneyDepDesc": "Earnest Money Deposit Loan Scheme provides clean loan to eligible people, who bid for purchase of house/flat offered by Urban Development Authorities like CIDCO/HUDCO/DDA/State Government Housing Development Projects etc.",
+    "applyLoanYesNo": "क्या आप पंजीकरण शुल्क के लिए ऋण लागू करना चाहते हैं?",
+    "paymentOptionTxt": "भुगतान विकल्प",
+    "loanYesTxt": "हाँ ",
+    "loanNoTxt": "नहीं",
+    "nocDialogHeading": "बंधक एनओसी प्राप्त करने के लिए, निम्नलिखित दस्तावेज़ों को अपलोड करने और गैर-पीएमएवाई के लिए ₹250 + जीएसटी का भुगतान करने की आवश्यकता है",
+    "nocDialogHeadingPMAY": "बंधक एनओसी प्राप्त करने के लिए, निम्नलिखित दस्तावेजों को अपलोड करना आवश्यक है",
+    "nocDialogPoint1": "ऋण स्वीकृति पत्र",
+    "nocDialogPoint2" : "बंधक एनओसी के लिए बैंक से अनुरोध पत्र",
+    "housingLoan": "क्या आप ऋण लेना चाहते है",
+    "readmoreTxt": "अधिक पढ़ें",
+    "housingLoanDialog": "आवास ऋण के लिए दिए  गए  वित्तीय संस्थान में से चुने",
+    "housingLoansubDialog1" : "सिडको के पैनलबद्ध बैंकों की सूची",
+    "housingLoansubDialog2" : "बैंक चुनें :",
+    "housingLoanSummary": "यदि आप लॉटरी ड्रा में सफल विजेता हैं और बैंक या वित्तीय संस्थानों से आवास ऋण प्राप्त करना चाहते हैं, तो आपको आवंटन पत्र के साथ बंधक अनापत्ति प्रमाण पत्र जारी किया जाएगा। कृपया ध्यान दें कि इसके लिए आपसे रु. 250/- + जीएसटी शुल्क लिया जाएगा और आवंटन के बाद भुगतान किए जाने वाले आकस्मिक शुल्क में शामिल।",
+    "readmoreSummary": "आपको अपने पसंदीदा बैंक / FI के अनुसार रुपये के बंधक एनओसी की लागत का भुगतान करना होगा। रु. 250/- + जीएसटी। एनओसी आपके ईमेल पर भेजी जाएगी या आप अपने खाते से डाउनलोड कर सकते हैं.",
+    "paymentSummary": {
+      "title": "भुगतान सारांश",
+      "appFeePlsGstTxt": "कुल आवेदन शुल्क + जीएसटी",
+      "nonRefundableTxt": "नॉन रिफंडेबल",
+      "totalEmdAmtTxt": "कुल पंजीकरण शुल्क",
+      "appFeePlsGst": "आवेदन शुल्क + जीएसटी",
+      "emdPlsGstTxt": "पंजीकरण शुल्क",
+      "loanAppliedTxt": "ऋण लागू",
+      "grandTotalTxt": "कुल राशि"
+    }
+  },
+  "selectPaymentTypeSection": {
+    "title": "ट्रांझॅक्शन प्रक्रिया चुनें",
+    "transactionOnline": "ऑनलाइन बैंक ट्रांझॅक्शन",
+    "transactionOffline": "ऑफलाइन बैंक ट्रांझॅक्शन",
+    "fullAmountText": "पूरी राशि का भुगतान करें",
+    "applyLoanText": "रकम के लिए ऋण लागू करें",
+    "totalAmountText": "कुल राशि",
+    "loanAmountEmdText": "पंजीकरण शुल्क के लिए ऋण राशि",
+    "noteText": "टिपण्णी",
+    "noteParagraph": "अपना लेन-देन पूरा करने के लिए आपको रेज़र पे पर पुनर्निर्देशित किया जाएगा",
+    "eChallanTxt": "ई-चालान",
+    "eChallanInfoTxt": "ई-चालान डाउनलोड करें और भुगतान करने के लिए अपनी नजदीकी शाखा में जाएँ।",
+    "paymentSummary": {
+      "title": "वेतन का सारांश",
+      "statusTxt": "ऋण लागू",
+      "totalEMDAmount": "कुल पंजीकरण शुल्क राशि",
+      "appFeePlsGst": "आवेदन शुल्क + जीएसटी",
+      "loanAmountforEMD": "पंजीकरण शुल्क के लिए ऋण राशि",
+      "bankProcessingFee": "बैंक प्रोसेसिंग शुल्क",
+      "amountPayable": "देय राशि",
+      "forTxt": "For",
+      "applicationTxt": "आवेदन के लिए"
+    },
+    "selectPaymentMethodError": {
+      "required": "किसी भुगतान पद्धति का चयन करें"
+    }
+  },
+  "selectBankSection": {
+    "title": "ऋण के लिए आवेदन करने के लिए बैंक का चयन करें",
+    "processingFeeText": "प्रोसेसिंग फीस",
+    "nonRefundableText": "नॉन रिफंडेबल",
+    "noteText": "टिपण्णी",
+    "noteParagraph": "प्रत्येक बैंक अलग सुविधा शुल्क लेता है और ऋण पात्रता के लिए एक अलग सीमा होती है।",
+    "noteParagraph2": "प्रोसेसिंग फीस पर १८% का अतिरिक्त जीएसटी लागू किया गया है।",
+    "searchTxt": "बैंक खोजें",
+    "selectBankErrors": {
+      "required": "Select a Bank"
+    },
+    "clearFilterBtnTxt": "फ़िल्टर क्लिअर करें"
+  },
+  "howApplyLoanSection": {
+    "title": "आप ऋण के लिए कैसे आवेदन करना चाहते हैं?",
+    "payOnlineText": "ऑनलाइन पे",
+    "payOfflineText": "ऑफ़लाइन पे",
+    "noteText": "टिपण्णी",
+    "noteParagraph": "अपनी नजदीकी शाखा में जाकर आवेदन करें और ऋण अधिकारी की सहायता से प्रक्रिया पूरी करें।"
+  },
+  "benefitsOfApplyingLoan": {
+    "title": "ऋण के लिए आवेदन करने के लाभ",
+    "infoTxt0": "लचीलापन और बहुमुखी प्रतिभा ....",
+    "infoTxt1": "कम ब्याज दर और उच्च ऋण सीमा।",
+    "infoTxt2": "संपार्श्विक आवश्यकता नहीं ....",
+    "infoTxt3": "प्रबंधन करने में आसान ....",
+    "infoTxt4": "ब्याज दरें विकल्प से ज्यादा हो सकती है....",
+    "infoTxt5": "शुल्क और दंड ज्यादा हो सकती है....",
+    "infoTxt6": "क्रेडिट कार्ड की तुलना में अधिक भुगतान।"
+  },
+  "savingLoaderTxt": "जानकारी सहेजी जा रही है. . . ",
+  "saveButtonText": "आगे",
+  "makePaymentBtn": "भुगतान करें",
+  "dialogTitle": "भुगतान की पुष्टि करें",
+  "dialogDesc": "कृपया अपने दस्तावेज जांच करने के बाद ही भुगतान राशि दें।",
+  "selectedBank": "चयनित बैंक",
+  "dialogPoint1": " भुगतान अप्रतिदेय है।",
+  "dialogPoint2": "राशि भरने के बाद आप अपने आवेदन पत्र और आपकी चुनी गयी श्रेणी में कोई सुधार नहीं कर पाएंगे।",
+  "emdconfirmDialog":{
+    "title": "चालान समाप्त हो गया",
+    "description1" : "आपके पास शेष है ",
+    "description2" : " अब बुकिंग भुगतान करने के लिए, बुकिंग भुगतान करने के लिए NEFT/CASH (ऑफ़लाइन भुगतान मोड) का उपयोग न करें। यह रद्द हो सकता है या सफल नहीं हो सकता है, हम आपको ऑनलाइन भुगतान मोड के साथ जाने का सुझाव देते हैं।"
+  }
+}

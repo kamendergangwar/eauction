@@ -1,0 +1,62 @@
+{
+    "DeclarationPage": {
+        "title1":"Category Wise Documents List",
+        "title": "Declaration",
+        "subTitle": "Your selected Category/Reservation are:",
+        "stepperTitle": "Submit Affidavit",
+        "section": {
+            "pucca": "Pucca House",
+            "desc": "Pucca houses are made of easily available raw materials, like mud, straw, stones, wood, iron, bricks, cement, steel, etc., to form a concrete structure",
+            "label": "I confirm that I am  NOT  in possession of any Pucca House."
+        },
+        "dialogue": {
+            "title": "Please select all the listed Documents",
+            "desc": "In order to proceed with the application, we need confirmation that you will provide all the listed documents post lottery."
+        },
+        "formControl": {
+            "label": "Please confirm that the following documents are available with you. You need to produce these documents for verification after lottery",
+            "submit": {
+                "submitBtn": "Next",
+                "savingText": "Saving Progress..."
+            }
+        },
+        "listofDocuments": {
+            "title":"Required Document",
+            "Aadhar": "Aadhar Card",
+            "PAN": "PAN card",
+            "cancelled": "Cancelled Cheque",
+            "domicile": "Domicile Certificate",
+            "Income": "Income Certificate / IT Return / Salary Slip (12 months)",
+            "affidavitF":"Affidavit F",
+            "schoolCertificate":"School Leaving Certificate (SLC)",
+            "caste": "Caste Certificate (Only Maharashtra State)",
+            "casteValidity": "Caste Validity Certificate (Only Maharashtra State)",
+            "handiCertificate": "HandiCertificate (Disability minimum 40%)",
+            "form-D": "Form-D on Department Letterhead",
+            "PAPCertificate":"PAP Certificate",
+            "geneology":"Geneology (Applicable if PAP certificate is not on applicant's name)",
+            "exServiceman": "Ex-Serviceman ID Card",
+            "mathadi": "Mathadi Certificate",
+            "certificateIssued": "Certificate issued by CIDCO PRO",
+            "notaryB": "Notary sample Form 'B' on Rs. 100/- stamped paper",
+            "notaryC": "Notary sample Form 'C' on Rs. 100/- stamped paper."
+        },
+        "tabsLists": {
+            "tabsGeneral":"General",
+            "tabsCaste": "Scheduled Caste (SC)",
+            "tabsTribes":"Scheduled Tribes (ST)",
+            "tabsDenotified":"Denotified Tribes (DT)",
+            "tabsNomadic":"Nomadic Tribes (NT)",
+            "tabsDivyang":"Divyang (PH)",          
+            "tabsState":"State Government Employee",
+            "tabsProject": "Project Affected Person (PAP) by CIDCO",
+            "tabsReligious":"Religious Minority",
+            "tabsEx":"Ex-Serviceman",
+            "tabsCIDCO":"CIDCO Employee",
+            "tabsNaviMathadi":"Navi Mumbai Mathadi",
+            "tabsNaviJournalist":"Navi Mumbai Journalist",
+            "tabsEWS":"EWS Category",
+            "tabsGeneralCategory":"General Category"
+        }
+    }
+} 

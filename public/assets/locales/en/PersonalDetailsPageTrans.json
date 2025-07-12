@@ -1,0 +1,237 @@
+{
+  "title": "Personal Details",
+  "personalDetailsForm": {
+    "formControl": {
+      "dob": {
+        "dobLabel": "Date of Birth",
+        "dobPlaceholder": "DD/MM/YYYY",
+        "dobExample": "Example: 25/12/1998",
+        "dobErrors": {
+          "required": "Date of Birth is required",
+          "eligibleText": "Your age is less than 18 years. Not eligible to apply for the scheme."
+        }
+      },
+      "maritalStatus": {
+        "maritalStatusLabel": "Marital Status",
+        "options": {
+          "single": "Single",
+          "married": "Married",
+          "divorced": "Divorced",
+          "widow": "Widow",
+          "widower": "Widower"
+        },
+        "maritalStatusErrors": {
+          "required": "Marital Status is required"
+        }
+      },
+      "whatsappNumberInputLabel": "WhatsApp Number",
+      "whatsappNumberPlaceholder": "Enter WhatsApp Number",
+      "whatsappNumberErrors": {
+        "limitation": "Please enter a valid WhatsApp Number"
+      },
+      "checkBoxLabel1": "Receive Updates On",
+      "emailInputLabel": "Email Address",
+      "emailPlaceholder": "Enter email address",
+      "emailErrors": {
+        "limitation": "Please enter a valid email address",
+        "required": "Email Address is required"
+      },
+      "emailConInputLabel": "Confirm Email Address",
+      "emailConPlaceholder": "Confirm email address",
+      "emailConErrors": {
+        "limitation": "Please enter a valid email address",
+        "required": "Confirm Email Address"
+      },
+      "optionaltxt": "Optional",
+      "whatsAppTxt": "WhatsApp.",
+      "isPostalAddSameTxt": "Is your Postal Address same as given in Aadhaar Card?",
+      "isPostalAddSameSubTxt": "(All communication will be on given Email Id/Address)",
+      "myCurrentAddressTxt": "Current Communication Address :",
+      "isPostalAddYesTxt": "Yes",
+      "isPostalAddNoTxt": "No",
+      "viewAddBtntxt": "View Address",
+      "ageTxt": "Age",
+      "maleTxt": "Male",
+      "femaleTxt": "Female",
+      "verifyEmail": "Verify Email", 
+      "verifyEmailAlert": "Please Verify Email Address",
+      "emailVerificationTxt": "Email ID Verification",
+      "verificationCheckEmailTxt": "Please check your email, copy OTP received on Mail & enter it in below textbox.",
+      "getOtpButtonText": "OTP has been Sent to Email : ",
+      "submitBtn": "Submit",
+      "cancelBtn": "Cancel",
+      "enterOtpText": "Please Enter OTP",
+      "otpReqText": "OTP is Required",
+      "emailVerified": "Verified",
+      "emailVerificationCompleted": "Email Verified Successfully!",
+      "resendOtpText": "Resend OTP in",
+      "sec": "seconds"
+    }
+  },
+  "completeLaterButtonText": "COMPLETE LATER",
+  "backButtonText": "Go To Dashboard",
+  "savingLoaderTxt": "Saving Progress",
+  "saveButtonText": "Next",
+  "addPostalAddressModal": {
+    "title": "Add Address",
+    "subTitle": "Add your current postal address below",
+    "formControl": {
+      "addressLine1Label": "Address Line 1",
+      "addressLine1Placeholder": "Flat, House no., Building, Apartment",
+      "addressLine1Errors": {
+        "required": "Address line 1 is required"
+      },
+      "charactersNotAllowed": "Special characters not allowed",
+      "addressLine2Label": "Address Line 2",
+      "addressLine2Placeholder": "Area, Colony, Street, Sector, Village",
+      "postalCodeLabel": "Pin Code",
+      "postalCodePlaceholder": "example : 400 987",
+      "postalCodeErrors": {
+        "required": "Pin Code is required",
+        "limitation": "Please enter a valid Pin Code"
+      },
+      "cityTownLabel": "City/Town",
+      "cityTownPlaceholder": "Please enter City/Town",
+      "cityTownErrors": {
+        "required": "City/Town is required"
+      },
+      "districtLabel": "District",
+      "districtErrors": {
+        "required": "District is required"
+      },
+      "stateLabel": "State",
+      "stateErrors": {
+        "required": "State is required"
+      },
+      "submitBtnTxt": "Save"
+    }
+  },
+  "coApplicant": {
+    "title": "Add Co-Applicant",
+    "optionalTxt": "Optional",
+    "wantAddCoApplicantTxt": "Want to Add Co-Applicant?",
+    "addCoApplicantBtnTxt": "Add Co-Applicant",
+    "coApplicantBenefitsTitle": "Benefits of adding a Co-Applicant",
+    "benefitsListOfPoints": {
+      "point1": "In a joint home loan, you can add another Co-Applicant who becomes liable to pay the home loan along with the primary applicant. Liability of the loan is a collective responsibility on both. Generally, immediate family members, including mother and spouse, children, and brother, are most eligible to become Co-Applicants in joint home loans.",
+      "point2": "There are a number of additional advantages in considering taking a joint home loan as compared to an individual home loan. These include higher loan amount eligibility, lower interest rates and other income tax benefits.",
+      "point3": "All applicants need to provide their KYC documents regardless of whether they earn an income or not or whether they even co-owner the property."
+    },
+    "skipBtnText": "Skip this Step",
+    "relationshipInputLabel": "Relationship with Applicant",
+    "relationshipOptions": {
+      "spouse": "Spouse",
+      "son": "Son",
+      "daughter": "Daughter",
+      "father": "Father",
+      "mother": "Mother",
+      "sister": "Sister",
+      "brother": "Brother",
+      "grandFather": "Grandfather",
+      "grandMother": "Grandmother",
+      "grandSon": "Grandson",
+      "grandDaughter": "Granddaughter"
+    },
+    "relationshipErrors": {
+      "required": "Please select relationship"
+    },
+    "skipCoApplicant": {
+      "title": "Are you sure you want to skip this step?",
+      "description": "Kindly ensure that if you skip this step, you will be charged to add or remove a Co-Applicant later.",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "addDetailsSection": {
+      "title": "Add details of Co-Applicant",
+      "removeBtnTxt": "Remove Co-Applicant",
+      "card1Title": "KYC Details",
+      "card2Title": "Personal Details",
+      "card3Title": "Address",
+      "addBtnTxt": "Add",
+      "editBtnTxt": "Edit",
+      "viewBtnTxt": "View"
+    },
+    "addPersonalDetailsForm": {
+      "title": "Add Co-Applicant’s personal details",
+      "formControl": {
+        "fullNameLabel": "Co-Applicant’s full name",
+        "fullNamePlaceholder": "Write name here",
+        "fullNameErrors": {
+          "required": "Co-Applicant’s full name is required",
+          "limitation": "Please enter a valid Name"
+        },
+        "dob": {
+          "dobLabel": "Date of Birth",
+          "dobPlaceholder": "DD/MM/YYYY",
+          "dobErrors": {
+            "required": "Date of Birth is required",
+            "eligibleText": "Your age is less than 18 years. Not eligible to apply for the scheme."
+          }
+        },
+        "mobileNumberInputLabel": "Mobile Number",
+        "mobileNumberPlaceholder": "Enter 10 digit mobile number here",
+        "mobileNumberErrors": {
+          "required": "Mobile Number is required",
+          "limitation": "Please enter a valid Number"
+        },
+        "emailInputLabel": "Email",
+        "emailPlaceholder": "example: abc@gmail.com",
+        "emailIdErrors": {
+          "required": "Email ID is Required",
+          "limitation": "Please enter a valid email address"
+        }
+      },
+      "saveBtnTxt": "Save"
+    },
+    "addAddressDetailsForm": {
+      "title": "Add Co-Applicant’s Address",
+      "subTitle": "Add your Co-Applicant’s current address below",
+      "formControl": {
+        "addressLine1Label": "Address Line 1",
+        "addressLine1Placeholder": "Flat, House no., Building, Apartment",
+        "addressLine1Errors": {
+          "required": "Address line 1 is required"
+        },
+        "charactersNotAllowed": "Special characters not allowed",
+        "addressLine2Label": "Address Line 2",
+        "addressLine2Placeholder": "Area, Colony, Street, Sector, Village",
+        "postalCodeLabel": "Pin Code",
+        "postalCodePlaceholder": "ex : 400 987",
+        "postalCodeErrors": {
+          "required": "Pin Code is required",
+          "limitation": "Please enter a valid Pin Code"
+        },
+        "cityTownLabel": "City/Town",
+        "cityTownPlaceholder": "Please enter City/Town",
+        "cityTownErrors": {
+          "required": "City/Town is required"
+        },
+        "districtLabel": "District",
+        "districtErrors": {
+          "required": "District is required"
+        },
+        "stateLabel": "State",
+        "stateErrors": {
+          "required": "State is required"
+        }
+      },
+      "saveBtnTxt": "Save"
+    },
+    "kycDetailsView": {
+      "title": "KYC",
+      "aadhaarDetails": {
+        "title": "Aadhaar Details",
+        "aadhaarNumberLabel": "Aadhaar number",
+        "nameLabel": "Name",
+        "genderLabel": "Gender",
+        "addressLabel": "Address"
+      },
+      "panCardDetails": {
+        "title": "PAN Details",
+        "panNumberLabel": "PAN number",
+        "nameLabel": "Name",
+        "genderLabel": "Gender"
+      }
+    }
+  }
+}

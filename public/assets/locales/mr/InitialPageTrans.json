@@ -1,0 +1,501 @@
+{
+  "loginForm": {
+    "title": "सिडको योजनेमध्ये स्वागत आहे",
+    "del_description": "पोर्टलवर प्रवेश करण्यासाठी लॉगइन करा",
+    "formControl": {
+      "phoneNumberLabel": "मोबाईल नंबर",
+      "phoneNumberPlaceholder": "तुमचा मोबाइल नंबर",
+      "phoneNumberErrors": {
+        "required": "मोबाईल नंबर आवश्यक आहे",
+        "limitation": "कृपया वैध मोबाईल नंबर प्रविष्ट करा "
+      },
+      "passwordLabel": "पासवर्ड",
+      "passwordErrors": {
+        "required": "पासवर्ड आवश्यक आहे",
+        "limitation": "८ अक्षर/वर्ण असणे आवश्यक आहे, एक अप्परकेस, एक लोअरकेस, एक संख्या आणि एक विशेष अक्षर - पुढील अक्षरांना परवानगी आहे: @$!%*?&"
+      },
+      "loginWithOTPText": "ओटीपी सह लॉगइन करा",
+      "passwordText": "पासवर्ड विसरलात?",
+      "buttonText": "पडताळणी करा आणि पुढे जा",
+      "messageText": "खाते नाही? <1> नवीन खात्यासाठी नोंदणी करा </1>",
+      "or": "किंवा"
+    }
+  },
+  "signUpForm": {
+    "title": "नवीन खाते तयार करा",
+    "description": "सिडको लॉटरी खाते तयार करण्यासाठी खालील तपशील भरा",
+    "formControl": {
+      "phoneNumberLabel": "मोबाईल नंबर",
+      "phoneNumberPlaceholder": "तुमचा मोबाइल नंबर",
+      "phoneNumberErrors": {
+        "required": "मोबाईल नंबर आवश्यक आहे",
+        "limitation": "कृपया वैध मोबाईल नंबर प्रविष्ट करा "
+      },
+      "passwordLabel": "पासवर्ड",
+      "passwordErrors": {
+        "required": "पासवर्ड आवश्यक आहे",
+        "limitation": "८ अक्षर/वर्ण असणे आवश्यक आहे, एक अप्परकेस, एक लोअरकेस, एक संख्या आणि एक विशेष अक्षर - पुढील अक्षरांना परवानगी आहे: @$!%*?&"
+      },
+      "confirmPasswordLabel": "पासवर्डची पुष्टी करा",
+      "confirmPasswordErrors": {
+        "required": "पासवर्ड आवश्यक आहे",
+        "limitation": "दोन्ही पासवर्ड सारखे असणे आवश्यक आहे"
+      },
+      "fullname": {
+        "fullnameLabel": "संपूर्ण नाव",
+        "fullnamePlaceholderL": "संपूर्ण नाव प्रविष्ट करा ",
+        "limitation": "वैध नाव प्रविष्ट करा ",
+        "required": "संपूर्ण नाव टाकणे आवश्यक आहे"
+      },
+      "buttonText": "साइन अप करा",
+      "messageText": "आधीचे खाते आहे का? <1> लॉगइन </1>",
+      "isBotOrHumanText": "संशयास्पद क्रिया आढळली. कृपया पुन्हा एकदा प्रयत्न करा",
+      "next": "पुढे",
+      "otpVerify": {
+        "verifyAccount": "आपले खाते पडताळा",
+        "desc": "ओटीपी पाठविला गेला आहे",
+        "button": "पडताळणी करा आणि पुढे जा"
+      },
+      "ResendOTPin0": "",
+      "ResendOTPin1": "सेकंद",
+      "clickhere": " इथे क्लिक करा"
+    }
+  },
+  "termsConditions": {
+    "title": "नियम व अटी",
+    "content": "मी/आम्ही आधार कायदा २०१६ याद्वारे माझी/आमची संमती देत आहे तसेच आधार कायदा २०१६ व पीएमएलए नुसार माझ्या/आमच्या आधार क्रमांकाचे संकलन, साठवण आणि वापरासाठी त्याखाली केलेले नियम प्रमाणित करणे आणि अपडेट करण्याची मी/आम्ही संमती देतो. मी/आम्ही याद्वारे माझा आधार क्रमांक शेअर करण्यासाठी माझी/आमची संमती देतो.",
+    "formControl": {
+      "checkBoxLabel": "उपरोक्त अटींशी मी सहमत आहे",
+      "checkBoxErrors": {
+        "required": "नियम व अटी स्वीकारणे आवश्यक आहे"
+      },
+      "buttonText": "हो, मी सहमत आहे"
+    }
+  },
+  "verifyAadhaarForm": {
+    "title": "अर्जदाराची आधार पडताळणी",
+    "title1": "सह-अर्जदाराच्या आधारची पडताळणी करा",
+    "description": "तुमच्या केवायसीच्या पुष्टीसाठी आम्हाला तुमच्या आधार माहितीची आवश्यकता आहे.",
+    "description1": "केवायसीची पुष्टी करण्यासाठी आम्हाला सह-अर्जदाराच्या आधार तपशीलांची आवश्यकता आहे",
+    "formControl": {
+      "aadhaarNumInputLabel": "१२ अंकी आधार क्रमांक प्रविष्ट करा",
+      "aadhaarNumPlaceholder": "0000-0000-0000",
+      "aadhaarNumErrors": {
+        "required": "आधार क्रमांक आवश्यक आहे",
+        "limitation": "कृपया वैध आधार क्रमांक प्रविष्ट करा "
+      },
+      "securityCode": "सुरक्षा कोड",
+      "securityCodeLabel": "सुरक्षा कोड प्रविष्ट करा ",
+      "securityCodePlaceholder": "सुरक्षा कोड प्रविष्ट करा ",
+      "securityCodeErrors": {
+        "required": "सुरक्षा कोड प्रविष्ट करा ",
+        "limitation": "कृपया वैध सुरक्षा कोड प्रविष्ट करा "
+      },
+      "aadharTnC": "मी नियम व अटी वाचल्या आहेत आणि आधार पडताळणीसाठी माझी संमती दर्शवली आहे.",
+      "messageText0": "तुमचा आधार मोबाईल नंबराशी लिंक केलेला नाही.",
+      "messageText1": "ऑफलाइन ई-केवायसीसाठी येथून पुढे जा",
+      "messageText2": "तुमचे आधार कार्ड आधीच पडताळले गेले आहे, कृपया पुढे जा.",
+      "messageText3": "सह-अर्जदाराचे आधार कार्ड आधीच पडताळले गेले आहे, कृपया पुढे जा.",
+      "buttonText1": "केवायसी नंतर पूर्ण करा",
+      "buttonText2": "पडताळणी करा आणि पुढे जा",
+      "buttonText3": "पुढे"
+    }
+  },
+  "authVerifyAadhaarForm": {
+    "title": "आधार क्रमांकासोबत उपभोक्त्याची पडताळणी करा",
+    "description": "तुमचा १२ अंकी आधार क्रमांक प्रविष्ट करा",
+    "formControl": {
+      "aadhaarNumInputLabel": "तुमचा आधार क्रमांक प्रविष्ट करा ",
+      "aadhaarNumPlaceholder": "तुमचा आधार क्रमांक प्रविष्ट करा ",
+      "aadhaarNumHelperText": "१२ अंकी युआयडी (xxxx/xxxx/xxxx)",
+      "aadhaarNumErrors": {
+        "required": "आधार क्रमांक आवश्यक आहे",
+        "limitation": "कृपया वैध आधार क्रमांक प्रविष्ट करा "
+      },
+      "securityPinInputLabel": "सुरक्षा कोड प्रविष्ट करा ",
+      "securityPinInputPlaceholder": "सुरक्षा कोड प्रविष्ट करा ",
+      "securityPinHelperText": "तुम्हाला चित्रात दिसत असलेले वर्ण टाईप करा",
+      "securityPinErrors": {
+        "required": "सुरक्षा कोड आवश्यक आहे",
+        "limitation": "कृपया वैध सुरक्षा कोड प्रविष्ट करा "
+      },
+      "checkBoxLabel": "मी <1>नियम व अटी</1> वाचल्या आहेत आणि आधार पडताळणीसाठी माझी संमती दर्शवली आहे.",
+      "checkBoxErrors": {
+        "required": "नियम व अटींचा स्वीकार आवश्यक आहे"
+      },
+      "submitButtonText1": "ओटीपी पाठवा",
+      "submitButtonText2": "केवायसी नंतर पूर्ण करा",
+      "isBotOrHumanText": "संशयास्पद क्रिया सापडली, कृपया पुन्हा प्रयत्न करा",
+      "clickhere": " इथे क्लिक करा"
+    }
+  },
+  "authOTpVerifyForm": {
+    "title": "ओटीपी पडताळणी",
+    "description": "अर्जदाराची आधार पडताळणी",
+    "sendTxt1": "आधार क्रमांक ",
+    "sendTxt2": "शी संबंधित नोंदणीकृत मोबाइल क्रमांकावर एक ओटीपी पाठवण्यात आला आहे.",
+    "changeTxt": "येथे बदला",
+    "formControl": {
+      "otpInputLabel": "ओटीपी प्रविष्ट करा ",
+      "otpInputPlaceholder": "ओटीपी प्रविष्ट करा ",
+      "otpHelperText": "कृपया ६ अंकी ओटीपी प्रविष्ट करा ",
+      "oneTimePasswordErrors": {
+        "required": "ओटीपी आवश्यक आहे",
+        "limitation": "कृपया वैध ओटीपी प्रविष्ट करा "
+      },
+      "resendOtpTxt": "",
+      "resendOtpSecTxt": "सेकंद",
+      "resendText": "पुन्हा प्रयत्न करा",
+      "submitButtonText": "पडताळणी करा आणि पुढे जा",
+      "aadhaarVerification": "तुमची आधार पडताळणी यशस्वीरित्या पूर्ण झाली आहे."
+    }
+  },
+  "uploadAadhaarCardForm": {
+    "title": "आधार अपलोड करा",
+    "title1": "सह-अर्जदाराचे आधार अपलोड करा",
+    "description": "तुमच्या आधार कार्डची स्कॅन केलेली प्रत अपलोड करा.",
+    "description1": "सह-अर्जदाराच्या आधार कार्डची स्कॅन केलेली प्रत अपलोड करा.",
+    "formControl": {
+      "dragNdDropText": "खेचा आणि सोडा किंवा",
+      "browseBtnText": "अपलोड",
+      "kycCaptionTxt1": "प्रिव्ह्यू",
+      "kycCaptionTxt2": "फाईल अपलोड झाली",
+      "buttonText2": "पुन्हा अपलोड करा",
+      "buttonText3": "पुढे",
+      "fileLimit0": "आम्ही समर्थन करतो",
+      "fileLimit1": "जेपीजी, पीएनजी आणि पीडीएफ फॉरमॅट",
+      "fileLimit2": "& कमाल आकार 2 एमबी",
+      "success": "दस्तऐवज यशस्वीरित्या अपलोड झाले !",
+      "uploadErrors": {
+        "required": "फाइल आवश्यक आहे",
+        "limitation": "फाइल खूप मोठी आहे",
+        "fileFormat": "असमर्थित स्वरूप"
+      }
+    }
+  },
+  "verifyPanCardForm": {
+    "title": "पॅन कार्ड पडताळणी",
+    "title1": "सह-अर्जदाराची पॅन कार्ड पडताळणी",
+    "description": "अर्जदाराचा पॅन कार्ड नंबर प्रविष्ट करा",
+    "description1": "कृपया सह-अर्जदाराच्या पॅन कार्डची माहिती प्रविष्ट करा ",
+    "formControl": {
+      "pancardNumInputLabel": "पॅन कार्ड नंबर प्रविष्ट करा ",
+      "pancardNumPlaceholder": "पॅन कार्ड नंबर प्रविष्ट करा ",
+      "pancardNumErrors": {
+        "required": "पॅन कार्ड नंबर आवश्यक आहे",
+        "limitation": "कृपया वैध पॅन कार्ड नंबर प्रविष्ट करा "
+      },
+      "messageText0": "तुमच्या पॅन कार्डची यापूर्वीच पडताळणी झाली आहे",
+      "messageText1": "सह-अर्जदाराचे पॅन कार्डची यापूर्वीच पडताळणी झाली आहे",
+      "buttonText3": "पुढे",
+      "panSuccessTxt": "तुमच्या पॅनची पडताळणी यशस्वीरित्या पूर्ण झाली आहे."
+    }
+  },
+  "uploadPanCardForm": {
+    "title": "पॅन कार्ड अपलोड करा",
+    "title1": "सह-अर्जदाराचे पॅन कार्ड अपलोड करा",
+    "description": "पॅन कार्डची स्कॅन केलेली प्रत अपलोड करा",
+    "description1": "सह-अर्जदाराच्या पॅन कार्डची स्कॅन केलेली प्रत अपलोड करा.",
+    "formControl": {
+      "dragNdDropText": "खेचा आणि सोडा किंवा",
+      "browseBtnText": "अपलोड",
+      "kycCaptionTxt1": "प्रिव्ह्यू",
+      "kycCaptionTxt2": "फाईल अपलोड झाली",
+      "buttonText2": "पुन्हा अपलोड करा",
+      "buttonText3": "पुढे",
+      "fileLimit0": "आम्ही समर्थन करतो",
+      "fileLimit1": "जेपीजी, पीएनजी आणि पीडीएफ फॉरमॅट",
+      "fileLimit2": "& कमाल आकार 2 एमबी",
+      "success": "दस्तऐवज यशस्वीरित्या अपलोड झाले !",
+      "uploadErrors": {
+        "required": "फाइल आवश्यक आहे",
+        "limitation": "फाइल खूप मोठी आहे",
+        "fileFormat": "असमर्थित स्वरूप"
+      }
+    }
+  },
+  "kycOfflineForm": {
+    "title": "Offline E-KYC",
+    "description": "Upload the Zip file and submit the 4 digit pin",
+    "formControl": {
+      "fileLabel": "UPLOAD",
+      "fileErrors": {
+        "required": "A File is required",
+        "limitation": "File too large"
+      },
+      "securityPinInputLabel": "Enter 4 digit pin",
+      "securityPinInputPlaceholder": "Enter security pin",
+      "securityPinErrors": {
+        "required": "Security pin is required",
+        "limitation": "Please enter a valid Security pin"
+      },
+      "backButtonText": "BACK",
+      "nextButtonText": "NEXT"
+    },
+    "offlineKYC": {
+      "title": "Offline KYC Process",
+      "description1": "1. On the UDAI portal enter aahaar no. and set code",
+      "description2": "2. Then enter the OTP and download the XML file.",
+      "description3": "3. Upload XML file and share code on our portal",
+      "description4": "4. Share original details with us for verification "
+    }
+  },
+  "forgotPasswordForm": {
+    "title": "तुम्ही पासवर्ड विसरलात का ?",
+    "verifyOtpTitle": "तुमचे खाते पडताळा",
+    "description": "हे तुम्हीच असल्याची खात्री करण्यासाठी ओटीपी मिळवा वर क्लिक करा",
+    "verifyOtpDescription": "OTP प्रविष्ट करा  ",
+    "msgText": "तुम्हाला तुमचा पासवर्ड आठवला का? <1> लॉगइन करण्याचा प्रयत्न करा </1>",
+    "formControl": {
+      "phoneNumberLabel": "मोबाईल नंबर",
+      "phoneNumberPlaceholder": "तुमचा मोबाइल नंबर",
+      "phoneNumberErrors": {
+        "required": "मोबाईल नंबर आवश्यक आहे",
+        "limitation": "कृपया वैध मोबाईल नंबर प्रविष्ट करा "
+      },
+      "oneTimePasswordInputLabel": "ओटीपी प्रविष्ट करा ",
+      "oneTimePasswordPlaceholder": "OTP प्रविष्ट करा  ",
+      "oneTimePasswordErrors": {
+        "required": "ओटीपी आवश्यक आहे",
+        "limitation": "कृपया वैध ओटीपी प्रविष्ट करा "
+      },
+      "resendText": "ओटीपी पुन्हा पाठवा",
+      "generateOTPButtonText": "OTP मिळवा",
+      "submitButtonText": "पडताळणी करा आणि पुढे जा"
+    }
+  },
+  "newPasswordForm": {
+    "title": "पासवर्ड रिसेट करा",
+    "description": "पासवर्डमध्ये १ कॅपिटल/मोठे अक्षर, १ स्पेशल/विशेष अक्षर, १ क्रमांक अशी किमान ८ अक्षरं असणे आवश्यक आहे.",
+    "formControl": {
+      "passwordLabel": "पासवर्ड",
+      "passwordPlaceholder": "नवीन पासवर्ड प्रविष्ट करा ",
+      "passwordErrors": {
+        "required": "पासवर्ड आवश्यक आहे",
+        "limitation": "८ अक्षर/वर्ण असणे आवश्यक आहे, एक अप्परकेस, एक लोअरकेस, एक संख्या आणि एक विशेष अक्षर - पुढील अक्षरांना परवानगी आहे: @$!%*?&"
+      },
+      "confirmPasswordLabel": "पासवर्डची पुष्टी करा",
+      "confirmPasswordPlaceholder": "पासवर्ड प्रविष्ट करा ",
+      "confirmPasswordErrors": {
+        "required": "पासवर्डची पुष्टी करा आवश्यक आहे",
+        "limitation": "दोन्ही पासवर्ड सारखे असणे आवश्यक आहे"
+      },
+      "passwordHelpText": "पासवर्ड किमान ८ अक्षरांचा असणे आवश्यक आहे आणि त्यात खालील गोष्टी समाविष्ट असणे आवश्यक आहे:",
+      "hintText1": "किमान १ अप्परकेस अक्षर",
+      "hintText2": "किमान १ लोअरकेस अक्षर",
+      "hintText3": "किमान १ क्रमांक",
+      "hintText4": "किमान १ विशेष अक्षर",
+      "submitButtonText": "माझा पासवर्ड रिसेट करा",
+      "advoiceText": "तुमचे खाते सुरक्षित असल्याची खात्री कारण्यासाठी, तुम्ही नवीन पासवर्ड सेट केल्यावर तुम्हाला इतर डिव्हाइसेसमधून लॉग आउट केले जाईल."
+    }
+  },
+  "loginWithOtpForm": {
+    "title": "मोबाईल नंबराने लॉगइन करा",
+    "description1": "आधार नोंदणीकृत मोबाईल क्रमांक प्रविष्ट करा ",
+    "description2": "ओटीपी पाठविला गेला आहे",
+    "description3": "कृपया पडताळणीसाठी",
+    "description4": "वर पाठवलेला ओटीपी प्रविष्ट करा ",
+    "formControl": {
+      "phoneNumberLabel": "मोबाईल नंबर",
+      "phoneNumberPlaceholder": "तुमचा मोबाइल नंबर",
+      "phoneNumberErrors": {
+        "required": "मोबाईल नंबर आवश्यक आहे",
+        "limitation": "कृपया वैध मोबाईल नंबर प्रविष्ट करा "
+      },
+      "oneTimePasswordInputLabel": "ओटीपी प्रविष्ट करा ",
+      "oneTimePasswordPlaceholder": "OTP प्रविष्ट करा  ",
+      "oneTimePasswordErrors": {
+        "required": "ओटीपी आवश्यक आहे",
+        "limitation": "कृपया वैध ओटीपी प्रविष्ट करा "
+      },
+      "resendText": "ओटीपी पुन्हा पाठवा",
+      "generateOTPButtonText": "OTP मिळवा",
+      "loginWithPasswordText": "पासवर्डचा वापर करून लॉगइन करा",
+      "submitButtonText": "साइन अप करा",
+      "verifyAccount": "आपले खाते पडताळा",
+      "ResendOTPin0": "",
+      "ResendOTPin1": "सेकंद",
+      "clickhere": " इथे क्लिक करा"
+    }
+  },
+  "setPassword": {
+    "title": "तुमचा पासवर्ड सेट करा",
+    "descp": "पासवर्डमध्ये किमान १ कॅपिटल लेटर, १ स्पेशल कॅरेक्टर, १ नंबर ८ कॅरेक्टर असणे आवश्यक आहे.",
+    "button": "खाते उघडा करा"
+  },
+  "kycBank": {
+    "title": "बँक तपशील प्रविष्ट करा ",
+    "descp": "तुमच्या बँकेचे तपशील प्रविष्ट करा ",
+    "formControl": {
+      "accountNumber": {
+        "label": "खाते क्रमांक प्रविष्ट करा ",
+        "placeholder": "खाते क्रमांक प्रविष्ट करा ",
+        "required": "खाते क्रमांक आवश्यक आहे",
+        "limitation": "वैध खाते क्रमांक प्रविष्ट करा "
+      },
+      "radio": {
+        "label": "कृपया पुढे जाण्यासाठी एक निवडा",
+        "required": "पुढे जाण्यासाठी एक निवडा",
+        "ifsc": "IFSC कोड",
+        "micr": "MICR नंबर"
+      },
+      "ifsc": {
+        "label": "बँकेचा IFSC कोड प्रविष्ट करा ",
+        "placeholder": "IFSC कोड प्रविष्ट करा ",
+        "required": "IFSC कोड आवश्यक आहे",
+        "limitation": "वैध IFSC कोड प्रविष्ट करा "
+      },
+      "micr": {
+        "label": "बँकेचा MICR नंबर प्रविष्ट करा ",
+        "placeholder": "MICR नंबर प्रविष्ट करा ",
+        "required": "MICR नंबर आवश्यक आहे",
+        "limitation": "वैध MICR नंबर प्रविष्ट करा "
+      },
+      "bank": {
+        "label": "बँकेचे नाव",
+        "placeholder": "बँकेचे नाव",
+        "required": "बँकेचे नाव आवश्यक आहे",
+        "limitation": "वैध बँकेचे नाव प्रविष्ट करा "
+      },
+      "branch": {
+        "label": "शाखेचे नाव",
+        "placeholder": "शाखेचे नाव",
+        "required": "शाखेचे नाव आवश्यक आहे",
+        "limitation": "वैध शाखेचे नाव प्रविष्ट करा "
+      },
+      "upload": {
+        "title": "चेक अपलोड करा",
+        "descp": "तुमच्या रद्द केलेल्या चेकची स्कॅन केलेली प्रत अपलोड करा",
+        "kycCaptionTxt1": "प्रिव्ह्यू",
+        "dragNdDropText": "खेचा आणि सोडा किंवा",
+        "browseBtnText": "अपलोड",
+        "fileLimit0": "आम्ही समर्थन करतो",
+        "fileLimit1": "जेपीजी, पीएनजी आणि पीडीएफ फॉरमॅट",
+        "fileLimit2": "& कमाल आकार 2 एमबी",
+        "success": "दस्तऐवज यशस्वीरित्या अपलोड झाले !",
+        "uploaded": "फाईल अपलोड झाली",
+        "reupload": "पुन्हा अपलोड करा"
+      },
+      "uploadErrors": {
+        "required": "फाइल आवश्यक आहे",
+        "limitation": "फाइल खूप मोठी आहे",
+        "fileFormat": "असमर्थित स्वरूप"
+      }
+    }
+  },
+  "userDeclaration": {
+    "title": "घोषणा",
+    "confirmationCheckBoxLabel": "मी पुष्टी करतो की माझ्या पुरवलेल्या ओळख माहितीच्या संदर्भात दिलेली सर्व माहिती बरोबर आहे आणि ती बदलता येण्यासारखी नाही.",
+    "continueBtnText": "पुढे जा",
+    "questionPage1": {
+      "title": "तुमच्या कुटुंबाचे मासिक उत्पन्न किती आहे?",
+      "helpText": "विवाहित अर्जदारासाठी: कौटुंबिक उत्पन्न हे पती आणि पत्नीचे एकत्रित मासिक उत्पन्न आहे.(पती पत्नी दोघेही नोकरदार असतील, तर त्यांचा मूळ पगार आणि महागाई भत्ता हेच परिगणीत करून वार्षिक कौटुंबिक उत्पन्न ग्राह्य धरण्यात येईल)",
+      "helpText1": "अविवाहित अर्जदारासाठी: कौटुंबिक उत्पन्न हे अर्जदाराचे मासिक उत्पन्न आहे.",
+      "exampleText": "उदाहरण : राजेश दरमहा ₹ ५,००० कमवतो आणि त्याची पत्नी शालिनी दरमहा ₹ १२,००० कमवते त्यामुळे, राजेशचे कौटुंबिक उत्पन्न ५,००० + १२,००० = १७,००० रुपये प्रति महिना असेल",
+      "showExampleBtnTxt": "उदाहरण दाखवा",
+      "hideExampleBtnTxt": "मागे जा",
+      "belowText": "₹ 50,000 पर्यंत",
+      "aboveText": "₹ 50,000 च्या वर",
+      "betweenText": "₹ 50,000 ते ₹ 75,000"
+    },
+    "questionPage2": {
+      "title": "तुमच्याकडे भारतात कोठेही पक्के घर आहे का?",
+      "titlePrimaryTxt": "",
+      "yesText": "होय",
+      "noText": "नाही"
+    },
+    "questionPage3": {
+      "title": "नवी मुंबईत तुमच्या मालकीचे पक्के घर आहे का?",
+      "titlePrimaryTxt": "",
+      "yesText": "होय",
+      "noText": "नाही"
+    },
+    "questionPage4": {
+      "title": "अभिनंदन!",
+      "infoText1": "तुम्ही सर्वसमावेशक (खुला उत्पन्न गट) (NON PMAY) श्रेणीत", 
+      "infoText2": "सिडको महागृहनिर्माण योजनेसाठी अर्ज करण्यास पात्र आहात!",
+      "applyNowBtnTxt": "अर्ज करा"
+    },
+    "questionPage5": {
+      "title": "धन्यवाद!",
+      "subTitle": "तुम्ही दोन्ही (पीएमएवाय आणि नॉन पीएमएवाय) सिडको महा गृहनिर्माण योजनेसाठी अर्ज करण्यास पात्र आहात.",
+      "pMayCheckBox": {
+        "title": "प्रधानमंत्री आवास योजना(PMAY)",
+        "description": "या योजनेत २.५ लाख रुपयांचे सरकारी अनुदान देण्यात येते"
+      },
+      "nonPmayCheckBoxTxt": {
+        "title": "सर्वसमावेशक (खुला उत्पन्न गट) श्रेणी(NON PMAY)",
+        "description": "कोणतेही सरकारी अनुदान नाही"
+      },
+      "knowMoreBtn": "अधिक जाणून घ्या"
+    },
+    "questionPage6": {
+      "title": "क्षमस्व!",
+      "subTitle": "तुमच्यासाठी अद्याप कोणत्याही योजना उपलब्ध नाहीत.",
+      "infoText": "तुमच्यासाठी योग्य असलेल्या योजनेची माहिती मिळविण्यासाठी खालील माहिती प्रविष्ट करा.",
+      "formControl": {
+        "nameLabel": "पूर्ण नाव",
+        "namePlaceholder": "पूर्ण नाव प्रविष्ट करा ",
+        "nameErrors": {
+          "required": "पूर्ण नाव आवश्यक आहे",
+          "limitation": "कृपया वैध नाव प्रविष्ट करा "
+        },
+        "whatsappNumberInputLabel": "व्हॉट्सअ‍ॅप नंबर",
+        "whatsappNumberPlaceholder": "व्हॉट्सअ‍ॅप नंबर प्रविष्ट करा ",
+        "whatsappNumberErrors": {
+          "limitation": "कृपया वैध व्हॉट्सअ‍ॅप नंबर प्रविष्ट करा "
+        },
+        "checkBoxLabel": "अपडेट्स मिळवा",
+        "locationLabel": "ठिकाण",
+        "locationErrors": {
+          "required": "ठिकाण आवश्यक आहे"
+        },
+        "emailInputLabel": "ईमेल",
+        "emailPlaceholder": "उदा: abc@gmail.com",
+        "emailErrors": {
+          "limitation": "कृपया वैध ईमेल ऍड्रेस प्रविष्ट करा "
+        },
+        "optionaltxt": "पर्यायी",
+        "whatsAppTxt": "व्हॉट्सअ‍ॅप वर."
+      },
+      "submitBtnTxt": "सबमिट करा"
+    },
+    "questionPage7": {
+      "title": "धन्यवाद!",
+      "subTitle": "तुमचा प्रतिसाद यशस्वीरित्या सबमिट केला गेला.",
+      "goHomeBtnTxt": "होम पेजवर जा"
+    }
+  },
+  "onboarding": {
+    "clickHere": "येथे क्लिक करा.",
+    "noticeHeading": "महत्त्वपूर्ण सूचना",
+    "noticePoint1": "अर्जाची संपूर्ण प्रक्रिया डिजिटल आहे.",
+    "noticePoint2": "अर्ज करण्यापूर्वी, अनिवार्य कागदपत्रे तयार असल्याची खात्री करा. अनिवार्य दस्तऐवजाच्या माहितीसाठी,",
+    "noticePoint3": {
+      "before" : "अर्जाची प्रक्रिया तपशीलवार समजून घेण्यासाठी कृपया",
+      "highLight" : "मार्गदर्शक व्हिडिओ",
+      "highLight2": "मार्गदर्शक व्हिडिओ",
+      "after" : "पहा."
+    },
+    "noticePoint4": {
+      "before" :"अर्ज नोंदणी शुल्क विना ",
+      "highLight" : "परतावा स्वरुपाचे (Non Refundable)",
+      "after" : "आहे. त्यामुळे अर्ज फेटाळला किंवा नाकारला गेला तर नोंदणी शुल्क परत केले जाणार नाही. ",
+      "subPoint1": "सर्वसमावेशक (खुला उत्पन्न गट) श्रेणीसाठी नोंदणी शुल्क: ₹ २,५००/- अधिक (+) जीएसटी",
+      "subPoint2": "प्रधानमंत्री आवास योजना (आर्थिक दुर्बल घटक) श्रेणीसाठी नोंदणी शुल्क: ₹ ५००/- अधिक (+) जीएसटी"
+    },
+    "noticePoint5": "कोणत्याही मदतीसाठी आम्हाला येथे कॉल करा",
+    "noticePoint5A": "(वेळ: सकाळी ८ ते रात्री १० वाजेपर्यंत)",
+    "acceptCondition": "मी सूचना वाचल्या आणि समजल्या",
+    "acceptConditionError": "कृपया खात्री करा, तुम्ही सूचना वाचल्या आहेत",
+    "journeyHeading": "'सिलेक्ट माय सिडको होम' साठी सोपे टप्पे ",
+    "step": "पायरी",
+    "journeySteps" :{
+      "step1" : "तुमची पात्रता तपासून घ्या",
+      "step2" : "पडताळणीसाठी स्व-प्रमाणित कागदपत्रे आणि प्रतिज्ञापत्र  अपलोड करा",
+      "step3" : "अर्ज नोंदणी शुल्क भरा",
+      "step4" : "तुमच्या आवडीचे घर निवडा आणि अनामत (बुकिंग) रक्कम भरणा करा",
+      "step5" : "तुम्ही निवडलेल्या घराचे वाटपपत्र मिळवा"
+    }
+  }
+}

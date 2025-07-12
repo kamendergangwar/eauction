@@ -1,0 +1,147 @@
+{
+  "categoryForm": {
+    "title": "श्रेणी निवडा",
+    "title2":"श्रेणीचा तपशील ",
+    "categoryAlertTxt": "आपण अर्ज नोंदणी शुल्क भरणा केले आहे. त्यामुळे आता तुम्ही भरलेल्या अर्जात कसलाही बदल करु शकत नाही.",
+    "castCategoryForm": {
+      "otherStatus": "तुमची रोजगार स्थिती प्रविष्ट करा",
+      "formControl": {
+        "caste": {
+          "casteLabel": "श्रेणी",
+          "requiredLabel": "अनिवार्य",
+          "noneBelowLavel": "खालीलपैकी नाही",
+          "options": {
+            "general": "सामान्य (जीपी)",
+            "sc": "शेड्यूल कास्ट/अनुसूचित जाती (एससी)",
+            "st": "शेड्यूल ट्राइब्स/अनुसूचित जमाती (एसटी)",
+            "nt": "नोमॅडिक ट्राइब्स/भटक्या जमाती (एनटी)",
+            "dt": "डिनोटीफाईड ट्राइब्स/अधिसूचित जमाती (डीटी)"
+          },
+          "casteCategoryErrors": {
+            "required": "प्रवर्ग श्रेणी/प्रवर्ग आवश्यक आहे"
+          }
+        },
+        "reservation": {
+          "reservationLabel": "आरक्षण श्रेणी",
+          "requiredLabel": "ऐच्छिक",
+          "options": {
+            "stateGovernmentEmployee": "राज्य सरकार कर्मचारी",
+            "jounalistOfNaviMumbai": "नवी मुंबईतील पत्रकार",
+            "cIDCOEmployees": "सिडको कर्मचारी",
+            "projectAffectedPerson": "नवी मुंबई परिसरातील प्रकल्पग्रस्त व्यक्ती",
+            "physicallyHandicap": "शारीरिकदृष्ट्या अक्षम",
+            "exServiceMen": "माजी सैनिक/संरक्षण कर्मचारी/अधिकारी",
+            "mathadi": "नवी मुंबईतील बाजारात काम करणारे माथाडी कामगार"
+          },
+          "resevationCategoryErrors": {
+            "required": "आरक्षण श्रेणी आवश्यक आहे"
+          }
+        },
+        "statutoryCatTxt": "वैधानिक श्रेणी",
+        "notStatutoryCatTxt": "गैर-वैधानिक श्रेणी",
+        "categoryHeading": "श्रेणी",
+        "flatCountHeading": "उपलब्ध घरे/सदनिका",
+        "applicableReligion": "अनुसरित धर्म लागू :",
+        "categoriesTitle": "श्रेणियाँ",
+        "availFlatCountTxt": "उपलब्ध फ्लैट की संख्या",
+        "selectReligion": "लागू असलेला धर्म निवडा",
+        "selectlocation": "ठिकाण निवडा",
+        "selectMilitaryType": "विभाग निवडा",
+        "religion": {
+          "Muslims" : "मुस्लिम",
+          "Christians" : "ख्रिश्चन",
+          "Zoroastrians" : "पारसी",
+          "Buddhist" : "बौद्ध धर्म",
+          "Jain" : "जैन",
+          "Sikhs" : "शीख"
+        },
+        "submitBtn": "पुढे",
+        "savingText": "जतन प्रक्रिया सुरु आहे......"
+      },
+      "multipleCategoryMessage": "तुम्ही अनेक श्रेणींमध्ये अर्ज करत आहात ",
+      "multipleCategoryDescription0": "लागू केलेल्या प्रत्येक श्रेणीसाठी स्वतंत्र अर्ज तयार केला जाईल",
+      "multipleCategoryDescription1": "श्रेणीनुसार प्रत्येक अर्जासाठी तुमच्याकडून स्वतंत्रपणे शुल्क आकारले जाईल",
+      "clickTxt": "क्लिक करा.",
+      "documentlistTxt": "आवश्यक कागदपत्रे सादर करण्याची जबाबदारी अर्जदारावर (तुमच्यावर) असेल. आवश्यक कागदपत्रांची यादी पाहण्यासाठी येथे",
+      "acknowledgeContent": "टीप:",
+      "acknowledgeLabel":"कृपया मान्य करा",
+      "acknowledgeErrors": {
+        "required": "कृपया आवश्यक कागदपत्रे सादर कराल, हे मान्य करा."
+      }
+    }
+  },
+  "helpCenterTxt": {
+    "helpTxt": "आवश्यक कागदपत्रे मिळविण्यासाठी कोणत्याही प्रकारची मदत हवी असल्यास तुमच्या जवळच्या",
+    "helpClickTxt": "क्लिक करा.",
+    "kendralistTxt": "‘आपले सरकार’ केंद्राशी संपर्क साधा. केंद्रांची यादी पाहण्यासाठी येथे"
+  },
+  "incomeGroupForm": {
+    "title": "उत्पन्नाचा तपशील",
+    "familyIncome": "निवडलेले कौटुंबिक उत्पन्न",
+    "incomeForm": {
+      "formControl": {
+        "occupation": {
+          "occupationLabel": "व्यवसाय",
+          "options": {
+            "agriculture": "शेती",
+            "business": "व्यवसाय",
+            "selfEmployed": "स्वयंरोजगार",
+            "service": "सेवा",
+            "other": "इतर"
+          },
+          "occupationErrors": {
+            "required": "व्यवसाय आवश्यक आहे "
+          }
+        },
+        "employment": {
+          "employementLabel": "रोजगाराची स्थिती",
+          "options": {
+            "selfEmployed": "स्वयंरोजगार",
+            "salaried": "पगारदार",
+            "regularWage": "रोजंदारी",
+            "labour": "श्रम",
+            "other": "इतर"
+          },
+          "employmentStatusErrors": {
+            "required": "रोजगाराची स्थिती नमूद करणे आवश्यक आहे"
+          },
+          "charactersNotAllowed": "विशेष वर्णांना परवानगी नाही"
+        },
+        "familyincomeInputLabel": "सरासरी मासिक कौटुंबिक उत्पन्न",
+        "familyincomePlaceholder": "सरासरी मासिक कौटुंबिक उत्पन्न",
+        "familyincomeErrors": {
+          "required": "कौटुंबिक उत्पन्न आवश्यक आहे",
+          "limitation": "Invalid icome",
+          "errorMessage1": "कुटुंबाचे सरासरी उत्पन्न ₹25,000 पर्यंत असावे",
+          "errorMessage2": "सरासरी कौटुंबिक उत्पन्न ₹ 50,001 ते ₹ 75,000 असावे",
+          "errorMessage3": "सरासरी कौटुंबिक उत्पन्न ₹25,000 च्या वर असावे"
+        },
+        "isITR": {
+          "isITRLabel": "Is ITR file?",
+          "checkBoxLabel0": "Yes",
+          "checkBoxLabel1": "No",
+          "isITRErrors": {
+            "required": "Required"
+          }
+        },
+        "incomeMessage": "उत्पन्न गट:",
+        "incomeDescription": "माहिती पुस्तिकेत दिल्याप्रमाणे सर्व स्त्रोतांकडून (फक्त दरमहा सरासरी पगार प्रविष्ट करा) अर्जदाराच्या कुटुंबाचे मागील १२ महिन्यांतील सरासरी मासिक उत्पन्न"
+      }
+    }
+  },
+  "completeLaterButtonText": "नंतर पूर्ण करा",
+  "backButtonText": "मागे",
+  "saveButtonText": "जतन करा आणि पुढे जा",
+  "ccConfirmTitle" : "श्रेणी बदलाची पुष्टी करा",
+  "makePaymentBtn": "पुढे जा",
+  "ccConfirmDesc" : "तुम्ही तुमची पूर्वी निवडलेली श्रेणी बदलण्याचा प्रयत्न करत आहात, असे केल्याने तुमचे पूर्वी अपलोड केलेले सर्व दस्तऐवज (जर असतील तर) काढून टाकले जातील आणि तुम्हाला नव्याने निवडलेल्या श्रेणीनुसार पुन्हा दस्तऐवज अपलोड करावे लागतील. तसेच तुम्हाला अर्ज शुल्काची परतफेड करावी लागेल ( पूर्वी पैसे दिले असल्यास).",
+  "confirmChangeText" : "ओटीपी सह बदलाची पुष्टी करा",
+  "confirmChangeNote" : "तुमची खात्री आहे की तुम्ही विद्यमान निवडलेली श्रेणी बदलू इच्छिता?",
+  "sendOtpText": "तुमच्या नोंदणीकृत मोबाईल नंबरवर एक ओटीपी पाठवण्यात आला आहे",
+  "enterOtpText": "ओटीपी टाका",
+  "sec": "सेकंद",
+  "submitBtn": "पुढे",
+  "cancelBtn": "रद्द करा",
+  "resendOtpText": "ओटीपी पुन्हा पाठवा",
+  "otpReqText": "ओटीपी आवश्यक आहे"
+}

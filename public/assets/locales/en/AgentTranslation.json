@@ -1,0 +1,15 @@
+{
+  "registerApplication": "Register Applicant",
+  "support": "Support",
+  "agentHeaderSection": {
+    "agentSideMenu": {
+      "home": "Home",
+      "profile": "Profile",
+      "applicationDashboard": "Application Dashboard",
+      "analytics": "Analytics",
+      "uploadLeads":"Upload Leads",
+      "changePassword": "Change Password",
+      "logout": "Logout"
+    }
+  }
+}

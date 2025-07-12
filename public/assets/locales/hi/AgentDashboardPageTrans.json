@@ -1,0 +1,57 @@
+﻿{
+  "importantDates": {
+    "title": "महत्वपूर्ण तिथियां"
+  },
+  "topNews": {
+    "title": "शीर्ष समाचार",
+    "readMore": "और पढ़ें"
+  },
+  "notifications": {
+    "title": "सूचनाएं",
+    "noData": "अभी तक कोई सूचना नहीं है। जब आपको सूचनाएं मिलेंगी, तो वे यहाँ  दिखाई देंगी"
+  },
+  "agentBrowseProjects": {
+    "title": "परियोजना ब्राउज़ करें",
+    "firstLineErrorMsg": "आपने अभी तक किसी भी प्रोजेक्ट के लिए आवेदन नहीं किया है।",
+    "secondLineErrorMsg": "आज ही आवेदन पत्र भरकर शुरू करें",
+    "actionButtonText": "प्रोजेक्ट देखें",
+    "filterSection": {
+      "bhkText": "बीएचके",
+      "locationLabel": "स्थान",
+      "subLocationLabel": "उप स्थान",
+      "projectTypeLabel": "परियोजना प्रकार",
+      "priceRangeLabel": "मूल्य सीमा",
+      "priceRangeOptions": {
+        "price1": "10-20 लाख",
+        "price2": "20-30 लाख",
+        "price3": "30-40 लाख",
+        "price4": "40-50 लाख"
+      }
+    },
+    "viewMoreDetailsBtnTxt": "अधिक विवरण देखें"
+  },
+  "projectForm": {
+    "title": "चयनित परियोजनाएं",
+    "deSelectButtonText": "परियोजना का चयन रद्द करें",
+    "selectButtonText": "परियोजना का चयन करें",
+    "moreDetailButtonText": "अधिक विवरण देखें",
+    "lessDetailButtonText": "कम विवरण देखें",
+    "bhkText": "बीएचके",
+    "sqftText": "स्क्वेअर फुट",
+    "projectTable": {
+      "tableTh0": "अवलोकन",
+      "tableTh1": "स्थान",
+      "tableTh2": "फोटो",
+      "tableTh3": "सुविधाएं",
+      "tableTh4": "फर्श योजना"
+    },
+    "overviewTable": {
+      "tableTh0": "ब्रोकरेज",
+      "tableTh1": "मूल्य",
+      "tableTh2": "कालीन क्षेत्र",
+      "tableTh3": "बेडरूम",
+      "tableTh4": "पार्किंग",
+      "tableTh5": "बालकनी"
+    }
+  }
+}

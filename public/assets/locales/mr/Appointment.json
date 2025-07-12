@@ -1,0 +1,55 @@
+{
+  "rescheduleAppointment": {
+    "title": "दस्तऐवज पडताळणी भेटीचे तपशील",
+    "appointmentCenterLabel": "नियुक्ती केंद्र",
+    "scheduledOnLabel": "वर शेड्यूल केले",
+    "scheduleBtn": "रीशेड्युल करा",
+    "cancelBtn": "रद्द केले",
+    "AppointmentModel": {
+      "cancelModel": {
+        "title": "अपॉइंटमेंट रद्द करा",
+        "descriptionContent": "तुमची खात्री आहे की तुम्ही तुमची शेड्यूल केलेली भेट रद्द करू इच्छिता?"
+      },
+      "rescheduleModel": {
+        "title": "अपॉइंटमेंट पुन्हा शेड्यूल करा",
+        "descriptionContent": "तुम्‍हाला खात्री आहे की तुम्‍हाला तुमच्‍या नियोजित अपॉइंटमेंटचे शेड्यूल रीशेड्युल करायचे आहे?"
+      },
+      "yesBtn": "होय",
+      "noBtn": "नाही"
+    }
+  },
+  "scheduleAppointment": {
+    "title": "तुमची अपॉइंटमेंट शेड्युल करा",
+    "title1": "तुमची अपॉइंटमेंट रीशेड्युल करा",
+    "docCenterTitle": "दस्तऐवज पडताळणी केंद्र",
+    "previousAppointmentTitle": "मागील नियुक्ती",
+    "currentAppointment": "सध्याची नियुक्ती",
+    "appointmentCenterLabel": "नियुक्ती केंद्र",
+    "scheduledOn": "पर्यंत वैध",
+    "validTillTxt": "आयडी",
+    "CancelledTxt": "रद्द केले",
+    "idTxt": "आईडी",
+    "Slot": {
+      "noSlot": "कोणतेही स्लॉट उपलब्ध नाहीत",
+      "yesSlot": "स्लॉट उपलब्ध आहे",
+      "bookBtn": "आता बुक करा",
+      "yourSessionTxt": "तुमचे सत्र कालबाह्य",
+      "kindlyselectTxt": "कृपया तुमचा स्लॉट पुन्हा निवडा",
+      "selectslotBtn": "तुमचा स्लॉट निवडा"
+    }
+  },
+  "bookSlot": {
+    "title": "तुमचा भेटीचा स्लॉट बुक करा",
+    "chooseSlotTxt": "स्लॉट निवडा",
+    "timeTxt": "वेळ",
+    "meetingDetailTxt": "बैठकीचे तपशील",
+    "appointmentDetailTxt": "भेटीचे तपशील",
+    "confirmBookingBtn": "बुकिंग निश्चित करा"
+  },
+  "appointmentSuccessfull": {
+    "title": "नियुक्ती यशस्वी झाली",
+    "descriptionTxt": "स्लॉट बुक केल्याबद्दल धन्यवाद, तुमचा अपॉइंटमेंट तपशील तुमच्या ईमेलवर आणि नोंदणीकृत मोबाईल क्रमांकावर पाठवला गेला आहे.",
+    "myAppointmentBtn": "माझ्या अपॉइंटमेंट्स",
+    "downloadReceiptBtn": "पावती डाउनलोड करा"
+  }
+}

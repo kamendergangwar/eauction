@@ -1,0 +1,237 @@
+﻿{
+  "title": "व्यक्तिगत जानकारी",
+  "personalDetailsForm": {
+    "formControl": {
+      "dob": {
+        "dobLabel": "जन्म की तारीख",
+        "dobPlaceholder": "दिन/महीना/साल",
+        "dobExample": "उदाहरण: २५/१२/१९९८",
+        "dobErrors": {
+          "required": "जन्म तारीख आवश्यक है",
+          "eligibleText": "यदि आपकी आयु १८ वर्ष से कम है, तो आप इस योजना के लिए आवेदन करने के पात्र नहीं हैं।"
+        }
+      },
+      "maritalStatus": {
+        "maritalStatusLabel": "वैवाहिक स्थिति",
+        "options": {
+          "single": "एकल",
+          "married": "विवाहित",
+          "divorced": "तलाकशुदा",
+          "widow": "विधवा",
+          "widower": "विधुर"
+        },
+        "maritalStatusErrors": {
+          "required": "वैवाहिक स्थिति आवश्यक"
+        }
+      },
+      "whatsappNumberInputLabel": "व्हॉट्सअ‍ॅप नंबर",
+      "whatsappNumberPlaceholder": "व्हॉट्सअ‍ॅप नंबर दर्ज करें",
+      "whatsappNumberErrors": {
+        "limitation": "कृपया वैध व्हॉट्सअ‍ॅप नंबर दर्ज करें"
+      },
+      "checkBoxLabel1": "व्हॉट्सअ‍ॅप पर अपडेट प्राप्त करने के लिए। ",
+      "emailInputLabel": "ईमेल ऍड्रेस",
+      "emailPlaceholder": "ईमेल ऍड्रेस दर्ज करें",
+      "emailErrors": {
+        "limitation": "कृपया वैध ईमेल ऍड्रेस दर्ज करें",
+        "required": "वैध ईमेल आयडी आवश्यक है "
+      },
+      "emailConInputLabel": "ईमेल एड्रेस की पुष्टि करें",
+      "emailConPlaceholder": "ईमेल एड्रेस की पुष्टि करें",
+      "emailConErrors": {
+        "limitation": "कृपया वैध ईमेल आयडी दर्ज करें",
+        "required": "वैध ईमेल आयडी की पुष्टि करें"
+      },
+      "optionaltxt": "वैकल्पिक",
+      "whatsAppTxt": "",
+      "isPostalAddSameTxt": "क्या आपका पोस्टल ऍड्रेस/पता आधार कार्ड के पते के समान है?",
+      "isPostalAddSameSubTxt": "(आपको सभी जानकारी दी गयी ईमेल आईडी/पते पर भेज दी जायेगी)",
+      "myCurrentAddressTxt": "मेरा वर्तमान संपर्क पता:",
+      "isPostalAddYesTxt": "हाँ ",
+      "isPostalAddNoTxt": "नहीं।",
+      "viewAddBtntxt": "पता दिखाएं",
+      "ageTxt": "आयु",
+      "maleTxt": "पुरुष",
+      "femaleTxt": "स्त्री",
+      "verifyEmail": "ईमेल सत्यापित करें", 
+      "verifyEmailAlert": "कृपया ईमेल पता सत्यापित करें",
+      "emailVerificationTxt": "ईमेल - आईडी सत्यापन",
+      "verificationCheckEmailTxt": "कृपया अपना ईमेल जांचें, मेल पर प्राप्त ओटीपी की प्रतिलिपि बनाएं और इसे नीचे टेक्स्टबॉक्स में दर्ज करें.",
+      "getOtpButtonText": "इस ईमेल पर ओटीपी भेजा गया है : ",
+      "submitBtn": "प्रस्तुत करें",
+      "cancelBtn": "रद्द करें",
+      "enterOtpText": "कृपया ओटीपी दर्ज करें",
+      "otpReqText": "ओटीपी आवश्यक है",
+      "emailVerified": "सत्यापित",
+      "emailVerificationCompleted": "ईमेल सफलतापूर्वक सत्यापित!",
+      "resendOtpText": "ओटीपी पुनः भेजें",
+      "sec": "सेकंड"
+    }
+  },
+  "completeLaterButtonText": "COMPLETE LATER",
+  "backButtonText": "डॅशबोर्ड पर जाएं",
+  "savingLoaderTxt": "जानकारी सहेजी जा रही है. . . ",
+  "saveButtonText": "आगे",
+  "addPostalAddressModal": {
+    "title": "पता दर्ज़ करें",
+    "subTitle": "अपना मौजूदा पता दर्ज़ करें",
+    "formControl": {
+      "addressLine1Label": "पता: पहली पंक्ति",
+      "addressLine1Placeholder": "फ्लैट, मकान नं., भवन, अपार्टमेंट",
+      "addressLine1Errors": {
+        "required": "पता: पहली पंक्ति आवश्यक है"
+      },
+      "charactersNotAllowed": "विशेष वर्णों की अनुमति नहीं है",
+      "addressLine2Label": "पता: दुसरी पंक्ति",
+      "addressLine2Placeholder": "क्षेत्र, कॉलोनी, रोड, सेक्टर, गांव",
+      "postalCodeLabel": "पिन कोड",
+      "postalCodePlaceholder": "उदाहरण: ४०० ९८७",
+      "postalCodeErrors": {
+        "required": "पिन कोड आवश्यक है",
+        "limitation": "कृपया वैध पिन कोड दर्ज करें"
+      },
+      "cityTownLabel": "शहर",
+      "cityTownPlaceholder": "कृपया शहर/कस्बा दर्ज करें",
+      "cityTownErrors": {
+        "required": "शहर आवश्यक है"
+      },
+      "districtLabel": "जिला",
+      "districtErrors": {
+        "required": "जिला आवश्यक है"
+      },
+      "stateLabel": "राज्य",
+      "stateErrors": {
+        "required": "राज्य आवश्यक है"
+      },
+      "submitBtnTxt": "सहेजें "
+    }
+  },
+  "coApplicant": {
+    "title": "सह-आवेदक जोड़ें",
+    "optionalTxt": "वैकल्पिक",
+    "wantAddCoApplicantTxt": "सह-आवेदक जोड़ना चाहते हैं?",
+    "addCoApplicantBtnTxt": "सह-आवेदक जोड़ें",
+    "coApplicantBenefitsTitle": "सह-आवेदक जोड़ने के लाभ",
+    "benefitsListOfPoints": {
+      "point1": "संयुक्त होम लोन/गृह ऋण में, आप एक अन्य सह-आवेदक को जोड़ सकते हैं जो प्राथमिक आवेदक के साथ होम लोन के भुगतान की जिम्मेदारी ले सकता है। ऋण दायित्व दोनों की सामूहिक जिम्मेदारी होगी। आम तौर पर, संयुक्त होम लोन/गृह ऋण के सह-आवेदक माता, पति या पत्नी, बच्चे और भाई-बहन और इनके साथ ही परिवार के तत्काल सदस्य इनकी होने की संभावना अधिक होती है।",
+      "point2": "व्यक्तिगत होम लोन की तुलना में जॉइंट होम लोन लेने पर विचार करने के कई अतिरिक्त लाभ हैं। इनमें उच्च ऋण राशि पात्रता, कम ब्याज दरें और अन्य आयकर लाभ शामिल हैं।",
+      "point3": "सभी आवेदकों को भले ही वे कमाते हों या नहीं, या वे संपत्ति के सह-मालिक हों, अपने केवायसी दस्तावेज प्रदान करने की आवश्यकता है।"
+    },
+    "skipBtnText": "इस चरण को छोड़ दें",
+    "relationshipInputLabel": "आवेदक से रिश्ता",
+    "relationshipOptions": {
+      "spouse": "पति / पत्नी",
+      "son": "Son",
+      "daughter": "Daughter",
+      "father": "Father",
+      "mother": "माँ",
+      "sister": "Sister",
+      "brother": "Brother",
+      "grandFather": "Grandfather",
+      "grandMother": "Grandmother",
+      "grandSon": "Grandson",
+      "grandDaughter": "Granddaughter"
+    },
+    "relationshipErrors": {
+      "required": "कृपया संबंध चुनें"
+    },
+    "skipCoApplicant": {
+      "title": "क्या आप वाकई इस चरण को छोड़ना चाहते हैं?",
+      "description": "कृपया ध्यान रखें की यदि आप इस चरण को छोड़ देते हैं, तो बाद में सह-आवेदक को जोड़ने या हटाने के लिए आपको अतिरिक्त शुल्क देना होगा।",
+      "yes": "हाँ",
+      "no": "नहीं"
+    },
+    "addDetailsSection": {
+      "title": "केवल सह-आवेदक की जानकारी दें",
+      "removeBtnTxt": "सह-आवेदक को हटाएं",
+      "card1Title": "केवाईसी जानकारी",
+      "card2Title": "व्यक्तिगत जानकारी",
+      "card3Title": "पता",
+      "addBtnTxt": "जोड़ें",
+      "editBtnTxt": "सुधारें",
+      "viewBtnTxt": "व्ह्यू/ देखें"
+    },
+    "addPersonalDetailsForm": {
+      "title": "सह-आवेदक की व्यक्तिगत जानकारी जोड़ें",
+      "formControl": {
+        "fullNameLabel": "सह-आवेदक का पूरा नाम",
+        "fullNamePlaceholder": "यहाँ नाम लिखें",
+        "fullNameErrors": {
+          "required": "सह-आवेदक का पूरा नाम",
+          "limitation": "कृपया वैध नाम दर्ज करें"
+        },
+        "dob": {
+          "dobLabel": "जन्म की तारीख",
+          "dobPlaceholder": "दिन/महीना/साल",
+          "dobErrors": {
+            "required": "जन्म तारीख आवश्यक है",
+            "eligibleText": "यदि आपकी आयु १८ वर्ष से कम है, तो आप इस योजना के लिए आवेदन करने के पात्र नहीं हैं।"
+          }
+        },
+        "mobileNumberInputLabel": "मोबाइल नंबर",
+        "mobileNumberPlaceholder": "10 अंकों का मोबाइल नंबर दर्ज करें",
+        "mobileNumberErrors": {
+          "required": "मोबाईल नंबर आवश्यक है",
+          "limitation": "कृपया एक वैध मोबाईल नंबर दर्ज करें"
+        },
+        "emailInputLabel": "ई-मेल",
+        "emailPlaceholder": "उदाहरण: abc@gmail.com",
+        "emailIdErrors": {
+          "required": "ईमेल आईडी आवश्यक है",
+          "limitation": "कृपया एक वैध ई - मेल एड्रेस डालें"
+        }
+      },
+      "saveBtnTxt": "सहेजें "
+    },
+    "addAddressDetailsForm": {
+      "title": "सह-आवेदक का पता दर्ज़ करें",
+      "subTitle": "नीचे अपने सह-आवेदक का वर्तमान पता दर्ज़ करें",
+      "formControl": {
+        "addressLine1Label": "पता: पहली पंक्ति",
+        "addressLine1Placeholder": "फ्लैट, मकान नं., भवन, अपार्टमेंट",
+        "addressLine1Errors": {
+          "required": "पता: पहली पंक्ति आवश्यक है"
+        },
+        "charactersNotAllowed": "विशेष वर्णों की अनुमति नहीं है",
+        "addressLine2Label": "पता: दुसरी पंक्ति",
+        "addressLine2Placeholder": "क्षेत्र, कॉलोनी, रोड, सेक्टर, गांव",
+        "postalCodeLabel": "पिन कोड",
+        "postalCodePlaceholder": "उदाहरण: ४०० ९८७",
+        "postalCodeErrors": {
+          "required": "पिन कोड आवश्यक है",
+          "limitation": "कृपया वैध पिन कोड दर्ज करें"
+        },
+        "cityTownLabel": "शहर",
+        "cityTownPlaceholder": "कृपया शहर/कस्बा दर्ज करें",
+        "cityTownErrors": {
+          "required": "शहर आवश्यक है"
+        },
+        "districtLabel": "जिला",
+        "districtErrors": {
+          "required": "जिला आवश्यक है"
+        },
+        "stateLabel": "राज्य",
+        "stateErrors": {
+          "required": "राज्य आवश्यक है"
+        }
+      },
+      "saveBtnTxt": "सहेजें "
+    },
+    "kycDetailsView": {
+      "title": "केवायसी",
+      "aadhaarDetails": {
+        "title": "आधार जानकारी",
+        "aadhaarNumberLabel": "आधार नंबर",
+        "nameLabel": "नाम",
+        "genderLabel": "लिंग",
+        "addressLabel": "पता"
+      },
+      "panCardDetails": {
+        "title": "पॅन जानकारी",
+        "panNumberLabel": "पॅन नंबर",
+        "nameLabel": "नाम",
+        "genderLabel": "लिंग"
+      }
+    }
+  }
+}

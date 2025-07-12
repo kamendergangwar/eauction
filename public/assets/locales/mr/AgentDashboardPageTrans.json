@@ -1,0 +1,57 @@
+{
+  "importantDates": {
+    "title": "महत्त्वाच्या तारखा"
+  },
+  "topNews": {
+    "title": "शीर्ष बातम्या",
+    "readMore": "अधिक वाचा"
+  },
+  "notifications": {
+    "title": "सूचना",
+    "noData": "अद्याप कोणत्याही सूचना नाहीत. जेव्हा तुम्हाला सूचना मिळतील, तेव्हा त्या येथे दिसतील"
+  },
+  "agentBrowseProjects": {
+    "title": "प्रकल्प ब्राउझ करा (प्रकल्प वाचा) ",
+    "firstLineErrorMsg": "आपण अद्याप कोणत्याही प्रकल्पांसाठी अर्ज केलेला नाही.",
+    "secondLineErrorMsg": "आजच अर्ज भरुन प्रारंभ करा",
+    "actionButtonText": "प्रकल्प पहा",
+    "filterSection": {
+      "bhkText": "बीएचके",
+      "locationLabel": "स्थान",
+      "subLocationLabel": "उप स्थान",
+      "projectTypeLabel": "प्रकल्प प्रकार",
+      "priceRangeLabel": "किंमत श्रेणी",
+      "priceRangeOptions": {
+        "price1": "10-20 लाख",
+        "price2": "20-30 लाख",
+        "price3": "30-40 लाख",
+        "price4": "40-50 लाख"
+      }
+    },
+    "viewMoreDetailsBtnTxt": "अधिक तपशील पहा"
+  },
+  "projectForm": {
+    "title": "निवडलेले प्रकल्प",
+    "deSelectButtonText": "प्रोजेक्टची निवड रद्द करा",
+    "selectButtonText": "प्रकल्प निवडा",
+    "moreDetailButtonText": "अधिक तपशील पहा",
+    "lessDetailButtonText": "कमी तपशील पहा",
+    "bhkText": "बीएचके",
+    "sqftText": "चौरस फुट",
+    "projectTable": {
+      "tableTh0": "विहंगावलोकन",
+      "tableTh1": "स्थाने",
+      "tableTh2": "फोटो",
+      "tableTh3": "सुविधा",
+      "tableTh4": "मजल्याची योजना"
+    },
+    "overviewTable": {
+      "tableTh0": "ब्रोकरेज",
+      "tableTh1": "किंमत",
+      "tableTh2": "कारपेट एरिया",
+      "tableTh3": "बेडरूम",
+      "tableTh4": "पार्किंग",
+      "tableTh5": "बाल्कनी"
+    }
+  }
+}

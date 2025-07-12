@@ -1,0 +1,403 @@
+﻿{
+  "dashboard": {
+    "titleTxt1": "",
+    "titleTxt2": "अपने सपनों को साकार करने के लिए इस मौके का फायदा उठाये",
+    "latestUpdatesTitleTxt": "नए अपडेट्स",
+    "recentPostTitleTxt": "रिसेन्ट पोस्ट",
+    "myApplicationTxt": "मेरा आवेदन ",
+    "trackAppTxt": "अपने संपूर्ण आवेदन की प्रगति को जानें",
+    "lastUpdateTxt": "पिछले बदलाव की तारीख :",
+    "ageTxt": "आयु",
+    "maleTxt": "पुरुष",
+    "femaleTxt": "स्त्री",
+    "completedTxt": "संपूर्ण",
+    "inProgressTxt": "जारी है",
+    "goToProfileBtn": "निजी प्रोफाइल पे जाए",
+    "rejectedDocTxt": "आपके कुछ दस्तावेज़ को अस्वीकार कर दिया गया है। कृपया पुनः अपलोड करें ",
+    "docVerificationProgressTxt": "दस्तावेज़ सत्यापन कि स्थिति (जारी है)",
+    "docVerificationUnderVerificationTxt": "आपके दस्तावेज़ अभी सत्यापन प्रक्रिया में है। सत्यापन प्रक्रिया ७ कार्यालयीन दिन में पूरी की जाएगी।",
+    "docVerifiedCompleteTxt": "बधाई हो! आपके दस्तावेज़ सत्यापन की प्रक्रिया पूरी हो गई है। ",
+    "contiToBookFlatTxt": "कृपया अपना पसंदीदा फ्लैट बुक करना जारी रखें",
+    "redirectionBtnTxt": {
+      "signUp": "साइन अप करें",
+      "completeKyc": "अपना केवाईसी पूरा करें",
+      "personalDetail": "व्यक्तिगत जानकारी जोड़ें",
+      "addCoApplicant": "सह-आवेदक जोड़ें",
+      "addCategory": "श्रेणी  की जानकारी जोड़ें",
+      "uploadDoc": "अपने दस्तावेज़ अपलोड करें",
+      "appPayment": "आवेदन शुल्क का भुगतान करें",
+      "bookFlat": "अपना फ्लैट बुक करें",
+      "flatPayment": "फ्लैट बुकिंग राशि का भुगतान करें",
+      "myProfile": "माय प्रोफाइल पर जाएं"
+    }
+  },
+  "importantDates": {
+    "title": "महत्वपूर्ण तिथियां",
+    "readMore": "और पढ़ें"
+  },
+  "topNews": {
+    "readMore": "और पढ़ें"
+  },
+  "banner1": {
+    "title": "नमस्ते!",
+    "category": "नया",
+    "subTitle": "02 नवंबर, 2021 को लागू परियोजनाओं के लिए आपका पंजीकरण पूरा हो गया है।",
+    "link": "दस्तावेज़ अपलोड करने के लिए यहां क्लिक करें",
+    "btnText": "अभी बुक करें"
+  },
+  "banner2": {
+    "title": "नमस्ते!",
+    "category": "नया",
+    "subTitle": "आपका आवंटन पत्र तैयार है, पत्र प्राप्त करने के लिए अपॉइंटमेंट बुक करें।",
+    "btnText": "अभी बुक करें"
+  },
+  "banner3": {
+    "title": "बधाई हो! आपने एक घर जीता",
+    "subTitle": "अपने मूल दस्तावेजों को सत्यापित करने के लिए अपॉइंटमेंट बुक करें, अपॉइंटमेंट बुक करने के लिए 'अभी बुक करें' पर क्लिक करें।",
+    "btnText": "अभी बुक करें"
+  },
+  "banner5": {
+    "title": "दुर्भाग्य से, आप हार गए!",
+    "category": "रिफंड शुरू किया जाना है|",
+    "subTitle1": "आप अगली योजना के लिए पुनः प्रयास कर सकते हैं",
+    "subTitle2": "वापसी योग्य पंजीकरण शुल्क 10 से 15 कार्यदिवसों में आपके खाते में वापस कर दी जाएगी"
+  },
+  "banner6": {
+    "tittle": "पंजीकरण बंद।",
+    "subTitle1": "PMAY योजना 2023 के लिए लॉटरी आवेदन जमा करने का आपका अवसर अब बंद हो गया है।",
+    "subTitle2": " 2023 की आगामी योजनाओं के बारे में जानने के लिए हमारी वेबसाइट पर जाएँ,",
+    "subTitle3": "और अधिक जानें।"
+  },
+  "notifications": {
+    "title": "सूचनाएं",
+    "viewAll": "सभी देखें",
+    "noData": "अभी तक कोई सूचना नहीं है। जब आपको सूचनाएं मिलेंगी, तो वे यहां दिखाई देंगी",
+    "todayLabel": "आज",
+    "earlierLabel": "पूर्व"
+  },
+  "userProjects": {
+    "applied": {
+      "title": "प्रगति अनुप्रयोगों में",
+      "applyNewProjectBtnTxt": "नई परियोजना के लिए आवेदन करें",
+      "editDocumentsBtnTxt": "दस्तावेज़ संपादित करें",
+      "goUploadDocumentsBtnTxt": "अपलोड डॉक्युमेंट्स पर जाएँ",
+      "uploadDocsPendingStatusTxt": "दस्तावेज़ अपलोड करना अभी भी पेंडिंग है",
+      "projectAppNoLabel": "आवेदन संख्या.",
+      "requiredDocumentCountLabel": "अपलोड किए गए दस्तावेज़",
+      "applicationStatusValTxt": {
+        "saved": "सहेजा गया",
+        "completed": "पूर्ण",
+        "rejected": "अस्वीकृत",
+        "verified": "सत्यापित",
+        "winner": "बुक किया",
+        "waiting": "प्रतीक्षा",
+        "lost": "खोया",
+        "delete": "हटाएं"
+      },
+      "appliedCatLabel": "श्रेणी लागू",
+      "viewAppBtnText": "आवेदन देखें",
+      "uploadDocumentBtnText": "दस्तावेज़ अपलोड करें",
+      "paymentPendingStatusTxt": "पेमेंट पेंडिंग",
+      "continuePaymentBtnTxt": "चुकाने के लिए कार्रवाई शुरू करो",
+      "downloadEchallanBtn": "ई - चालान डाऊनलोड करें",
+      "orTxt": "या"
+    },
+    "saved": {
+      "title": "पूर्ण किए गए आवेदन",
+      "titleHelpText": "एक बार आपका अभी का आवेदन पूरा हो जाने के बाद आप एक नया आवेदन भरना शुरू कर सकते हैं।",
+      "noDataHelpText": "Click on ‘Start Applying’ to start filling the application Form",
+      "noDataStartApplyBtnTxt": "Start Applying",
+      "lastUpatedDateLabel": "अंतिम बार अपडेट किया गया",
+      "appStatusLabel": "Application Status",
+      "progressStatusText": {
+        "completed": "पूर्ण",
+        "pending": "प्रतीक्षा"
+      },
+      "applyNewBtnText": "नया आवेदन करें",
+      "prcdToCompleteBtnTxt": "पूरा करने के लिए आगे बढ़ें",
+      "mainStepperSection": {
+        "step1": "व्यक्तिगत जानकारी",
+        "step2": "श्रेणी  की जानकारी",
+        "step3": "कागदपत्रे सबमिट करा",
+        "step4": "भुगतान करें"
+      }
+    },
+    "projectSatus": {
+      "step1": {
+        "label0": "व्यक्तिगत ",
+        "label1": "विवरण"
+      },
+      "step2": {
+        "label0": "श्रेणी ",
+        "label1": "विवरण"
+      },
+      "step3": {
+        "label0": "दस्तावेज़ ",
+        "label1": "घोषणा"
+      },
+      "step4": {
+        "label0": "भुगतान ",
+        "label1": "करो"
+      },
+      "step5": {
+        "label0": "दस्तावेज़ ",
+        "label1": "अपलोड करें"
+      }
+    },
+    "grievance": {
+      "title": "मेरी शिकायत"
+    }
+  },
+  "grievanceForm": {
+    "title": "शिकायत प्राप्त",
+    "homeSection": {
+      "text1": "मुश्किलों का सामना करना पड़ रहा है? हमें आपकी सहायता करने में खुशी होगी!",
+      "text2": "आगे बढ़ने के लिए 'मेरी शिकायत दर्ज करें' पर क्लिक करें।",
+      "raiseMyGrievanceBtnTxt": "मेरी शिकायत दर्ज करें",
+      "orTxt": "या",
+      "trackMyGrievanceBtnTxt": "मेरी शिकायत को ट्रैक करें",
+      "noDataErrorMsgTxt": "आपने अभी तक कोई शिकायत नहीं दर्ज की है!",
+      "userInfoText": "यदि आपको कोई चिंता, समस्या या शिकायत है तो आप शिकायत दर्ज कर सकते हैं।",
+      "userNoteText": "पोर्टल पर शिकायत दर्ज करते समय किसी भी तकनीकी समस्या/प्रश्न के लिए कृपया हेल्पलाइन १८०० १२० ८०४० पर संपर्क करें।"
+    },
+    "formControl": {
+      "title": "से शिकायत",
+      "fullNameLabel": "पूरा नाम",
+      "fullNamePlaceholder": "अपना पूरा नाम भरें",
+      "fullNameErrors": {
+        "required": "पूरा नाम आवश्यक है"
+      },
+      "emailIdLabel": "ईमेल एड्रेस",
+      "emailIdPlaceholder": "ईमेल एड्रेस दर्ज करें",
+      "emailIdErrors": {
+        "required": "ईमेल आईडी आवश्यक है",
+        "limitation": "कृपया एक वैध ई - मेल एड्रेस डालें"
+      },
+      "mobileNumberLabel": "मोबाइल नंबर",
+      "mobileNumberPlaceholder": "मोबाइल नंबर दर्ज करें",
+      "mobileNumberErrors": {
+        "required": "मोबाइल नंबर चाहिए",
+        "limitation": "कृपया एक मान्य मोबाइल नंबर दर्ज करें"
+      },
+      "grievanceCategoryLabel": "शिकायत श्रेणी",
+      "grievanceCategoryErrors": {
+        "required": "शिकायत श्रेणी आवश्यक है"
+      },
+      "grievanceTypeLabel": "शिकायत प्रकार",
+      "grievanceTypeErrors": {
+        "required": "शिकायत प्रकार आवश्यक है"
+      },
+      "grievanceDescriptionLabel": "शिकायत विवरण",
+      "grievanceDescriptionPlaceholder": "कृपया एक विस्तृत जानकारी प्रदान करें।",
+      "grievanceDescriptionErrors": {
+        "required": "शिकायत विवरण आवश्यक है"
+      },
+      "UploadImage": "तस्वीर अपलोड करें",
+      "uploadButtonText": "अपलोड करें",
+      "reUploadButtonText": "फिर से अपलोड करें",
+      "fileUploadDescription": "या तस्वीर ड्रॅग और ड्रॉप करें",
+      "fileUploadConditionsText": "केवल .Jpg, .Jpeg, .पीडीएफ प्रारूप समर्थित और अधिकतम फ़ाइल आकार: 5 एमबी",
+      "uploadErrors": {
+        "required": "फ़ाइल की आवश्यकता है",
+        "limitation": "बहुत बड़ी फाइल",
+        "fileFormat": "असमर्थित प्रारूप"
+      },
+      "submitButtonText": "बचा ले",
+      "backButtonText": "वापस",
+      "charactersNotAllowed": "विशेष वर्णों की अनुमति नहीं है"
+    },
+    "step1Info": {
+      "title": "अपनी शिकायत कैसे दर्ज करें",
+      "step1": "रीझ माय ग्रीवन्स' पर क्लिक करें।",
+      "step2": "अपनी शिकायत श्रेणी का चयन करें और टाइप करें",
+      "step3": "हमारी बेहतर समझ के लिए यदि लागू हो तो समस्या की एक फोटो अपलोड करें",
+      "step4": "बैठे रहें और हम आपकी समस्या का समाधान करेंगे या २४ घंटे के भीतर इसे हल करने के लिए आपसे वापस जुड़ेंगे।"
+    },
+    "step2nfo": {
+      "title": "फोटो अपलोड करें",
+      "questionText": "शिकायत के लिए फोटो कैसे अपलोड करें?",
+      "step1": "फोटो या दस्तावेज़ अटैच करने के लिए 'अपलोड' पर क्लिक करें।",
+      "step2": "अपलोड किया गया दस्तावेज़ जेपीजी/पीडीएफ/पीएनजी फॉर्मेट का हो सकता है।",
+      "step3": "अधिकतम फ़ाइल आकार की अनुमति ५ एमबी है।"
+    },
+    "thankYouForm": {
+      "thankYouText": "धन्यवाद!",
+      "subText": "आपकी शिकायत",
+      "subText1": "पर दर्ज कर ली गई है",
+      "grievanceNumberLabel": "शिकायत संख्या",
+      "grievanceNumberPlaceholder": "शिकायत संख्या",
+      "grievanceNumberErrors": {
+        "required": "शिकायत संख्या आवश्यक है"
+      },
+      "trackButtonText": "मेरी शिकायत ट्रैक करें",
+      "newGrevianceButtonText": "नई शिकायत करें"
+    }
+  },
+  "trackGrievanceTable": {
+    "title": "शिकायत ट्रैक करें",
+    "raiseNewGrievanceBtnTxt": "नई शिकायत दर्ज करें",
+    "filterSection": {
+      "searchByUniqueNumberLabel": "अद्वितीय शिकायत संख्या द्वारा खोजें",
+      "grievanceTypeLabel": "शिकायत प्रकार",
+      "grievanceStatusLabel": "शिकायत स्थिति"
+    },
+    "table": {
+      "tableTh0": "शिकायत संख्या",
+      "tableTh1": "शिकायत प्रकार",
+      "tableTh2": "Reg. दिनांक",
+      "tableTh3": "स्थिति",
+      "tableTh4": "टिप्पणी",
+      "tableTh5": "देखें"
+    },
+    "actionBtnTxt": "देखें"
+  },
+  "grievanceTabDefaultSection": {
+    "firstLineErrorMsg": "आपने अभी तक कोई शिकायत नहीं की है।",
+    "secondLineErrorMsg": "शिकायत फॉर्म भरकर नया उठाएं।",
+    "actionButtonText": "नई शिकायत उठाएं"
+  },
+  "appliedSavedTabDefaultSection": {
+    "firstLineErrorMsg": "आपने अभी तक किसी भी परियोजना के लिए आवेदन नहीं किया है।",
+    "secondLineErrorMsg": "आज ही आवेदन पत्र भरकर शुरुआत करें",
+    "actionButtonText": "प्रोजेक्ट देखें"
+  },
+  "grievanceDetailsSection": {
+    "title": "शिकायत विवरण",
+    "commentTitle": "टिप्पणी",
+    "grievanceStatusTxt": "प्रगति में",
+    "formControl": {
+      "fullNameLabel": "पूरा नाम",
+      "emailLabel": "ईमेल",
+      "mobileNumberLabel": "मोबाइल नंबर",
+      "grievanceCategoryLabel": "शिकायत श्रेणी",
+      "grievanceTypeLabel": "शिकायत प्रकार",
+      "grievanceDescriptionLabel": "शिकायत विवरण",
+      "clickToOpenBtnTxt": "खोलने के लिए क्लिक करें"
+    },
+    "commentSectionForm": {
+      "addCommentPlaceholder": "एक टिप्पणी जोड़ें",
+      "postBtnTxt": "पोस्ट करें",
+      "markAsResolvedBtnTxt": "के रूप में हल किया गया चिह्नित करें"
+    }
+  },
+  "userjourney": {
+    "stepper": {
+      "stage1": {
+        "title": "1",
+        "ApplicantSignUp": "आवेदक पंजीकरण",
+        "AadhaarCard": "आधार कार्ड",
+        "PanCard": "पैन कार्ड"
+      },
+      "stage2": {
+        "title": "2",
+        "Personaldetails": "व्यक्तिगत जानकारी ",
+        "Addapplicant": "सह-आवेदक जोड़ें",
+        "CategoryDetails": "श्रेणी  की जानकारी"
+      },
+      "stage3": {
+        "title": "3",
+        "DocumentsUpload": "दस्तावेज़ अपलोड करें",
+        "Applicationpayment": "आवेदन भुगतान",
+        "DocumentVerification": "दस्तावेज़ सत्यापन"
+      },
+      "stage4": {
+        "title": "4",
+        "DocumentVerification": "फ्लैट का चयन करें",
+        "FlatPayment": "फ्लैट भुगतान",
+        "LOIGeneration": "आशयपत्र निर्मिति"
+      },
+      "stage5": {
+        "title": "5",
+        "AllotmentLetter": "आवंटन पत्र",
+        "NOC": "अनापत्ति प्रमाण पत्र",
+        "EMIs": "किश्तें "
+      }
+    },
+    "ApplicantSignup": {
+      "title": "आवेदक पंजीकरण करें",
+      "ApplicantID": "आवेदक आईडी",
+      "CreatedOn": "खाता बनाने की तारीख",
+      "AadhaarLabel": "आधार संख्या",
+      "PANLabel": "पैन संख्या",
+      "AaadharVerified": "आधार सत्यापित"
+    },
+    "ApplicantDetails": {
+      "title": "आवेदक की जानकारी",
+      "FirstName": "प्रथम आवेदक",
+      "ContactDetails": "सम्पर्क करने की जानकारी",
+      "CategoryLabel": "वर्ग",
+      "CoApplicant": "सह-आवेदक",
+      "pmayLablel": "पीएमएवाई (PMAY)",
+      "nonPmayLabel": "नॉन पीएमएवाई (Non-PMAY)"
+    },
+    "DocumentVerification": {
+      "title": "दस्तावेज़ सत्यापन",
+      "DocumentLabel": "दस्तावेज़ अपलोड किया गया",
+      "UploadBtn": "अपलोड करें",
+      "ApplicationFee": "आवेदन शुल्क प्राप्त हुआ",
+      "reason": "कारण :",
+      "DownloadReceipt": "रसीद डाउनलोड करें",
+      "docUploadTxt": "दस्तावेज़ अपलोड किया गया",
+      "EditTxt": "सुधारें",
+      "UploadTxt": "अपलोड",
+      "reuploadedTxt" : "सफलतापूर्वक पुनः अपलोड किया गया"
+    },
+    "FlatBooking": {
+      "title": "फ्लैट चुने",
+      "BookedFlat": "बुक किया हुआ फ्लैट",
+      "BookedLabel": "बुक किया",
+      "UnitNoLabel": "फ्लैट नं.",
+      "selectedFlatLabel": "चयनित फ्लैट",
+      "FloorNo": "मंजिल नं.",
+      "unitTypeLabel": "प्रकार",
+      "unitPriceLabel": "किंमत",
+      "RERAArea": "रेरा कारपेट एरिया",
+      "SQFT": "स्क्वेअर फुट",
+      "TowerNo": "टॉवर  नं.",
+      "Tower": "टॉवर नं.",
+      "FlatAmountLabel": "फ्लैट बुकिंग राशि",
+      "ReceivedLabel": "प्राप्त",
+      "TXNId": "ट्रैन्ज़ैक्शन आईडी",
+      "Date": "तारीख",
+      "BookingAmount": "फ्लैट बुकिंग राशि:",
+      "DownloadappBtn": "आवेदन पत्र डाउनलोड करें",
+      "DownloadRecBtn": "रसीद डाउनलोड करें",
+      "MyTransactions": "मेरा ट्रैन्ज़ैक्शन",
+      "LetterIntent": "आशयपत्र (LOI)",
+      "GeneratedLabel": "जनरेट किया गया",
+      "LOIGeneratProgress": "आशयपत्र (LOI) तैयार हो रहा है।",
+      "LOIGenerated": "आशयपत्र (LOI) तैयार हो गया है।",
+      "DownloadLOI": "एलओआई डाउनलोड करें",
+      "EditPreferences": "चयन सुधारें",
+      "MakePayment": "भुगतान करें",
+      "PayAmount": "बुकिंग राशि का भुगतान करें",
+      "Close": "बंद करना"
+    },
+    "emailUpdate": {
+      "emailInputLabel": "नया ईमेल एड्रेस",
+      "cnfemailInputLabel": "ईमेल एड्रेस की पुष्टि करें",
+      "cnfemailPlaceholder": "ईमेल एड्रेस की पुष्टि करें",
+      "emailErrors": {
+        "limitation": "कृपया वैध ईमेल आयडी दर्ज करें",
+        "required": "वैध ईमेल आयडी आवश्यक है"
+      }
+    },
+    "AllotmentLetter": {
+      "tittle": "आवंटन पत्र और किश्तें ",
+      "AllotmentLetter": "आवंटन पत्र",
+      "AllotmentDesc": "आपका आवंटन पत्र तैयार हो रहा है।"
+    },
+    "edit": "सुधारें",
+    "ReUpload": "पुन: अपलोड",
+    "BookedLabel": "बुक किया",
+    "ApplNoLbl": "आवेदन क्रमांक",
+    "ReceivedLabel": "प्राप्त",
+    "GeneratedLabel": "जनरेट किया गया",
+    "NotOpted": "नहीं चुना गया",
+    "inProgressLabel": "प्रगति में",
+    "bookingMsg": "यदि बुकिंग राशि का भुगतान पहले नहीं किया गया है",
+    "bookingMsg1": "अवरुद्ध फ्लैट अन्य ग्राहकों के लिए जारी किया जाएगा।",
+    "timeValidTxt1": "से पहले बुकिंग राशि का भुगतान नहीं करने पर आप के द्वारा चयनित फ्लैट अन्य लोगों के लिए उपलब्ध कर दिया जाएगा।",
+    "timeValidTxt2": ""
+  }
+}

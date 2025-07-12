@@ -1,0 +1,65 @@
+﻿{
+  "managerDashboard": {
+    "title": "प्रबंधक डैशबोर्ड",
+    "subTitle": "सभी एजेंटों का उपनाम ",
+    "activeSchemeTxt": "सक्रिय योजना"
+  },
+  "toggleButtonGroup": {
+    "button1": "सभी",
+    "button2": "अंतिम सप्ताह",
+    "button3": "अंतिम २ सप्ताह",
+    "button4": "अंतिम महीना",
+    "button5": "इस वर्ष"
+  },
+  "filterByDateTxt": "तिथि के अनुसार फ़िल्टर करें",
+  "appCardGroup": {
+    "card1": "कुल आवेदन",
+    "card2": "कुल जमा",
+    "card3": "कुल आय",
+    "viewDetailsBtnTxt": "विवरण देखें",
+    "showMoreBtnTxt": "अधिक दिखाएँ",
+    "popover": {
+      "title": "प्रस्तुत आवेदन"
+    }
+  },
+  "reservationCountCard": {
+    "title": "आरक्षण गणना",
+    "subTitle": "परियोजना वार आरक्षण स्थिति"
+  },
+  "comparitiveAnalysisCard": {
+    "title": "तुलनात्मक विश्लेषण",
+    "subTitle": "प्रदर्शन लक्ष्यों का अनुमान लगाना",
+    "searchInputPlaceholder": "कर्मचारी खोजें",
+    "toggleButtonGroup": {
+      "button1": "सभी",
+      "button2": "पिछले सप्ताह",
+      "button3": "पिछले २ सप्ताह",
+      "button4": "अंतिम माह",
+      "button5": "इस वर्ष"
+    },
+    "tableHead": {
+      "head1": "एजेंट का नाम",
+      "head2": "कुल आँकड़े",
+      "head3": "कुल पूर्ण",
+      "head4": "समग्र सफलता दर",
+      "head5": "कुल कमाई"
+    },
+    "overallStatusLabels": {
+      "label1": "लीड",
+      "label2": "पूर्ण",
+      "label3": "प्रगति में"
+    }
+  },
+  "earningsSummaryPage": {
+    "title": "आय सारांश",
+    "subTitle": "प्रत्येक कर्मचारी योगदान को देखने के लिए मूल्य सीमा निर्धारित करें।",
+    "searchInputPlaceholder": "परियोजना के नाम से खोजें",
+    "totalEarningsLabel": "कुल कमाई",
+    "totalAgentsLabel": "कुल एजेंट",
+    "listView": {
+      "filterText": "कमाई में योगदान देने वाले कर्मचारियों को दिखा रहा है",
+      "filterRsText": "रु।",
+      "applicationsText": "आवेदन"
+    }
+  }
+}

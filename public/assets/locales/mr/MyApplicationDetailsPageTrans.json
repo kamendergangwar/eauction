@@ -1,0 +1,151 @@
+{
+    "applicationDetails": {
+        "title": "माझा अर्ज ",
+        "formControl": {
+            "applicationNoLabel": "अर्ज क्रमांक",
+            "appliedDateLabel": "अर्ज केल्याची तारीख",
+            "statusLabel": "स्थिती",
+            "downloadButtonText": "डाउनलोड करा"
+        }
+    },
+    "applicantDetails": {
+        "title": "अर्जदाराचे वैयक्तिक तपशील",
+        "editButtonText": "तपशील  संपादित करा",
+        "editProfileButtonText": "प्रोफाईल चित्र बदला",
+        "formControl": {
+            "fullNameLabel": "संपूर्ण नाव",
+            "maritalStatusLabel": "वैवाहिक स्थिती",
+            "genderLabel": "लिंग",
+            "dateOfBirthLabel": "जन्म तारीख"
+        }
+    },
+    "applicantKycDetails": {
+        "title": "अर्जदाराचे केवायसी तपशील",
+        "formControl": {
+            "aadhaarNumberLabel": "आधार क्रमांक",
+            "aadhaarVerifiedText": "आधारची खात्री",
+            "panNumberLabel": "पॅन क्रमांक",
+            "panVerifiedText": "पॅनची खात्री",
+            "bankNameLabel": "बँकेचे नाव",
+            "branchNameLabel": "शाखेचे नाव",
+            "bankAccountNumberLabel": "बँक खाते क्रमांक",
+            "micrNumberLabel": "MICR नंबर",
+            "ifscCodeLabel": "IFSC कोड",
+            "bankDetailsLabel": "बँक तपशील ",
+            "fileSizeLabel": "आकार",
+            "cancelledCheque": "रद्द किया गया चेक"
+        }
+    },
+    "contactDetails": {
+        "title": "संपर्कासाठी माहिती",
+        "editButtonText": "तपशील  संपादित करा",
+        "formControl": {
+            "mobileNoLabel": "मोबाईल नंबर",
+            "emailAddLabel": "ई-मेल",
+            "whatsAppNoLabel": "व्हॉट्सअ‍ॅप नंबर"
+        }
+    },
+    "addressDetails": {
+        "title": "पत्ता",
+        "editButtonText": "तपशील  संपादित करा",
+        "formControl": {
+            "addressLabel": "पत्ता",
+            "mobileNumberLabel": "मोबाईल नंबर",
+            "cityLabel": "शहर",
+            "stateLabel": "राज्य",
+            "districtLabel": "जिल्हा",
+            "postalCodeLabel": "पिन कोड"
+        }
+    },
+    "categoryDetails": {
+        "title": "श्रेणी तपशील",
+        "editButtonText": "तपशील  संपादित करा",
+        "formControl": {
+            "castCategoryLabel": "प्रवर्ग श्रेणी",
+            "reservationCategoryLabel": "आरक्षण श्रेणी"
+        }
+    },
+    "incomeDetails": {
+        "title": "उत्पन्नाचा तपशील",
+        "editButtonText": "तपशील  संपादित करा",
+        "formControl": {
+            "occupationLabel": "व्यवसाय",
+            "employmentStatusLabel": "रोजगार स्थिती ",
+            "averageMonthlyFamilyIncomeLabel": "सरासरी मासिक कौटुंबिक उत्पन्न",
+            "incomeGroupLabel": "उत्पन्न गट",
+            "employmentStatusLabel0": "पगारदार",
+            "employmentStatusLabel1": "दैनिक वेतन",
+            "employmentStatusLabel2": "श्रम",
+            "employmentStatusLabel3": "स्वयंरोजगार",
+            "employmentStatusLabel4": "इतर"
+        }
+    },
+    "myDocumentsDetails": {
+        "title": "माझे दस्तऐवज"
+    },
+    "coApplicantDetails": {
+        "title": "सह-अर्जदार तपशील",
+        "editButtonText": "तपशील  संपादित करा",
+        "formControl": {
+            "fullNameLabel": "संपूर्ण नाव",
+            "dateOfBirthLabel": "जन्म तारीख",
+            "genderLabel": "लिंग",
+            "relationshipLabel": "नाते"
+        }
+    },
+    "coApplicantsKycDetails": {
+        "title": "सह-अर्जदाराचे केवायसी तपशील",
+        "formControl": {
+            "aadhaarNumberLabel": "आधार क्रमांक",
+            "aadhaarVerifiedText": "आधारची खात्री",
+            "panNumberLabel": "पॅन क्रमांक",
+            "panVerifiedText": "पॅनची खात्री"
+        }
+    },
+    "coApplicantsAddressDetails": {
+        "title": "सह-अर्जदाराचा पत्ता",
+        "formControl": {
+            "addressLine1Label": "पत्ता: पहिली ओळ ",
+            "sameAsApplicantText": "अर्जदारासारखेच",
+            "addressLine2Label": "पत्ता: दुसरी ओळ",
+            "postalCodeLabel": "पिन कोड",
+            "stateLabel": "राज्य",
+            "cityTownLabel": "शहर/नगर",
+            "mobileNumberLabel": "मोबाईल नंबर",
+            "emailAddressLabel": "ई-मेल",
+            "districtLabel": "जिल्हा"
+        }
+    },
+    "selectedProjects": {
+        "title": "निवडलेला प्रकल्प",
+        "editButtonText": "तपशील  संपादित करा",
+        "projectCard": {
+            "kTxt": "K",
+            "lackTxt": "लाख",
+            "crkTxt": "Cr",
+            "typeLabel": "प्रकार",
+            "bhkText": "बीएचके",
+            "carpetAreaLabel": "कारपेट एरिया",
+            "sqmtText": "चौ.मी"
+        }
+    },
+    "sourceInformationList": {
+        "label1": "वृत्तपत्र",
+        "label2": "रेडिओ",
+        "label3": "दूरदर्शन",
+        "label4": "बाहेरील होर्डिंग",
+        "label5": "NMMT बस",
+        "label6": "ST बस",
+        "label7": "सामाजिक माध्यमे",
+        "label8": "डिजिटल गुगल",
+        "label10": "नातेवाईक",
+        "label9": "टोल फ्री क्रमांक"
+    },
+    "sourceOfInfoQuestion": "तुम्हाला सिडकोच्या घरांची माहिती कशी मिळाली?",
+    "sourceOfInfoLabel": "माहितीचा स्रोत",
+    "termsAndConditionsText1": "या बॉक्समध्ये खूण करून सिडकोने ठेवलेल्या",
+    "termsAndConditionsText2": "नियम आणि अटींशी",
+    "termsAndConditionsText3": "तुम्ही सहमत आहात.",
+    "confirmAppBtnText": "अर्जाची पुष्टी करा",
+    "termsAndCondiErrorMessage": "अटी आणि शर्ती स्वीकारणे आवश्यक आहे."
+}

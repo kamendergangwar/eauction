@@ -1,0 +1,57 @@
+{
+  "importantDates": {
+    "title": "IMPORTANT DATES"
+  },
+  "topNews": {
+    "title": "TOP NEWS",
+    "readMore": "Read More"
+  },
+  "notifications": {
+    "title": "NOTIFICATIONS",
+    "noData": "No notifications yet. When you get notifications, they will show up here"
+  },
+  "agentBrowseProjects": {
+    "title": "Browse Projects",
+    "firstLineErrorMsg": "You haven’t applied for any projects yet.",
+    "secondLineErrorMsg": "Start by filling the application form today",
+    "actionButtonText": "View Projects",
+    "filterSection": {
+      "bhkText": "BHK",
+      "locationLabel": "Location",
+      "subLocationLabel": "Sub Location",
+      "projectTypeLabel": "Project Type",
+      "priceRangeLabel": "Price Range",
+      "priceRangeOptions": {
+        "price1": "10-20 Lakh",
+        "price2": "20-30 Lakh",
+        "price3": "30-40 Lakh",
+        "price4": "40-50 Lakh"
+      }
+    },
+    "viewMoreDetailsBtnTxt": "View More Details"
+  },
+  "projectForm": {
+    "title": "Selected Projects",
+    "deSelectButtonText": "DESELECT PROJECT",
+    "selectButtonText": "SELECT PROJECT",
+    "moreDetailButtonText": "VIEW MORE DETAILS",
+    "lessDetailButtonText": "VIEW LESS DETAILS",
+    "bhkText": "BHK",
+    "sqftText": "Sqft",
+    "projectTable": {
+      "tableTh0": "Overview",
+      "tableTh1": "Locations",
+      "tableTh2": "Photo",
+      "tableTh3": "Amenities",
+      "tableTh4": "Floor Plan"
+    },
+    "overviewTable": {
+      "tableTh0": "Brokerage",
+      "tableTh1": "Price",
+      "tableTh2": "Carpet area",
+      "tableTh3": "Bedrooms",
+      "tableTh4": "Parking",
+      "tableTh5": "Balcony"
+    }
+  }
+}

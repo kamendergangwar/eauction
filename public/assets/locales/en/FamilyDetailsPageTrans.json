@@ -1,0 +1,113 @@
+{
+  "addFamilyDetailForm": {
+    "title": "Add Family Members",
+    "isMarriedText": "Note: Enter your spouse details",
+    "familyTable": {
+      "tableTh": "Joint Ownership",
+      "tableTh1": "Family Member Name",
+      "tableTh2": "Age",
+      "tableTh3": "Gender",
+      "tableTh4": "Relationship",
+      "tableTh5": "Aadhaar Number",
+      "tableTh6": "Mobile Number",
+      "tableTh7": "Photo"
+    },
+    "buttonText": "Add Family Member",
+    "familyMemberForm": {
+      "formControl": {
+        "photoMessage": "The photograph should be in colour and of the size 2 inch x 2 inch. Any jpeg or png is allowed",
+        "photoErrors": {
+          "required": "Applicant Photo is required",
+          "limitation": "Please enter a correct size file"
+        },
+        "editButtonText": "Edit Picture",
+        "nameLabel": "Enter name",
+        "namePlaceholder": "Family member's full name",
+        "nameErrors": {
+          "required": "Member name is required",
+          "limitation": "Please enter a valid member Name"
+        },
+        "memberAgeInputLabel": "Enter Age",
+        "memberAgePlaceholder": "Enter family member's age",
+        "memberAgeErrors": {
+          "required": "Age is required",
+          "limitation": "Please enter a valid age"
+        },
+        "gender": {
+          "genderLabel": "Gender",
+          "options": {
+            "male": "Male",
+            "female": "Female",
+            "other": "Other"
+          },
+          "genderErrors": {
+            "required": "Gender is required"
+          }
+        },
+        "relationship": {
+          "relationshipLabel": "Relationship",
+          "options": {
+            "spouse": "Spouse",
+            "son": "Son",
+            "daughter": "Daughter",
+            "father": "Father",
+            "mother": "Mother",
+            "sister": "Sister",
+            "brother": "Brother",
+            "grandFather": "Grandfather",
+            "grandMother": "Grandmother",
+            "grandSon": "Grandson",
+            "grandDaughter": "Granddaughter"
+          },
+          "relationshipErrors": {
+            "required": "Please select relationship"
+          }
+        },
+        "mobileNumberInputLabel": "Mobile Number",
+        "mobileNumberPlaceholder": "Enter mobile number",
+        "mobileNumberErrors": {
+          "required": "Mobile number is required",
+          "limitation": "Please enter a valid mobile number"
+        },
+        "aadhaarNumberInputLabel": "Aadhaar number",
+        "aadhaarNumberPlaceholder": "Enter aadhaar number",
+        "aadhaarNumberErrors": {
+          "required": "Aadhaar number is required",
+          "limitation": "Please enter a valid aadhaar number"
+        },
+
+        "addressInputLabel": "Address",
+        "addressPlaceholder": "Enter Address",
+        "addressErrors": {
+          "required": "Address is required"
+        },
+        "emailAddressInputLabel": "Email Address",
+        "emailAddressPlaceholder": "Complete Email Address",
+        "panNumberInputLabel": "PAN Number",
+        "panNumberPlaceholder": "Enter PAN Number",
+        "panNumberErrors": {
+          "required": "PAN number is required",
+          "limitation": "Please enter proper PAN number"
+        },
+        "dateOfBirthInputLabel": "Date Of Birth",
+        "dateOfBirthErrors": {
+          "required": "Date Of Birth is required"
+        },
+        "jointOwnerMessage": "Is this member a joint owner ?",
+        "checkBoxYesLabel": "Yes",
+        "checkBoxNoLabel": "No",
+        "cancelButtonText": "CANCEL",
+        "saveFamilyButtonText": "SAVE"
+      }
+    },
+    "memberDetelePopup": {
+      "title": "Are you sure you want to remove this family member?",
+      "description": "Once removed you will have to re-enter all details to add member again",
+      "cancelButton": "No",
+      "confirmButton": "Yes"
+    },
+    "completeLaterButtonText": "COMPLETE LATER",
+    "backButtonText": "BACK",
+    "saveButtonText": "Save and NEXT"
+  }
+}

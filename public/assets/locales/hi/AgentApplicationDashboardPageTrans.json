@@ -1,0 +1,33 @@
+﻿{
+  "tabs": {
+    "item1": "सभी आवेदन",
+    "item2": "प्रगति में",
+    "item3": "पूर्ण",
+    "item4": "अस्वीकृत"
+  },
+  "filterSection": {
+    "filterTitle": "इसके द्वारा फ़िल्टर करें",
+    "searchLabel": "आवेदक खोजें",
+    "categoryLabel": "श्रेणी",
+    "projectLabel": "परियोजना",
+    "statusLabel": "स्थिति",
+    "filterBtnText": "लागू करें",
+    "clearBtnText": "फ़िल्टर क्लिअर करें"
+  },
+  "cardViewLabels": {
+    "apnNoLabel": "एपीएन संख्या",
+    "aadhaarLabel": "आधार",
+    "projectLabel": "परियोजना",
+    "categoryLabel": "श्रेणी",
+    "inProgresslabel": "प्रगति में",
+    "progressStatusText": {
+      "step1": "व्यक्तिगत जानकारी",
+      "step2": "श्रेणी विवरण",
+      "step3": "KYC दस्तावेज अपलोड करें",
+      "step4": "भुगतान करें"
+    }
+  },
+  "firstLineErrorMsg": "आपने अभी तक किसी भी प्रोजेक्ट के लिए आवेदन नहीं किया है।",
+  "secondLineErrorMsg": "आज ही आवेदन पत्र भरकर शुरू करें",
+  "actionButtonText": "प्रोजेक्ट देखें"
+}

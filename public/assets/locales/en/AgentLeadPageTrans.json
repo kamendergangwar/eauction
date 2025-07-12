@@ -1,0 +1,26 @@
+{
+  "pageTitle": "upload Leads",
+  "uploadCardSection": {
+    "supportTxt": "Support",
+    "sampleTxt": "Sample",
+    "browseTxt": "browse",
+    "submitTxt": "Submit"
+  },
+  "detailCardSection": {
+    "totalTxt": "Total Leads",
+    "viewDetailsBtnTxt": "View Details",
+    "summaryTxt": "Summary of Categories",
+    "leadsTxt" : "Leads"
+  },
+  "filterSection":{
+    "filterTitle": "Filter by",
+    "searchLabel": "Search Client",
+    "categoryLabel": "Category",
+    "projectLabel": "Project",
+    "sortLabel": "Sort By",
+    "filterBtnText": "Apply",
+    "clearBtnText": "Clear",
+    "ascTxt": "Ascending",
+    "dscTxt" : "Descending"
+  }
+}

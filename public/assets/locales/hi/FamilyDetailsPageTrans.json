@@ -1,0 +1,113 @@
+﻿{
+  "addFamilyDetailForm": {
+    "title": "परिवार के सदस्यों को जोड़ें",
+    "isMarriedText": "कृपया अपने जीवनसाथी का विवरण दर्ज करें",
+    "familyTable": {
+      "tableTh": "संयुक्त स्वामित्व",
+      "tableTh1": "परिवार के सदस्य का नाम",
+      "tableTh2": "उम्र",
+      "tableTh3": "लिंग",
+      "tableTh4": "रिश्ता",
+      "tableTh5": "आधार नंबर",
+      "tableTh6": "मोबाइल नंबर",
+      "tableTh7": "तस्वीर"
+    },
+    "buttonText": "परिवार के सदस्य को जोड़ें",
+    "familyMemberForm": {
+      "formControl": {
+        "photoMessage": "फोटोग्राफ रंगीन और 2 इंच x 2 इंच के आकार का होना चाहिए। किसी भी जेपीईजी या पीएनजी की अनुमति है",
+        "photoErrors": {
+          "required": "आवेदक फोटो आवश्यक है",
+          "limitation": "कृपया सही आकार की फ़ाइल दर्ज करें"
+        },
+        "editButtonText": "चित्र संपादित करें",
+        "nameLabel": "नाम दर्ज करें",
+        "namePlaceholder": "परिवार के सदस्य का पूरा नाम दर्ज करें",
+        "nameErrors": {
+          "required": "सदस्य का नाम आवश्यक है",
+          "limitation": "कृपया एक मान्य सदस्य का नाम दर्ज करें"
+        },
+        "memberAgeInputLabel": "आयु दर्ज करें",
+        "memberAgePlaceholder": "परिवार के सदस्य की उम्र दर्ज करें",
+        "memberAgeErrors": {
+          "required": "उम्र ज़रूरी है",
+          "limitation": "कृपया एक मान्य आयु दर्ज करें"
+        },
+        "gender": {
+          "genderLabel": "लिंग",
+          "options": {
+            "male": "पुरुष",
+            "female": "महिला",
+            "other": "अन्य"
+          },
+          "genderErrors": {
+            "required": "लिंग आवश्यक है"
+          }
+        },
+        "relationship": {
+          "relationshipLabel": "रिश्ता",
+          "options": {
+            "spouse": "पति / पत्नी",
+            "son": "बेटा",
+            "daughter": "बेटी",
+            "father": "पिता",
+            "mother": "माँ",
+            "sister": "बहन",
+            "brother": "भाई",
+            "grandFather": "दादा",
+            "grandMother": "दादी",
+            "grandSon": "पोता",
+            "grandDaughter": "पोती"
+          },
+          "relationshipErrors": {
+            "required": "कृपया संबंध चुनें"
+          }
+        },
+        "mobileNumberInputLabel": "मोबाइल नंबर",
+        "mobileNumberPlaceholder": "मोबाइल नंबर दर्ज करें",
+        "mobileNumberErrors": {
+          "required": "मोबाइल नंबर चाहिए",
+          "limitation": "कृपया एक मान्य मोबाइल नंबर दर्ज करें"
+        },
+        "aadhaarNumberInputLabel": "आधार नंबर",
+        "aadhaarNumberPlaceholder": "आधार नंबर दर्ज करें",
+        "aadhaarNumberErrors": {
+          "required": "आधार नंबर जरूरी है",
+          "limitation": "कृपया एक मान्य आधार नंबर दर्ज करें"
+        },
+
+        "addressInputLabel": "पता",
+        "addressPlaceholder": "पता दर्ज करें",
+        "addressErrors": {
+          "required": "पता आवश्यक है"
+        },
+        "emailAddressInputLabel": "ईमेल पता",
+        "emailAddressPlaceholder": "पूर्ण ईमेल पता",
+        "panNumberInputLabel": "पैन नंबर",
+        "panNumberPlaceholder": "पैन नंबर दर्ज करें",
+        "panNumberErrors": {
+          "required": "पैन नंबर आवश्यक है",
+          "limitation": "कृपया उचित पैन नंबर दर्ज करें"
+        },
+        "dateOfBirthInputLabel": "जन्म तिथि",
+        "dateOfBirthErrors": {
+          "required": "जन्म तिथि आवश्यक है"
+        },
+        "jointOwnerMessage": "क्या यह सदस्य संयुक्त स्वामी है ?",
+        "checkBoxYesLabel": "हाँ",
+        "checkBoxNoLabel": "नहीं",
+        "cancelButtonText": "रद्द करना",
+        "saveFamilyButtonText": "सहेजें"
+      }
+    },
+    "memberDetelePopup": {
+      "title": "क्या आप वाकई परिवार के इस सदस्य को हटाना चाहते हैं?",
+      "description": "एक बार हटाए जाने के बाद आपको फिर से सदस्य जोड़ने के लिए सभी विवरण फिर से दर्ज करने होंगे",
+      "cancelButton": "नहीं ",
+      "confirmButton": "हाँ "
+    },
+    "completeLaterButtonText": "बाद में पूरा करें",
+    "backButtonText": "पीछे",
+    "saveButtonText": "सहेजें और अगला"
+  }
+}

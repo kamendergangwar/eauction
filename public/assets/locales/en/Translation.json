@@ -1,0 +1,87 @@
+
+{
+  "greeting": "Hello everyone",
+  "headerSection": {
+    "rightSideMenuTitle": "My Account",
+    "timeValidTxt1": "Please pay Booking amount by",
+    "timeValidTxt2": "TIME OUT - Please Select Flat Again.",
+    "timeValidTxt3": "Flat Booking Attempt Remaining - ",
+    "timeValidTxt4": "Flat Booking Cancelled Automatically, After End of Timer",
+    "dayTxt": "Days",
+    "hrTxt": "Hr",
+    "minTxt": "Min",
+    "secTxt": "Sec",
+    "profileMenu": {
+      "dashboard": "Dashboard",
+      "profile": "My Profile",
+      "application": "My Application",
+      "personalDetails": "Personal details",
+      "grievance": "Grievance",
+      "transactionDetails": "Transaction Details",
+      "myDocuments": "My Documents",
+      "languageSetting": "Language Setting",
+      "logout": "Logout"
+    },
+    "support": "Helpdesk",
+    "helpDeskDropDown": {
+      "title": "How Can we Help You?",
+      "globSearchInputPlaceholder": "Search a Question",
+      "helpButtonText1": "(FAQ) Frequently Asked Questions",
+      "helpButtonText1Mobile": "FAQ",
+      "helpButtonText2": "Chat with us on whatsapp",
+      "helpButtonText3": "Video Tutorial/help",
+      "helpButtonText4": "Download User Manual",
+      "helpButtonText5": "Terms & Privacy Policy",
+      "querryCallUsText": "For any Querry Call us on",
+      "callUsTimingTxt" : "(Timing: 8 AM to 10 PM)"
+    },
+    "ribbion":{
+      "banner": "**** Lottery for PMAY Scheme",
+      "banner1":"is now closed **** To know more Visit https://cidcohomes.com",
+      "tittle": "Registration Closed."
+    }
+
+  },
+  "faqSection": {
+    "title": "FAQ (Frequently Asked Questions)",
+    "searchInputPlaceholder": "Search a Question"
+  },
+  "videoTutorialSection": {
+    "title": "Video Tutorial/help",
+    "searchInputPlaceholder": "Search"
+  },
+  "termsAndPpSection": {
+    "title": "Terms & Privacy Policy",
+    "tabs": {
+      "tab1": "Basic Terms",
+      "tab2": "Project Fee (all about EMD)",
+      "tab3": "Refund Policy",
+      "tab4": "Data Security",
+      "tab5": "Payment Settings & Security",
+      "tab6": "Legal Policies",
+      "tab7": "Site Features"
+    }
+  },
+  "mainStepperSection": {
+    "step1": "Personal Details",
+    "step2": "Select Category",
+    "step3": "Document Declaration",
+    "step4": "Make Payment"
+  },
+  "subStepperSection": {
+    "step1": "Verify Aadhaar",
+    "step2": "Verify PAN",
+    "step3": "Bank Detail",
+    "step4":"Verify GST"
+  },
+  "photoImageDialog": {
+    "title": "Add Photo",
+    "description": "The photograph should be in colour and of the size of 2 inch x 2 inch. This will be used to identify you at the CFC centre. Any jpeg or png is allowed.",
+    "cropButton": "Done",
+    "chooseFileButton": "REPLACE IMAGE",
+    "fileErrors": {
+      "fileFormatError": "file format not valid",
+      "fileSizeError": "file size should be between 50Kb to 2MB"
+    }
+  }
+}

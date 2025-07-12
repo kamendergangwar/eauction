@@ -1,0 +1,151 @@
+﻿{
+    "applicationDetails": {
+        "title": "मेरा आवेदन ",
+        "formControl": {
+            "applicationNoLabel": "आवेदन नंबर ",
+            "appliedDateLabel": "आवेदन की तारीख",
+            "statusLabel": "स्थिति",
+            "downloadButtonText": "डाउनलोड करें"
+        }
+    },
+    "applicantDetails": {
+        "title": "आवेदक की व्यक्तिगत जानकारी",
+        "editButtonText": "विवरण सुधारें",
+        "editProfileButtonText": "प्रोफ़ाइल चित्र बदलें",
+        "formControl": {
+            "fullNameLabel": "पूरा नाम",
+            "maritalStatusLabel": "वैवाहिक स्थिति",
+            "genderLabel": "लिंग",
+            "dateOfBirthLabel": "जन्म की तारीख"
+        }
+    },
+    "applicantKycDetails": {
+        "title": "आवेदक का केवाईसी विवरण",
+        "formControl": {
+            "aadhaarNumberLabel": "आधार नंबर",
+            "aadhaarVerifiedText": "आधार सुनिश्चित",
+            "panNumberLabel": "पॅन नंबर",
+            "panVerifiedText": "पॅन सुनिश्चित",
+            "bankNameLabel": "बैंक का नाम",
+            "branchNameLabel": "शाखा का नाम",
+            "bankAccountNumberLabel": "बँक खाता नंबर",
+            "micrNumberLabel": "MICR नंबर",
+            "ifscCodeLabel": "IFSC कोड",
+            "bankDetailsLabel": "बैंक डिटेल्स",
+            "fileSizeLabel": "आकार",
+            "cancelledCheque": "रद्द केलेला चेक"
+        }
+    },
+    "contactDetails": {
+        "title": "संपर्क करने की जानकारी",
+        "editButtonText": "विवरण सुधारें",
+        "formControl": {
+            "mobileNoLabel": "मोबाइल नंबर",
+            "emailAddLabel": "ई-मेल",
+            "whatsAppNoLabel": "व्हॉट्सअ‍ॅप नंबर"
+        }
+    },
+    "addressDetails": {
+        "title": "पता",
+        "editButtonText": "विवरण सुधारें",
+        "formControl": {
+            "addressLabel": "पता",
+            "mobileNumberLabel": "मोबाइल नंबर",
+            "cityLabel": "शहर ",
+            "stateLabel": "राज्य",
+            "districtLabel": "जिला",
+            "postalCodeLabel": "पिन कोड"
+        }
+    },
+    "categoryDetails": {
+        "title": "श्रेणी विवरण",
+        "editButtonText": "विवरण सुधारें",
+        "formControl": {
+            "castCategoryLabel": "जाति श्रेणी",
+            "reservationCategoryLabel": "आरक्षण श्रेणी"
+        }
+    },
+    "incomeDetails": {
+        "title": "आय की जानकारी",
+        "editButtonText": "विवरण सुधारें",
+        "formControl": {
+            "occupationLabel": "व्यापार",
+            "employmentStatusLabel": "रोज़गार की स्थिति",
+            "averageMonthlyFamilyIncomeLabel": "औसत मासिक पारिवारिक वेतन",
+            "incomeGroupLabel": "वेतन समूह",
+            "employmentStatusLabel0": "नौकरी",
+            "employmentStatusLabel1": "दैनिक वेतन",
+            "employmentStatusLabel2": "श्रम",
+            "employmentStatusLabel3": "स्वयंरोजगार",
+            "employmentStatusLabel4": "अन्य"
+        }
+    },
+    "myDocumentsDetails": {
+        "title": "मेरे दस्तावेज़"
+    },
+    "coApplicantDetails": {
+        "title": "सह-आवेदक विवरण",
+        "editButtonText": "विवरण सुधारें",
+        "formControl": {
+            "fullNameLabel": "पूरा नाम",
+            "dateOfBirthLabel": "जन्म की तारीख",
+            "genderLabel": "लिंग",
+            "relationshipLabel": "नाता"
+        }
+    },
+    "coApplicantsKycDetails": {
+        "title": "सह-आवेदक का केवाईसी विवरण",
+        "formControl": {
+            "aadhaarNumberLabel": "आधार नंबर",
+            "aadhaarVerifiedText": "आधार सुनिश्चित",
+            "panNumberLabel": "पॅन नंबर",
+            "panVerifiedText": "पॅन सुनिश्चित"
+        }
+    },
+    "coApplicantsAddressDetails": {
+        "title": "सह-आवेदक का पता",
+        "formControl": {
+            "addressLine1Label": "पता: पहली पंक्ति",
+            "sameAsApplicantText": "आवेदक के समान",
+            "addressLine2Label": "पता: दुसरी पंक्ति",
+            "postalCodeLabel": "पिन कोड",
+            "stateLabel": "राज्य",
+            "cityTownLabel": "शहर",
+            "mobileNumberLabel": "मोबाइल नंबर",
+            "emailAddressLabel": "ई-मेल",
+            "districtLabel": "जिला"
+        }
+    },
+    "selectedProjects": {
+        "title": "चयनित परियोजना",
+        "editButtonText": "विवरण सुधारें",
+        "projectCard": {
+            "kTxt": "K",
+            "lackTxt": "लाख",
+            "crkTxt": "Cr",
+            "typeLabel": "प्रकार",
+            "bhkText": "बीएचके",
+            "carpetAreaLabel": "कारपेट एरिया",
+            "sqmtText": "वर्ग मीटर"
+        }
+    },
+    "sourceInformationList": {
+        "label1": "अखबार",
+        "label2": "रेडियो",
+        "label3": "टेलीविजन",
+        "label4": "मैदानी होर्डिंग",
+        "label5": "NMMT बस",
+        "label6": "ST बस",
+        "label7": "सामाजिक मीडिया",
+        "label8": "डिजिटल गूगल",
+        "label10": "रिश्तेदार",
+        "label9": "टोल फ्री नंबर"
+    },
+    "sourceOfInfoQuestion": "आपको सिडको के घरों के बारे में कैसे पता चला?",
+    "sourceOfInfoLabel": "सूचना का स्रोत",
+    "termsAndConditionsText1": "इस बॉक्स को चेक करके सिडको द्वारा रखें गये",
+    "termsAndConditionsText2": "नियम और शर्तों",
+    "termsAndConditionsText3": "से आप सहमत है।",
+    "confirmAppBtnText": "आवेदन की पुष्टि करें",
+    "termsAndCondiErrorMessage": "नियम और शर्तें स्वीकार करना आवश्यक है।"
+}
